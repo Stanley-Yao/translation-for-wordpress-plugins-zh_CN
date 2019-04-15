@@ -1,0 +1,479 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: Smart WooCommerce Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-11 19:29+0000\n"
+"PO-Revision-Date: 2019-04-15 21:56+0000\n"
+"Last-Translator: mediashaker <chao.yao@mediashaker.com>\n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "\"No Results\" text"
+msgstr "“没有结果”文字"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "\"View all\" Link Text"
+msgstr "“查看所有”文字"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "\"View all\" Link Text Background"
+msgstr "“查看所有”文字背景"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "\"View all\" Link Text Color"
+msgstr "“查看全部”链接文本颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "\"View all\" link text background in results popup"
+msgstr "结果弹窗中的“查看全部”链接文本背景"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "\"View all\" link text color in results popup"
+msgstr "结果弹窗中的“查看全部”链接文本颜色"
+
+#. Text in echo
+#: templates/admin-page-custom.php:25
+msgid "Add New"
+msgstr "新增"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Allowed Product Categories"
+msgstr "允许的产品类别"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Background Color"
+msgstr "背景颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:276 templates/admin-page-form.php:317
+msgid "Border Color"
+msgstr "边框颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:276
+msgid "Border Width, px"
+msgstr "边框宽度，px"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Character Amount"
+msgstr "字符数"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Content"
+msgstr "内容"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Default Output on Search Page"
+msgstr "搜索页面上的默认输出"
+
+#. Text in function
+#: templates/admin-page-default.php:1
+msgid "Default Search"
+msgstr "默认搜索"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Default Search Widget"
+msgstr "默认搜索小工具"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Display Excerpt"
+msgstr "显示摘要"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Display Image"
+msgstr "显示图像"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Display Price"
+msgstr "显示价格"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Display SKU"
+msgstr "显示SKU"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid ""
+"Display default search output on search results page.<br>By default the "
+"plugin modified search results according to selected options"
+msgstr "在搜索结果页面上显示默认搜索输出。<br>默认情况下，插件根据所选选项修改搜索结果"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Display excerpt in results output"
+msgstr "显示结果输出中的摘要"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Display featured image in results output"
+msgstr "在结果输出中显示特色图像"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Display product SKU"
+msgstr "显示产品SKU"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Display product price"
+msgstr "显示产品价格"
+
+#. Text in function
+#: templates/admin-page-form.php:276
+msgid "Display search field with rounded border"
+msgstr "显示圆角边框的搜索"
+
+#. Text in function
+#: inc/class-ysm-search-widget.php:1
+msgid "Displays search box"
+msgstr "显示搜索框"
+
+#. Text in function
+#: templates/admin-page-default.php:15
+msgid "Edit %s Widget"
+msgstr "编辑％s小工具"
+
+#. Text in function
+#: templates/admin-page-custom.php:17
+msgid "Edit Widget"
+msgstr "编辑小工具"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Enable Smart Search in Default Search Widget"
+msgstr "在默认搜索小工具中启用智能搜索"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Enable Smart Search in Product Search Widget"
+msgstr "在产品搜索小工具中启用智能搜索"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Enable search through \"%s\""
+msgstr "启用“％s”搜索"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Enable search through \"%s\" post type"
+msgstr "启用“％s”文章类型搜索"
+
+#. Text in echo
+#: templates/admin-page-form.php:35
+msgid "Enter name"
+msgstr "输入名字"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Excerpt"
+msgstr "摘要"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Excerpt Symbols Amount"
+msgstr "摘要符号数量"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Excerpt Text Color"
+msgstr "摘要文字颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Excerpt text color in results popup"
+msgstr "结果弹窗中的摘录文本颜色"
+
+#. Text in echo
+#: templates/admin-page-form.php:210
+msgid "Fields"
+msgstr "字段"
+
+#. Text in function
+#: templates/admin-page-form.php:1
+msgid "General"
+msgstr "通用"
+
+#. Text in echo
+#: templates/admin-page-custom.php:33
+msgid "ID"
+msgstr "ID"
+
+#. Text in function
+#: templates/admin-page-form.php:276
+msgid "Icon Color"
+msgstr "图标颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "If not empty displays a link at the bottom of results popup"
+msgstr "如果不为空，则在结果弹窗的底部显示一个链接"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "If not empty displays when any post match search query"
+msgstr "如果没有空显示任何帖子匹配搜索查询"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Image Size"
+msgstr "图片尺寸"
+
+#. Text in echo
+#: templates/admin-page-form.php:274
+msgid "Input Field"
+msgstr "输入字段"
+
+#. Text in function
+#: templates/admin-page-form.php:1
+msgid "Items to Search through"
+msgstr "要搜索的项目"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Maximal number of symbols in excerpt"
+msgstr "摘录中的最大符号数"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Maximum number of results"
+msgstr "最大结果数"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Minimum number of character"
+msgstr "最小字符数"
+
+#. Text in echo
+#: templates/admin-page-custom.php:34
+msgid "Name"
+msgstr "名称"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "No Results"
+msgstr "没有结果"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Placeholder"
+msgstr "占位符"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Placeholder in search input"
+msgstr "搜索输入中的占位符"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Popup background color"
+msgstr "弹窗背景颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Popup border color"
+msgstr "弹窗边框颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Post Category"
+msgstr "文章类型"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Post Tag"
+msgstr "文章标签"
+
+#. Text in echo
+#: templates/admin-page-form.php:181
+msgid "Post Types"
+msgstr "文章类型"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Price Color"
+msgstr "价格颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Price text color in results popup"
+msgstr "结果弹窗中的价格文本颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Product Category"
+msgstr "产品分类"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Product SKU"
+msgstr "产品SKU"
+
+#. Text in function
+#: templates/admin-page-default.php:1
+msgid "Product Search"
+msgstr "产品搜索"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Product Search Widget"
+msgstr "产品搜索小工具"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Product Tag"
+msgstr "产品标签"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid ""
+"Product categories ids separated by comma.<br>Restrict product searching by "
+"chosen product categories"
+msgstr "以逗号分隔的产品类别ID。<br>根据所选的产品类别限制产品搜索"
+
+#. Text in echo
+#: templates/admin-page-form.php:248
+msgid "Restrictions"
+msgstr "限制"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Results Listing Amount"
+msgstr "结果上市金额"
+
+#. Text in echo
+#: templates/admin-page-form.php:315
+msgid "Results Popup Elements"
+msgstr "结果弹窗元素"
+
+#. Text in function
+#: templates/admin-page-form.php:276
+msgid "Rounded border"
+msgstr "圆角边框"
+
+#. Text in echo
+#: templates/admin-page-form.php:388
+msgid "Save"
+msgstr "保存"
+
+#. Text in function
+#: templates/admin-page-form.php:276
+msgid "Search field border color"
+msgstr "搜索字段边框颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:276
+msgid "Search field border width in pixels"
+msgstr "搜索字段边框宽度，以像素为单位"
+
+#. Text in function
+#: templates/admin-page-form.php:276
+msgid "Search field icon color"
+msgstr "搜索字段图标颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:276
+msgid "Search field text color"
+msgstr "搜索字段文字颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Search in %s"
+msgstr "在%s中搜索"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Search results featured image size (px)"
+msgstr "搜索结果中精选图片大小（px）"
+
+#. Text in echo
+#: inc/class-ysm-search-widget.php:60
+msgid "Select Widget:"
+msgstr "选择小工具："
+
+#. Text in echo
+#: templates/admin-page-form.php:53
+msgid "Settings"
+msgstr "设置"
+
+#. Text in echo
+#: templates/admin-page-custom.php:35
+msgid "Shortcode"
+msgstr "短代码"
+
+#. Text in function
+#: inc/class-ysm-search-widget.php:1
+msgid "Smart Search"
+msgstr "智能搜索"
+
+#. Text in function
+#: templates/admin-page-form.php:1
+msgid "Styling"
+msgstr "样式"
+
+#. Text in function
+#: templates/admin-page-form.php:276
+msgid "Text Color"
+msgstr "文字颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Title"
+msgstr "标题"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Title Text Color"
+msgstr "标题文字颜色"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "Title text color in results popup"
+msgstr "结果弹出窗口中的标题文本颜色"
+
+#. Text in echo
+#: inc/class-ysm-search-widget.php:56
+msgid "Title:"
+msgstr "标题："
+
+#. Text in echo
+#: templates/admin-page-form.php:49
+msgid "Toggle panel: Settings"
+msgstr "切换面板：设置"
+
+#. Text in function
+#: templates/admin-page-form.php:317
+msgid "View all"
+msgstr "查看全部"
+
+#. Text in function
+#: inc/class-ysm-custom-widget-manager.php:1
+msgid "Your settings have been saved."
+msgstr "你的设置已保存。"
+
+#. Text in echo
+#: inc/class-ysm-custom-widget-manager.php:323
+msgid "placeholder"
+msgstr "占位符"
