@@ -1,0 +1,1230 @@
+# Copyright (C) 2017 ThemeFusion
+# This file is distributed under the same license as the Fusion White Label Branding package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fusion White Label Branding 1.1.3\n"
+"Report-Msgid-Bugs-To: https://theme-fusion.com/support/\n"
+"POT-Creation-Date: 2019-01-22 15:40:14+00:00\n"
+"PO-Revision-Date: 2019-02-21 16:20+0800\n"
+"Last-Translator: achair <achair@qq.com>\n"
+"Language-Team: achair教程网（www.xiaored.net）\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: fusion-white-label-branding.php:199 fusion-white-label-branding.php:200
+msgid "Fusion Patcher"
+msgstr "Fusion补丁"
+
+#. translators: URL
+#: inc/admin-screens/faq.php:16
+msgid ""
+"These are general Frequently Asked Questions to help you get started. For "
+"detailed documentation please <a href=\"%1$s\" target=\"_blank\">click here</"
+"a> or if you require support please visit our <a href=\"%2$s\" target="
+"\"_blank\">online support center</a>."
+msgstr ""
+"这些是常见的常见问题解答，可帮助您入门。有关详细文档，请<a href=\"%1$s\" "
+"target=\"_blank\">单击此处</a>或如果您需要支持，请访问我们的<a href=\"%2$s\" "
+"target=\"_blank\">在线支持中心</a> 。"
+
+#: inc/admin-screens/faq.php:21
+msgid "What Is The Fusion White Label Branding?"
+msgstr "什么是Fusion白标签品牌？"
+
+#. translators: %1$s: Avada, %2$s: Fusion Builder
+#: inc/admin-screens/faq.php:26
+msgid ""
+"Fusion White Label Branding is an add-on for %1$s that allows you to alter "
+"the default %1$s branding, WordPress menus, user access, %2$s settings and "
+"the default WordPress login screen, to make it your own."
+msgstr ""
+"Fusion White Label Branding是%1$s的附加组件，允许您更改默认的%1$s品牌，"
+"WordPress菜单，用户访问权限，%2$s设置和默认的WordPress登录屏幕，使其成为您自"
+"己的。"
+
+#: inc/admin-screens/faq.php:32
+msgid "How Do I Get Support For The Fusion White Label Branding?"
+msgstr "如何获得Fusion白标品牌的支持？"
+
+#. translators: %1$s: Avada, %2$s: URL, %3$s: _blank.
+#: inc/admin-screens/faq.php:37
+msgid ""
+"Fusion White Label Branding is an add-on that is purpose-built for the %1$s "
+"WordPress theme, version 5.4 and newer. For detailed documentation please <a "
+"href=\"%2$s\" target=\"%3$s\">click here</a> or if you require support "
+"please visit our online support center."
+msgstr ""
+"融合网建商标是句释平台的 5.4 以及之后版本的 %1$s 主题的扩展应用插件。  您可以"
+"在这里来查看详细的内容 <a href=\"%2$s\" target=\"%3$s\">请您单击这里</a> 或者"
+"访问我们的在线帮助中心来得到专业人员的帮助。"
+
+#: inc/admin-screens/faq.php:43
+msgid "Can I Use Fusion White Label Branding To Re-brand Other Themes?"
+msgstr "我可以使用Fusion白色标签品牌重新品牌其他主题？"
+
+#. translators: Avada
+#: inc/admin-screens/faq.php:48
+msgid ""
+"Unfortunately, that is not possible. The Fusion White Label Branding add-on "
+"is purpose-built for the %s WordPress theme only."
+msgstr ""
+"不幸的是，这是不可能的。 Fusion White Label Branding插件专为％s WordPress主题"
+"而设计。"
+
+#. translators: Avada
+#: inc/admin-screens/faq.php:55
+msgid ""
+"I Am Running An Old Version of %s, Can I Use The Fusion White Label Branding?"
+msgstr "我正在运行％s的旧版本，可以使用Fusion白标品牌？"
+
+#. translators: Avada
+#: inc/admin-screens/faq.php:60
+msgid ""
+"The Fusion White Label Branding add-on compatibility is %2$s guaranteed for "
+"%1$s 5.4 and newer only. Various facets of the add-on will not work as "
+"expected with older versions of %1$s."
+msgstr ""
+"Fusion白色标签品牌附加兼容性为%1$s 5.4和更新版本 只保证%2$s。 对于旧版本"
+"的%1$s，加载项的各个方面将无法按预期工作。"
+
+#. translators: URL
+#: inc/admin-screens/import-export.php:16
+msgid ""
+"Here, you can export your settings to a JSON file and can import them to "
+"another site. You can simply export the settings for individual sections or "
+"all sections at once. <a href=\"%s\" target=\"_blank\">Click here</a> to "
+"read the documentation about Fusion White Label Branding plugin."
+msgstr ""
+"在这里，您可以将设置导出到JSON文件，并可以将它们导入到其他站点。您只需一次导"
+"出单个部分或所有部分的设置即可。 <a href=\"%s\" target=\"_blank\">点击此处</"
+"a>阅读有关Fusion White Label Branding插件的文档。"
+
+#: inc/admin-screens/import-export.php:21
+#: inc/admin-screens/import-export.php:67
+msgid "Export Settings"
+msgstr "导出设置"
+
+#: inc/admin-screens/import-export.php:22
+msgid ""
+"Select individual sections to export settings for that section or select "
+"\"All\" to export all sections at once."
+msgstr "选择单个部分以导出该部分的设置，或选择“全部”以一次导出所有部分。"
+
+#: inc/admin-screens/import-export.php:27
+msgid "All Sections"
+msgstr "所有选项"
+
+#: inc/admin-screens/import-export.php:28 inc/fusion-branding-admin.php:1449
+msgid "WordPress Admin"
+msgstr "WordPress 管理员"
+
+#: inc/admin-screens/import-export.php:47 inc/fusion-branding-admin.php:1468
+msgid "WordPress Login Screen"
+msgstr "WordPress登录界面"
+
+#: inc/admin-screens/import-export.php:73
+#: inc/admin-screens/import-export.php:80
+msgid "Import Settings"
+msgstr "导入设置"
+
+#: inc/admin-screens/import-export.php:74
+msgid ""
+"Upload the exported settings file here and click the button to import the "
+"settings."
+msgstr "在此处上载导出的设置文件，然后单击按钮以导入设置。"
+
+#. translators: %1$s: Avada, %2$s: link, %3%s: link
+#: inc/admin-screens/support.php:18
+msgid ""
+"Fusion White Label Branding is bundled with %1$s and is therefore covered by "
+"the 6 months of free support for every theme license you purchase. Theme "
+"support can be <a %2$s>extended through subscriptions</a> via ThemeForest. "
+"All support for Fusion White Label Branding is handled via the the support "
+"center on our company site. To access it, you must first setup an account by "
+"<a %3$s>following these steps</a>. If you purchased using Envato's guest "
+"checkout <a href=\"%4$s\" target=\"_blank\">please view this link</a> to "
+"create an Envato account before receiving item support. Below are all the "
+"resources we offer in our support center and community."
+msgstr ""
+"Fusion白色标签品牌与%1$s捆绑在一起，因此为您购买的每个主题许可证提供6个月的免"
+"费支持。 主题支持可以通过ThemeForest <a%2$s>通过订阅</a>进行扩展。 所有对"
+"Fusion白标品牌的支持都是通过我们公司网站上的支持中心来处理的。 要访问它，您必"
+"须首先按照以下步骤通过<a%3$s> </a>设置帐户。 如果您使用Envato的客人结帐购买，"
+"请在收到物品支持之前查看此链接以创建Envato账户。 以下是我们在支持中心和社区提"
+"供的所有资源。"
+
+#: inc/admin-screens/support.php:19
+msgid "Create A Support Account"
+msgstr "创建一个支持帐户"
+
+#: inc/admin-screens/support.php:26 inc/admin-screens/support.php:28
+msgid "Submit A Ticket"
+msgstr "提交支持表单"
+
+#: inc/admin-screens/support.php:27
+msgid ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+msgstr ""
+"我们通过先进的工单系统提供卓越的支持。 确保首先注册您的购买以访问我们的支持服"
+"务和其他资源。"
+
+#: inc/admin-screens/support.php:31 inc/admin-screens/support.php:33
+msgid "Documentation"
+msgstr "文档"
+
+#: inc/admin-screens/support.php:32
+msgid ""
+"This is the place to go to reference different aspects of Fusion White Label "
+"Branding. Our online documentaiton is organized and provides the information "
+"to get you started."
+msgstr ""
+"这是参考Fusion 白色标签品牌不同方面的地方。 我们的在线文档是有组织的，并提供"
+"信息来帮助您入门。"
+
+#: inc/admin-screens/support.php:36 inc/admin-screens/support.php:38
+msgid "Knowledgebase"
+msgstr "知识库"
+
+#: inc/admin-screens/support.php:37
+msgid ""
+"Our knowledgebase contains additional content that is not inside of our "
+"documentation. This information is more specific and unique to various "
+"versions or aspects of Fusion White Label Branding."
+msgstr ""
+"我们的知识库包含不在我们文档中的其他内容。 此信息对Fusion 白标标签品牌的各个"
+"版本或方面而言更具体和独特。"
+
+#: inc/admin-screens/support.php:41
+msgid "Video Tutorials"
+msgstr "视频教程"
+
+#: inc/admin-screens/support.php:42
+msgid ""
+"Nothing is better than watching a video to learn. We have a growing library "
+"of high-definititon, narrated video tutorials to help teach you the "
+"different aspects of using Fusion White Label Branding."
+msgstr ""
+"没有什么比观看视频学习更好。 我们有一个不断增长的高清晰度视频教程库，可以帮助"
+"您了解使用Fusion 白标品牌的不同方面。"
+
+#: inc/admin-screens/support.php:43
+msgid "Watch Videos"
+msgstr "观看视频"
+
+#: inc/admin-screens/support.php:46 inc/admin-screens/support.php:48
+msgid "Community Forum"
+msgstr "社区论坛"
+
+#: inc/admin-screens/support.php:47
+msgid ""
+"We have a community forum for user to user interactions. Ask and share "
+"information with other Fusion White Label Branding users. Please note that "
+"ThemeFusion does not provide product support here."
+msgstr ""
+"我们有一个用户与用户交互的社区论坛。 与其他Fusion白标品牌用户询问并分享信"
+"息。 请注意，ThemeFusion在这里不提供产品支持。"
+
+#: inc/admin-screens/support.php:51 inc/admin-screens/support.php:53
+msgid "Facebook Group"
+msgstr "Facebook群组"
+
+#: inc/admin-screens/support.php:52
+msgid ""
+"There is a Facebook Group to help build a community of mutual users willing "
+"to help one another for Fusion White Label Branding! Come, share and help "
+"grow the community!"
+msgstr ""
+"有一个Facebook小组，帮助建立一个互惠互利的用户社区，他们愿意互相帮助Fusion白"
+"标品牌！ 来分享和帮助发展社区！"
+
+#: inc/fusion-branding-admin.php:148 inc/fusion-branding-admin.php:201
+#: inc/fusion-branding-admin.php:1432 inc/options/fusion-builder.php:48
+#: inc/options/wordpress-admin.php:105 inc/options/wordpress-admin.php:138
+msgid "Settings"
+msgstr "设置"
+
+#. Plugin Name of the plugin/theme
+msgid "Fusion White Label Branding"
+msgstr "Fusion 白标签品牌"
+
+#: inc/fusion-branding-admin.php:198
+msgid "Fusion Branding"
+msgstr "Fusion 品牌"
+
+#: inc/fusion-branding-admin.php:199 inc/fusion-branding-admin.php:1431
+#: inc/options/avada.php:79 inc/options/fusion-builder.php:46
+msgid "Support"
+msgstr "支持"
+
+#: inc/fusion-branding-admin.php:200 inc/fusion-branding-admin.php:1430
+#: inc/options/avada.php:80 inc/options/avada.php:141
+#: inc/options/fusion-builder.php:47
+msgid "FAQ"
+msgstr "FAQ"
+
+#: inc/fusion-branding-admin.php:201
+msgid "Branding Settings"
+msgstr "品牌设置"
+
+#: inc/fusion-branding-admin.php:202 inc/fusion-branding-admin.php:1433
+msgid "Import / Export"
+msgstr "导入／导出"
+
+#: inc/fusion-branding-admin.php:224 inc/fusion-branding-admin.php:1429
+#: inc/options/avada.php:77 inc/options/fusion-builder.php:45
+msgid "Welcome"
+msgstr "欢迎"
+
+#: inc/fusion-branding-admin.php:515
+msgid "Avada"
+msgstr "Avada"
+
+#: inc/fusion-branding-admin.php:625 inc/fusion-branding-admin.php:671
+#: inc/options/wordpress-admin.php:96 inc/options/wordpress-admin.php:129
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: inc/fusion-branding-admin.php:1397
+msgid ""
+"Thank you for choosing Fusion White Label Branding. We are honored and are "
+"fully dedicated to making your experience perfect."
+msgstr "感谢您选择Fusion白标品牌。 我们很荣幸，并致力于使您的完美体验。"
+
+#: inc/fusion-branding-admin.php:1412
+msgid "Welcome to Fusion White Label Branding!"
+msgstr "欢迎来到Fusion白标签品牌！"
+
+#. translators: Avada
+#: inc/fusion-branding-admin.php:1416
+msgid ""
+"Fusion White Label Branding is now installed and ready to use! You can brand "
+"%1$s and the constituent functionality with your own custom branding through "
+"easy to use options! Click on the settings tab to find out all you can do "
+"with this amazing Fusion White Label Branding plugin. Recommended "
+"compatibility is %1$s 5.4 and newer."
+msgstr ""
+"Fusion白色标签品牌现已安装并准备使用！ 您可以通过易用的选项自定义自己的品"
+"牌！ 点击设置标签，找出你可以用这个惊人的Fusion白色标签品牌插件做的所有事"
+"情。 推荐兼容性 %1$s 5.4和更高版本。"
+
+#. translators: The version number.
+#: inc/fusion-branding-admin.php:1423
+msgid "Version %s"
+msgstr "版本 %s"
+
+#. translators: The taxonomy (slide-page) name.
+#. translators: The taxonomy (skills) name.
+#. translators: The taxonomy name.
+#. translators: The post-type name.
+#: inc/fusion-branding-admin.php:1540 inc/fusion-branding-admin.php:1567
+#: inc/fusion-branding-admin.php:1586 inc/fusion-branding-admin.php:1605
+#: inc/fusion-branding-admin.php:1638
+msgid "View %s"
+msgstr "查看  %s"
+
+#. translators: The taxonomy (slide-page) name.
+#. translators: The taxonomy (skills) name.
+#. translators: The taxonomy name.
+#: inc/fusion-branding-admin.php:1543 inc/fusion-branding-admin.php:1570
+#: inc/fusion-branding-admin.php:1589 inc/fusion-branding-admin.php:1608
+msgid "Add New %s"
+msgstr "新增 %s"
+
+#. translators: The taxonomy (slide-page) name.
+#. translators: The taxonomy (skills) name.
+#. translators: The taxonomy name.
+#. translators: The post-type name.
+#: inc/fusion-branding-admin.php:1546 inc/fusion-branding-admin.php:1573
+#: inc/fusion-branding-admin.php:1592 inc/fusion-branding-admin.php:1611
+#: inc/fusion-branding-admin.php:1631
+msgid "Edit %s"
+msgstr "编辑 %s"
+
+#. translators: The post-type name.
+#: inc/fusion-branding-admin.php:1625 inc/fusion-branding-admin.php:1628
+msgid "Add %s"
+msgstr "添加 %s"
+
+#. translators: The post-type name.
+#: inc/fusion-branding-admin.php:1635
+msgid "All %s"
+msgstr "全部 %s"
+
+#. translators: The post-type name.
+#: inc/fusion-branding-admin.php:1641
+msgid "Search %s"
+msgstr "搜索%s"
+
+#. translators: The post-type name.
+#: inc/fusion-branding-admin.php:1644
+msgid "No %s found"
+msgstr "没有发现 %s "
+
+#. translators: The post-type name.
+#: inc/fusion-branding-admin.php:1647
+msgid "No %s found in Trash"
+msgstr "回收站中%s找不到"
+
+#. translators: The post-type name.
+#: inc/fusion-branding-admin.php:1655 inc/fusion-branding-admin.php:1658
+msgid "%s Categories"
+msgstr " %s 分类"
+
+#. translators: Avada
+#. translators: Fusion Builder
+#. translators: Fusion Slider
+#: inc/options/avada.php:18 inc/options/fusion-builder.php:18
+#: inc/options/fusion-slider.php:19
+msgid "%s Branding Settings"
+msgstr "%s 品牌设置"
+
+#. translators: Avada
+#. translators: Fusion Builder
+#: inc/options/avada.php:21 inc/options/fusion-builder.php:21
+msgid "These settings will change items in %s admin pages."
+msgstr "这些设置将更改%s 管理页中的项目。"
+
+#. translators: Avada
+#. translators: Fusion Builder
+#. translators: Fusion Slider
+#: inc/options/avada.php:28 inc/options/fusion-builder.php:28
+#: inc/options/fusion-slider.php:29 inc/options/fusion-slider.php:40
+#: inc/options/fusion-slider.php:89 inc/options/fusion-slider.php:100
+#: inc/options/fusion-slider.php:111
+msgid "%s Label"
+msgstr "%s 标签"
+
+#. translators: Avada
+#. translators: Fusion Builder
+#: inc/options/avada.php:30 inc/options/fusion-builder.php:30
+msgid "Replaces all instances of \"%s\"."
+msgstr "替换 “%s” 的所有实例"
+
+#: inc/options/avada.php:38
+msgid "Theme Options Menu Label"
+msgstr "主题选项菜单标签"
+
+#: inc/options/avada.php:39
+msgid "Controls the theme options menu label."
+msgstr "控制主题选项菜单标签。"
+
+#. translators: Avada
+#: inc/options/avada.php:48
+msgid "Remove %s Admin Bar Menu"
+msgstr "删除%s的管理栏菜单"
+
+#. translators: Avada
+#: inc/options/avada.php:50
+msgid "Removes the %s menu item from admin bar on frontend."
+msgstr "从前端的管理栏中删除％s菜单项。"
+
+#: inc/options/avada.php:62 inc/options/login-screen.php:167
+#: inc/options/wordpress-admin.php:40 inc/options/wordpress-admin.php:61
+#: inc/options/wordpress-admin.php:82 inc/options/wordpress-admin.php:294
+msgid "Yes"
+msgstr "是"
+
+#: inc/options/avada.php:63 inc/options/login-screen.php:168
+#: inc/options/wordpress-admin.php:41 inc/options/wordpress-admin.php:62
+#: inc/options/wordpress-admin.php:83 inc/options/wordpress-admin.php:295
+msgid "No"
+msgstr "否"
+
+#: inc/options/avada.php:70
+msgid "Remove Sub-Menus"
+msgstr "删除子菜单"
+
+#. translators: Avada
+#. translators: Fusion Builder
+#. translators: Fusion Slider
+#: inc/options/avada.php:72 inc/options/fusion-builder.php:40
+#: inc/options/fusion-slider.php:123
+msgid "Removes the selected sub-menus under \"%s\" admin menu."
+msgstr "删除“%s”管理菜单下所选的子菜单。"
+
+#: inc/options/avada.php:78
+msgid "Registration"
+msgstr "产品注册"
+
+#: inc/options/avada.php:81
+msgid "Demos"
+msgstr "演示"
+
+#: inc/options/avada.php:82 inc/options/wordpress-admin.php:102
+#: inc/options/wordpress-admin.php:135
+msgid "Plugins"
+msgstr "插件"
+
+#: inc/options/avada.php:83
+msgid "System Status"
+msgstr "系统状态"
+
+#: inc/options/avada.php:84
+msgid "Patcher"
+msgstr "补丁"
+
+#: inc/options/avada.php:85
+msgid "Theme Options"
+msgstr "主题选项"
+
+#. translators: Avada
+#: inc/options/avada.php:104
+msgid "Rename %s Post Type Menus"
+msgstr "重命名％s文章类型菜单"
+
+#. translators: Avada
+#: inc/options/avada.php:106
+msgid "Renames the admin menu labels for %s post types."
+msgstr "重命名％s帖子类型的管理员菜单标签。"
+
+#: inc/options/avada.php:111
+msgid "FAQs"
+msgstr "常见问题"
+
+#: inc/options/avada.php:112 inc/options/avada.php:140
+msgid "Portfolio"
+msgstr "作品案例"
+
+#: inc/options/avada.php:113
+msgid "Skills"
+msgstr "技能"
+
+#: inc/options/avada.php:114
+msgid "Tags"
+msgstr "标签"
+
+#: inc/options/avada.php:133
+msgid "Remove Post Type Menus"
+msgstr "删除帖子类型菜单"
+
+#. translators: Avada
+#: inc/options/avada.php:135
+msgid "Removes the selected admin menus for post types registered for \"%s\"."
+msgstr "删除为“％s”注册的帖子类型的所选管理菜单。"
+
+#: inc/options/avada.php:142
+msgid "Elastic Slider"
+msgstr "Elastic 幻灯片"
+
+#. translators: Avada.
+#. translators: Fusion Builder
+#: inc/options/avada.php:164 inc/options/avada.php:188
+#: inc/options/fusion-builder.php:69 inc/options/fusion-builder.php:87
+msgid "%s Logo Image"
+msgstr "%s 标志图片"
+
+#. translators: Avada.
+#: inc/options/avada.php:170
+msgid ""
+"Controls the logo image on %s admin pages and replaces the ThemeFusion logo. "
+"<br/><strong>Full size of the box:</strong> 150px wide x 130px high."
+msgstr ""
+"控制％s管理页面上的徽标图像并替换ThemeFusion徽标。 <br/> <strong>盒子的全尺"
+"寸：</strong> 150px宽x 130px高。"
+
+#: inc/options/avada.php:188 inc/options/fusion-builder.php:87
+#: inc/options/login-screen.php:74
+msgid "Use Logo"
+msgstr "使用Logo"
+
+#: inc/options/avada.php:188 inc/options/fusion-builder.php:87
+msgid "Upload Logo Image"
+msgstr "上传图像"
+
+#: inc/options/avada.php:189 inc/options/avada.php:252
+#: inc/options/avada.php:298 inc/options/fusion-builder.php:88
+#: inc/options/fusion-builder.php:143 inc/options/fusion-slider.php:70
+#: inc/options/login-screen.php:51 inc/options/login-screen.php:75
+msgid "Remove Image"
+msgstr "移除图像"
+
+#: inc/options/avada.php:196 inc/options/fusion-builder.php:95
+msgid "Version Number Text"
+msgstr "版本号文本"
+
+#. translators: Avada
+#: inc/options/avada.php:198
+msgid "Replaces version number text beneath the logo on %s admin screens."
+msgstr "替换％s管理屏幕上徽标下方的版本号文本。"
+
+#: inc/options/avada.php:206 inc/options/fusion-builder.php:105
+msgid "Version Number Box Background"
+msgstr "版本号框背景"
+
+#: inc/options/avada.php:207 inc/options/fusion-builder.php:106
+msgid "Controls the background color of the version number box."
+msgstr "控制版本号框的背景颜色。"
+
+#: inc/options/avada.php:215 inc/options/fusion-builder.php:114
+msgid "Version Number Text Color"
+msgstr "版本号文本颜色"
+
+#: inc/options/avada.php:216 inc/options/fusion-builder.php:115
+msgid "Controls the text color of the version number."
+msgstr "控制版本号的文字颜色。"
+
+#. translators: Avada.
+#. translators: Fusion White Label Branding.
+#. translators: Fusion White Label Branding.
+#. translators: Fusion Builder
+#. translators: Fusion Slider
+#: inc/options/avada.php:227 inc/options/avada.php:251
+#: inc/options/avada.php:273 inc/options/avada.php:297
+#: inc/options/fusion-builder.php:124 inc/options/fusion-slider.php:51
+msgid "%s Menu Icon Image"
+msgstr "%s 菜单图标图像"
+
+#. translators: Avada.
+#. translators: Fusion White Label Branding.
+#: inc/options/avada.php:233 inc/options/avada.php:279
+msgid ""
+"Controls the menu icon image on %s admin menu and replaces the ThemeFusion "
+"logo. <br/><strong>Recommended size:</strong> 20px wide x 20px high."
+msgstr ""
+"控制％s管理菜单上的菜单图标图像并替换ThemeFusion徽标。 <br/> <strong>建议尺"
+"寸：</strong> 20px宽x 20px高。"
+
+#: inc/options/avada.php:251 inc/options/avada.php:297
+msgid "Use Menu Icon"
+msgstr "使用菜单图标"
+
+#: inc/options/avada.php:251 inc/options/avada.php:297
+msgid "Upload Menu Icon Image"
+msgstr "上传菜单图标图像"
+
+#. Translators: Avada.
+#. Translators: Fusion White Label Branding.
+#. Translators: Fusion Builder.
+#. Translators: Fusion Slider.
+#: inc/options/avada.php:260 inc/options/avada.php:306
+#: inc/options/fusion-builder.php:151 inc/options/fusion-slider.php:78
+msgid "Dashicon Name for %s Menu Icon"
+msgstr "Dashicon 名称%s 菜单图标"
+
+#. translators: Fusion
+#: inc/options/avada.php:262
+msgid ""
+"Replaces the image icon and default icon for %1$s logo in admin menu. <a "
+"target=\"_blank\" href=\"%2$s\">Click Here</a> to see all dashicons."
+msgstr ""
+"在管理菜单中替换%1$s徽标的图像图标和默认图标。 <a target=\"_blank\" href="
+"\"%2$s\">单击此处</a>查看所有仪表板。"
+
+#. translators: Fusion White Label Branding
+#: inc/options/avada.php:308
+msgid ""
+"Replaces the image icon and default icon of the %1$s logo in admin menu.<br/"
+"> <a target=\"_blank\" href=\"%2$s\">Click Here</a> to see all dashicons."
+msgstr ""
+"在管理菜单中替换%1$s徽标的图像图标和默认图标。 <br/> <a target=\"_blank\" "
+"href=\"%2$s\">单击此处</a>查看所有仪表板。"
+
+#. translators: Avada
+#. translators: Fusion Builder
+#: inc/options/avada.php:317 inc/options/fusion-builder.php:162
+msgid "%s Welcome Screen"
+msgstr "％s欢迎屏幕"
+
+#. translators: Avada
+#: inc/options/avada.php:319
+msgid "Controls the content visible on the %s welcome screen."
+msgstr "控制％s欢迎屏幕上可见的内容。"
+
+#: inc/options/avada.php:323 inc/options/fusion-builder.php:168
+msgid "Welcome screen title."
+msgstr "欢迎屏幕标题。"
+
+#: inc/options/avada.php:326 inc/options/fusion-builder.php:171
+msgid "Welcome screen about text."
+msgstr "欢迎屏幕关于文本。"
+
+#: inc/options/avada.php:337 inc/options/fusion-builder.php:182
+msgid "Welcome screen content."
+msgstr "欢迎屏幕内容。"
+
+#: inc/options/avada.php:344 inc/options/fusion-builder.php:189
+#: inc/options/fusion-slider.php:152 inc/options/login-screen.php:177
+#: inc/options/wordpress-admin.php:304
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: inc/options/avada.php:345 inc/options/fusion-builder.php:190
+#: inc/options/fusion-slider.php:153 inc/options/login-screen.php:178
+#: inc/options/wordpress-admin.php:305
+msgid ""
+"Are you sure, you want to reset these settings?\\n\\nThis action can not be "
+"undone."
+msgstr "您确定要重置这些设置吗？\\n\\n此操作无法撤消。"
+
+#: inc/options/avada.php:345 inc/options/fusion-builder.php:190
+#: inc/options/fusion-slider.php:153 inc/options/login-screen.php:178
+#: inc/options/wordpress-admin.php:305
+msgid "Reset Section"
+msgstr "重置部分"
+
+#: inc/options/avada.php:346 inc/options/fusion-builder.php:191
+#: inc/options/fusion-slider.php:154 inc/options/login-screen.php:179
+#: inc/options/wordpress-admin.php:306
+msgid ""
+"Are you sure, you want to reset all settings?\\n\\nThis action can not be "
+"undone."
+msgstr "您确定要重置所有设置吗？\\n\\n此操作无法撤消。"
+
+#: inc/options/avada.php:346 inc/options/fusion-builder.php:191
+#: inc/options/fusion-slider.php:154 inc/options/login-screen.php:179
+#: inc/options/wordpress-admin.php:306
+msgid "Reset All"
+msgstr "重置全部"
+
+#: inc/options/fusion-builder.php:38 inc/options/fusion-slider.php:121
+msgid "Remove Sub-menus"
+msgstr "删除子菜单"
+
+#: inc/options/fusion-builder.php:49
+msgid "Library"
+msgstr "库"
+
+#: inc/options/fusion-builder.php:50
+msgid "Add-ons"
+msgstr "附加组件"
+
+#. translators: Fusion Builder
+#: inc/options/fusion-builder.php:71
+msgid ""
+"Controls the %1$s logo on the Welcome Screen and the %2$s User Interface "
+"(auto resized to 40px max).<br/><strong>Full size of the box:</strong> 150px "
+"wide x 130px high."
+msgstr ""
+"控制“欢迎”屏幕上的％1 $ s徽标和％2 $ s用户界面（自动调整大小为最大40px）。"
+"<br/><strong>盒子的全尺寸：</strong> 150px 宽 x 130px 高."
+
+#. translators: Fusion Builder
+#: inc/options/fusion-builder.php:97
+msgid "Replaces the version number text beneath the logo on %s admin screens."
+msgstr "替换％s管理屏幕上徽标下方的版本号文本。"
+
+#. translators: Fusion Builder
+#. translators: Fusion Slider
+#: inc/options/fusion-builder.php:126 inc/options/fusion-slider.php:53
+msgid ""
+"Controls the %s icon in the admin menu. <strong>Recommended size:</strong> "
+"20px wide x 20px high."
+msgstr "控制管理菜单中的％s图标。 <strong>建议尺寸：</strong> 20px宽x 20px高。"
+
+#. translators: Fusion Builder
+#. translators: Fusion Slider
+#: inc/options/fusion-builder.php:142 inc/options/fusion-slider.php:69
+msgid "%s Icon Image"
+msgstr "％s 图标图像"
+
+#: inc/options/fusion-builder.php:142 inc/options/fusion-slider.php:69
+msgid "Use Icon"
+msgstr "使用图标"
+
+#: inc/options/fusion-builder.php:142 inc/options/fusion-slider.php:69
+msgid "Upload Icon Image"
+msgstr "上传图标图像"
+
+#. translators: Fusion
+#: inc/options/fusion-builder.php:153 inc/options/fusion-slider.php:80
+msgid ""
+"Replaces the image icon and default icon of the %1$s logo in admin menu. <a "
+"target=\"_blank\" href=\"%2$s\">Click Here</a> to see all dashicons."
+msgstr ""
+"在管理菜单中替换%1$s徽标的图像图标和默认图标。 <a target=\"_blank\" href="
+"\"%2$s\">单击此处</a>查看所有仪表板。"
+
+#. translators: Fusion Builder
+#: inc/options/fusion-builder.php:164
+msgid "Controls the content visible on %s welcome screen."
+msgstr "控制％s欢迎屏幕上可见的内容。"
+
+#. translators: Fusion Slider
+#: inc/options/fusion-slider.php:22
+msgid "These settings will change items in the %s admin pages."
+msgstr "这些设置将更改％s管理页面中的项目。"
+
+#. translators: Fusion Slider
+#: inc/options/fusion-slider.php:31 inc/options/fusion-slider.php:42
+msgid "Replaces all instances of the \"%s\"."
+msgstr "替换所有 \"%s\" 图标。"
+
+#. translators: Fusion Slider
+#: inc/options/fusion-slider.php:91 inc/options/fusion-slider.php:102
+#: inc/options/fusion-slider.php:113
+msgid "Changes the name of \"%s\"."
+msgstr "更改 \"%s\" 的名称。"
+
+#: inc/options/fusion-slider.php:128
+msgid "Add or Edit Slides"
+msgstr "添加或编辑幻灯片"
+
+#: inc/options/fusion-slider.php:129
+msgid "Add or Edit Sliders"
+msgstr "添加或编辑滑块"
+
+#: inc/options/fusion-slider.php:130
+msgid "Export / Import"
+msgstr "导入/导出"
+
+#: inc/options/login-screen.php:17
+msgid "WordPress Login Screen Branding Settings"
+msgstr "WordPress登录屏幕品牌设置"
+
+#: inc/options/login-screen.php:19
+msgid "These settings will change items in the WordPress login area."
+msgstr "这些设置将更改WordPress登录区域中的项目。"
+
+#: inc/options/login-screen.php:25
+msgid "Background Color"
+msgstr "背景颜色"
+
+#: inc/options/login-screen.php:26
+msgid ""
+"Controls the login screen background color. If an image is used below, this "
+"color will overlay it allowing you to adjust the opacity from 0 to 100%."
+msgstr ""
+"控制登录屏幕背景颜色。 如果在下面使用图像，则该颜色将覆盖该图像，从而允许您将"
+"不透明度从0调整到100％。"
+
+#: inc/options/login-screen.php:34
+msgid "Background Image"
+msgstr "背景图片"
+
+#: inc/options/login-screen.php:35
+msgid ""
+"Controls the login screen background image. If a background color is set "
+"above, it overlays the image. If you only want the image to show, set the "
+"above background color to 0%."
+msgstr ""
+"控制登录屏幕背景图像。 如果上面设置了背景颜色，则会覆盖图像。 如果您只想显示"
+"图像，请将上述背景颜色设置为0％。"
+
+#: inc/options/login-screen.php:50
+msgid "Login Screen Background Image"
+msgstr "登录屏幕背景图像"
+
+#: inc/options/login-screen.php:50
+msgid "Use Image"
+msgstr "使用图像"
+
+#: inc/options/login-screen.php:50 inc/options/login-screen.php:74
+msgid "Upload Image"
+msgstr "上传图像"
+
+#: inc/options/login-screen.php:58
+msgid "Logo Image"
+msgstr "标志图片"
+
+#: inc/options/login-screen.php:59
+msgid "Controls the login screen logo image."
+msgstr "控制登录屏幕标志图像。"
+
+#: inc/options/login-screen.php:74
+msgid "Login Screen Logo Image"
+msgstr "登录屏幕的标志图片"
+
+#: inc/options/login-screen.php:82
+msgid "Login Box Background Color"
+msgstr "登录框背景颜色"
+
+#: inc/options/login-screen.php:83
+msgid "Controls the login box background color."
+msgstr "控制登录框的背景颜色。"
+
+#: inc/options/login-screen.php:91
+msgid "Login Box Text Color"
+msgstr "登录框文本颜色"
+
+#: inc/options/login-screen.php:92
+msgid "Controls the login form label color."
+msgstr "控制登录表单标签颜色。"
+
+#: inc/options/login-screen.php:100
+msgid "Login Screen Link Color"
+msgstr "登录屏幕链接颜色"
+
+#: inc/options/login-screen.php:101
+msgid "Controls the login screen link color."
+msgstr "控制登录屏幕链接颜色。"
+
+#: inc/options/login-screen.php:109
+msgid "Login Screen Link Hover Color"
+msgstr "登录屏幕链接悬停颜色"
+
+#: inc/options/login-screen.php:110
+msgid "Controls the login screen link hover color."
+msgstr "控制登录屏幕链接的悬停颜色。"
+
+#: inc/options/login-screen.php:118
+msgid "Default Button Color"
+msgstr "默认按钮颜色"
+
+#: inc/options/login-screen.php:119
+msgid "Controls the default color of the button."
+msgstr "控制按钮的默认颜色。"
+
+#: inc/options/login-screen.php:127
+msgid "Hover Button Color"
+msgstr "悬停按钮颜色"
+
+#: inc/options/login-screen.php:128
+msgid "Controls the hover color of the button."
+msgstr "控制按钮的悬停颜色。"
+
+#: inc/options/login-screen.php:136
+msgid "Button Default Text Color"
+msgstr "按钮默认文字颜色"
+
+#: inc/options/login-screen.php:137
+msgid "Controls the text color of the button."
+msgstr "控制按钮的文本颜色。"
+
+#: inc/options/login-screen.php:145
+msgid "Button Hover Text Color"
+msgstr "按钮悬停文本颜色"
+
+#: inc/options/login-screen.php:146
+msgid "Controls the hover text color of the button."
+msgstr "控制按钮的悬停文本颜色。"
+
+#: inc/options/login-screen.php:154
+msgid "Remove Lost Password Link"
+msgstr "删除丢失的密码链接"
+
+#: inc/options/login-screen.php:155
+msgid "Remove the lost password link from login page."
+msgstr "从登录页中删除丢失的密码链接。"
+
+#: inc/options/wordpress-admin.php:19
+msgid "WordPress Admin Branding Settings"
+msgstr "WordPress管理员品牌设置"
+
+#: inc/options/wordpress-admin.php:21
+msgid "These settings will change items in the WordPress admin area."
+msgstr "这些设置将更改WordPress管理区域中的项目。"
+
+#: inc/options/wordpress-admin.php:27
+msgid "Remove WordPress Logo"
+msgstr "删除WordPress的标志"
+
+#: inc/options/wordpress-admin.php:28
+msgid "Removes the WordPress logo from admin bar."
+msgstr "从管理栏中删除WordPress徽标。"
+
+#: inc/options/wordpress-admin.php:48
+msgid "Remove Screen Options"
+msgstr "删除屏幕选项"
+
+#: inc/options/wordpress-admin.php:49
+msgid "Removes the Screen Options tab."
+msgstr "删除“屏幕选项”选项卡。"
+
+#: inc/options/wordpress-admin.php:69
+msgid "Remove Help Tab"
+msgstr "删除帮助选项卡"
+
+#: inc/options/wordpress-admin.php:70
+msgid "Removes the help tab."
+msgstr "删除帮助选项卡。"
+
+#: inc/options/wordpress-admin.php:90
+msgid "Hide Admin Menus"
+msgstr "隐藏管理员菜单"
+
+#: inc/options/wordpress-admin.php:91
+msgid "Removes the selected menus from admin menu."
+msgstr "从管理菜单中删除所选菜单。"
+
+#: inc/options/wordpress-admin.php:97 inc/options/wordpress-admin.php:130
+msgid "Posts"
+msgstr "文章"
+
+#: inc/options/wordpress-admin.php:98 inc/options/wordpress-admin.php:131
+msgid "Media"
+msgstr "媒体"
+
+#: inc/options/wordpress-admin.php:99 inc/options/wordpress-admin.php:132
+msgid "Pages"
+msgstr "页面"
+
+#: inc/options/wordpress-admin.php:100 inc/options/wordpress-admin.php:133
+msgid "Comments"
+msgstr "评论"
+
+#: inc/options/wordpress-admin.php:101 inc/options/wordpress-admin.php:134
+msgid "Appearance"
+msgstr "外观"
+
+#: inc/options/wordpress-admin.php:103 inc/options/wordpress-admin.php:136
+msgid "Users"
+msgstr "用户"
+
+#: inc/options/wordpress-admin.php:104 inc/options/wordpress-admin.php:137
+msgid "Tools"
+msgstr "工具"
+
+#: inc/options/wordpress-admin.php:123
+msgid "Rename Admin Menus"
+msgstr "重命名管理员菜单"
+
+#: inc/options/wordpress-admin.php:124
+msgid "Renames the admin menu labels."
+msgstr "重命名管理菜单标签。"
+
+#: inc/options/wordpress-admin.php:157
+msgid "Admin Footer Text"
+msgstr "管理页脚文本"
+
+#: inc/options/wordpress-admin.php:158
+msgid "Controls the text to be displayed in footer area of WordPress admin."
+msgstr "控制WordPress管理员在页脚区域显示的文字。"
+
+#: inc/options/wordpress-admin.php:162
+msgid "Controls the footer text on left."
+msgstr "控制左侧的页脚文字。"
+
+#: inc/options/wordpress-admin.php:165
+msgid "Controls the version number text."
+msgstr "控制版本号文本。"
+
+#: inc/options/wordpress-admin.php:169
+msgid "Dashboard Panels"
+msgstr "仪表板面板"
+
+#: inc/options/wordpress-admin.php:170
+msgid "These settings will change related items on the WordPress Dashboard."
+msgstr "这些设置将更改WordPress仪表板上的相关项目。"
+
+#: inc/options/wordpress-admin.php:174
+msgid "Hide Dashboard Widgets"
+msgstr "隐藏仪表板小部件"
+
+#: inc/options/wordpress-admin.php:175
+msgid "Hides the selected widgets from the dashboard."
+msgstr "从仪表板隐藏选定的小组件。"
+
+#: inc/options/wordpress-admin.php:180
+msgid "Quick Draft"
+msgstr "快速草稿"
+
+#: inc/options/wordpress-admin.php:181
+msgid "Recent Comments"
+msgstr "最近的评论"
+
+#: inc/options/wordpress-admin.php:182
+msgid "At a Glance"
+msgstr "乍一看"
+
+#: inc/options/wordpress-admin.php:183
+msgid "Activity"
+msgstr "活动"
+
+#: inc/options/wordpress-admin.php:184
+msgid "WordPress Events and News"
+msgstr "WordPress的事件和新闻"
+
+#: inc/options/wordpress-admin.php:185
+msgid "ThemeFusion News"
+msgstr "ThemeFusion新闻"
+
+#: inc/options/wordpress-admin.php:186
+msgid "Gutenberg Panel"
+msgstr "古腾堡面板"
+
+#: inc/options/wordpress-admin.php:204
+msgid "Custom Welcome Panel"
+msgstr "自定义欢迎面板"
+
+#: inc/options/wordpress-admin.php:205
+msgid ""
+"This option adds a custom welcome panel to the dashboard. HTML markup along "
+"with core WP classes can be used to customize the layout further."
+msgstr ""
+"此选项将自定义欢迎面板添加到仪表板。 HTML标记和核心WP类可用于进一步自定义布"
+"局。"
+
+#: inc/options/wordpress-admin.php:209
+msgid "Custom welcome panel title."
+msgstr "自定义欢迎面板标题。"
+
+#: inc/options/wordpress-admin.php:220
+msgid "Custom welcome panel content."
+msgstr "自定义欢迎面板内容。"
+
+#: inc/options/wordpress-admin.php:224
+msgid "Visibility Settings"
+msgstr "可见性设置"
+
+#: inc/options/wordpress-admin.php:225
+msgid "Control which options certain user roles are can view and access."
+msgstr "控制某些用户角色可以查看和访问的选项。"
+
+#: inc/options/wordpress-admin.php:229
+msgid "User Role Visibility"
+msgstr "用户角色可见性"
+
+#: inc/options/wordpress-admin.php:230
+msgid "Grant access to the white label options for selected user roles."
+msgstr "授予对所选用户角色的白标选项的访问权限。"
+
+#: inc/options/wordpress-admin.php:258
+msgid "Custom CSS for Admin Pages"
+msgstr "自定义管理员页面CSS"
+
+#: inc/options/wordpress-admin.php:259
+msgid "Add your own custom CSS to style admin pages."
+msgstr "将自己的自定义CSS添加到样式管理页面。"
+
+#: inc/options/wordpress-admin.php:281
+msgid "Apply Changes to Administrators"
+msgstr "申请更改管理员"
+
+#: inc/options/wordpress-admin.php:282
+msgid ""
+"Controls whether branding changes should be applied to the adminstrator user "
+"role."
+msgstr "控制是否应将品牌更改应用于管理员用户角色。"
+
+#. translators: The product name and its version.
+#: inc/patcher/class-fusion-patcher-admin-screen.php:292
+msgid ""
+"Fusion Patcher: Currently there are no patches available for %1$s version "
+"%2$s"
+msgstr "Fusion 补丁:目前没有可用的补丁 %1$s 版本 %2$s"
+
+#. translators: The product name and its version.
+#: inc/patcher/class-fusion-patcher-admin-screen.php:295
+msgid ""
+"Fusion Patcher: The following patches are available for %1$s version %2$s"
+msgstr "FUsion 补丁: 您须要为 %1$s 为 %2$s 的版本来安装补丁更新"
+
+#: inc/patcher/class-fusion-patcher-admin-screen.php:297
+msgid "Learn More"
+msgstr "了解更多"
+
+#: inc/patcher/class-fusion-patcher-admin-screen.php:301
+msgid ""
+"The status column displays if a patch was applied. However, a patch can be "
+"reapplied if necessary."
+msgstr "状态列显示应用的补丁，如果需要，补丁可以重新应用。"
+
+#: inc/patcher/class-fusion-patcher-admin-screen.php:317
+msgid "Patch #"
+msgstr "补丁#"
+
+#: inc/patcher/class-fusion-patcher-admin-screen.php:320
+msgid "Product"
+msgstr "产品"
+
+#: inc/patcher/class-fusion-patcher-admin-screen.php:322
+msgid "Issue Date"
+msgstr "发行日期"
+
+#: inc/patcher/class-fusion-patcher-admin-screen.php:325
+msgid "Description"
+msgstr "描述"
+
+#: inc/patcher/class-fusion-patcher-admin-screen.php:326
+msgid "Status"
+msgstr "状态"
+
+#: inc/patcher/class-fusion-patcher-admin-screen.php:406
+msgid "Patch Applied"
+msgstr "补丁应用"
+
+#: inc/patcher/class-fusion-patcher-admin-screen.php:408
+msgid "Apply Patch"
+msgstr "应用补丁"
+
+#: inc/patcher/class-fusion-patcher-admin-screen.php:412
+msgid "Dismiss Notices"
+msgstr "驳回通知"
+
+#. translators: The patch-ID.
+#: inc/patcher/class-fusion-patcher-admin-screen.php:420
+msgid "Please apply patch #%s first."
+msgstr "请先申请补丁#%s。"
+
+#: inc/patcher/class-fusion-patcher-admin-screen.php:422
+msgid "Patch cannot be currently aplied."
+msgstr "不能应用补丁。"
+
+#: inc/patcher/class-fusion-patcher-client.php:106
+msgid ""
+"The ThemeFusion patches server could not be reached. Please contact your "
+"host to unblock the \"https://updates.theme-fusion.com/\" domain."
+msgstr ""
+"ThemeFusion补丁服务器无法访问。请联系您的主机解除“https://updates.theme-"
+"fusion.com/”域名。"
+
+#: inc/patcher/class-fusion-patcher-filesystem.php:106
+msgid ""
+"The Avada patch contents cannot be retrieved. Please contact your host to "
+"unblock the \"https://gist.github.com/\" domain."
+msgstr ""
+"无法检索Avada补丁程序内容， 请与您的主机商联系，以解除阻止 \"https://gist."
+"github.com/\" 域名。"
+
+#: inc/patcher/class-fusion-patcher-filesystem.php:122
+msgid "Patch empty."
+msgstr "补丁是空的。"
+
+#: inc/patcher/class-fusion-patcher-filesystem.php:158
+msgid "Invalid Patch target."
+msgstr "无效的目标。"
+
+#. translators: Links.
+#: inc/patcher/class-fusion-patcher-filesystem.php:186
+msgid ""
+"The patch could not be applied because of your specific server permissions. "
+"You have two options to remedy this. 1. <a %1$s>Download this zip file</a> "
+"which contains the files needed to fix this issue. Simply extract the zip "
+"file, and replace the files it contains with the same files on your server. "
+"DO NOT REPLACE THE ENTIRE FOLDER. 2. <a %2$s>Contact our support center</a>, "
+"submit a ticket and include your FTP credentials so one of our support "
+"experts can apply the fix for you. Once the fix is applied, click the "
+"\"Dismiss Notices\" button so this message is removed."
+msgstr ""
+"补丁无法被应用,因为您的特定服务器权限。您有两种选择来弥补这一点。1. <a %1$s>"
+"下载这个 zip 文件</a> 其中包含解决这个问题的文件。解压缩 zip 文件， 到您的服"
+"务器上替代同名文件。不替换整个文件夹。2. <a %2$s>联系我们的支持中心</a>，提交"
+"工单，要包括您的 FTP 信息，我们的支持专家可以为您解决。一旦修复，点击 \"驳回"
+"通知\" 按钮这信息会被移除。"
+
+#. Author URI of the plugin/theme
+msgid "https://theme-fusion.com"
+msgstr "https://theme-fusion.com"
+
+#. Description of the plugin/theme
+msgid "White Label Branding plugin for ThemeFusion Products."
+msgstr "ThemeFusion 产品的白色标签品牌插件。"
+
+#. Author of the plugin/theme
+msgid "ThemeFusion"
+msgstr "ThemeFusion"
+
+#~ msgid "Replaces all instances of \"%s\""
+#~ msgstr "替换 \"%s\" 的所有实例"
+
+#~ msgid "Hide dashboard widgets."
+#~ msgstr "隐藏仪表板小部件。"
+
+#~ msgid ""
+#~ "These settings allow you to control which user roles are allowed to see "
+#~ "and use these options."
+#~ msgstr "这些设置允许您控制哪些用户角色被允许查看并使用这些选项。"
+
+#~ msgid ""
+#~ "Select which user roles will have capability to see the white label "
+#~ "options."
+#~ msgstr "选择哪些用户角色将有能力查看白标签选项。"
+
+#~ msgid "Applies the custom CSS on all admin pages for better styling."
+#~ msgstr "在所有管理页面上应用自定义 CSS 更好的样式。"

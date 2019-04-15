@@ -1,0 +1,2111 @@
+# Copyright (C) 2016 ThemeFusion
+# This file is distributed under the same license as the Fusion Core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Fusion Core 3.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fusion-core\n"
+"POT-Creation-Date: 2019-03-26 10:03:58+00:00\n"
+"PO-Revision-Date: 2019-03-30 21:36+0800\n"
+"Last-Translator: achair <achair@qq.com>\n"
+"Language-Team: achair教程网（www.xiaored.net）\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: fusion-core.php:320
+msgid "Portfolio published."
+msgstr "作品已发布。"
+
+#: fusion-core.php:321
+msgid "Portfolio published privately."
+msgstr "作品发布为私密。"
+
+#: fusion-core.php:322
+msgid "Portfolio reverted to draft."
+msgstr "作品恢复为草稿。"
+
+#: fusion-core.php:323
+msgid "Portfolio scheduled."
+msgstr "作品已安排。"
+
+#: fusion-core.php:324
+msgid "Portfolio updated."
+msgstr "作品已更新。"
+
+#: fusion-core.php:341
+msgid "Portfolio Categories"
+msgstr "作品分类"
+
+#: fusion-core.php:355
+msgid "Skills"
+msgstr "技能"
+
+#: fusion-core.php:358
+msgid "Add New Skill"
+msgstr "添加新技能"
+
+#: fusion-core.php:372 shortcodes/fusion-portfolio.php:1921
+msgid "Tags"
+msgstr "标签"
+
+#: fusion-core.php:390
+msgid "FAQ published."
+msgstr "FAQ 已发布。"
+
+#: fusion-core.php:391
+msgid "FAQ published privately."
+msgstr "FAQ 发布为私密。"
+
+#: fusion-core.php:392
+msgid "FAQ reverted to draft."
+msgstr "FAQ 恢复为草稿。"
+
+#: fusion-core.php:393
+msgid "FAQ scheduled."
+msgstr "FAQ 已计划。"
+
+#: fusion-core.php:394
+msgid "FAQ updated."
+msgstr "FAQ 已更新。"
+
+#: fusion-core.php:411
+msgid "FAQ Categories"
+msgstr "FAQ 类别"
+
+#: fusion-core.php:435
+msgid "Elastic Slider"
+msgstr "Elastic 幻灯片"
+
+#: fusion-core.php:436 fusion-slider/class-fusion-slider.php:72
+msgid "Parent Slide:"
+msgstr "父幻灯片:"
+
+#: fusion-core.php:437 fusion-slider/class-fusion-slider.php:73
+msgid "Add or Edit Slides"
+msgstr "添加/编辑幻灯片"
+
+#: fusion-core.php:438
+msgid "View Slides"
+msgstr "查看幻灯片"
+
+#: fusion-core.php:439 fusion-core.php:440
+#: fusion-slider/class-fusion-slider.php:75
+#: fusion-slider/class-fusion-slider.php:76
+msgid "Add New Slide"
+msgstr "新建幻灯片"
+
+#: fusion-core.php:441 fusion-slider/class-fusion-slider.php:77
+msgid "Edit Slide"
+msgstr "编辑幻灯片"
+
+#: fusion-core.php:442 fusion-slider/class-fusion-slider.php:78
+msgid "Update Slide"
+msgstr "更新幻灯片"
+
+#: fusion-core.php:443 fusion-slider/class-fusion-slider.php:79
+msgid "Search Slide"
+msgstr "搜索幻灯片"
+
+#: fusion-core.php:444 fusion-slider/class-fusion-slider.php:80
+msgid "Not found"
+msgstr "未找到"
+
+#: fusion-core.php:445 fusion-slider/class-fusion-slider.php:81
+msgid "Not found in Trash"
+msgstr "在回收站未找到"
+
+#: fusion-core.php:446 fusion-slider/class-fusion-slider.php:82
+msgid "Slide published."
+msgstr "幻灯片已发布。"
+
+#: fusion-core.php:447 fusion-slider/class-fusion-slider.php:83
+msgid "Slide published privately."
+msgstr "幻灯片私下发布。"
+
+#: fusion-core.php:448 fusion-slider/class-fusion-slider.php:84
+msgid "Slide reverted to draft."
+msgstr "幻灯片还原为草稿。"
+
+#: fusion-core.php:449 fusion-slider/class-fusion-slider.php:85
+msgid "Slide scheduled."
+msgstr "幻灯片已排定。"
+
+#: fusion-core.php:450 fusion-slider/class-fusion-slider.php:86
+msgid "Slide updated."
+msgstr "幻灯片已更新。"
+
+#: fusion-core.php:465
+msgid "Add or Edit Groups"
+msgstr "添加或编辑组"
+
+#: fusion-core.php:466
+msgid "All Groups"
+msgstr "所有组"
+
+#: fusion-core.php:467
+msgid "Parent Group:"
+msgstr "父级组"
+
+#: fusion-core.php:468
+msgid "New Group Name"
+msgstr "新组名"
+
+#: fusion-core.php:469
+msgid "Add Groups"
+msgstr "添加组"
+
+#: fusion-core.php:470
+msgid "Edit Group"
+msgstr "编辑组"
+
+#: fusion-core.php:471
+msgid "Update Group"
+msgstr "更新组"
+
+#: fusion-core.php:472
+msgid "Separate groups with commas"
+msgstr "用逗号分隔组"
+
+#: fusion-core.php:473
+msgid "Search Groups"
+msgstr "搜索组"
+
+#: fusion-core.php:474
+msgid "Add or remove groups"
+msgstr "添加或删除组"
+
+#: fusion-core.php:475
+msgid "Choose from the most used groups"
+msgstr "从最常用的组中进行选择"
+
+#: fusion-core.php:476 fusion-slider/class-fusion-slider.php:117
+msgid "Not Found"
+msgstr "未找到"
+
+#: fusion-core.php:1093 fusion-core.php:1094
+msgid "Fusion Patcher"
+msgstr "Fusion补丁"
+
+#: fusion-slider/class-fusion-slider.php:71
+#: fusion-slider/class-fusion-slider.php:105
+#: shortcodes/fusion-fusionslider.php:518
+msgid "Fusion Slider"
+msgstr "Fusion幻灯片"
+
+#: fusion-slider/class-fusion-slider.php:74
+msgid "View Slide"
+msgstr "查看幻灯片"
+
+#: fusion-slider/class-fusion-slider.php:104
+msgid "Fusion Sliders"
+msgstr "Fusion幻灯片（组）"
+
+#: fusion-slider/class-fusion-slider.php:106
+msgid "Add or Edit Sliders"
+msgstr "添加/编辑幻灯片(组)"
+
+#: fusion-slider/class-fusion-slider.php:107
+msgid "All Sliders"
+msgstr "所有滑块"
+
+#: fusion-slider/class-fusion-slider.php:108
+msgid "Parent Slider:"
+msgstr "父级滑块:"
+
+#: fusion-slider/class-fusion-slider.php:109
+msgid "New Slider Name"
+msgstr "新的滑块名称"
+
+#: fusion-slider/class-fusion-slider.php:110
+msgid "Add Slider"
+msgstr "添加滑块"
+
+#: fusion-slider/class-fusion-slider.php:111
+msgid "Edit Slider"
+msgstr "编辑滑块"
+
+#: fusion-slider/class-fusion-slider.php:112
+msgid "Update Slider"
+msgstr "更新滑块"
+
+#: fusion-slider/class-fusion-slider.php:113
+msgid "Separate sliders with commas"
+msgstr "用逗号分隔滑块"
+
+#: fusion-slider/class-fusion-slider.php:114
+msgid "Search Sliders"
+msgstr "搜索滑块"
+
+#: fusion-slider/class-fusion-slider.php:115
+msgid "Add or remove sliders"
+msgstr "添加或删除滑块"
+
+#: fusion-slider/class-fusion-slider.php:116
+msgid "Choose from the most used sliders"
+msgstr "从最常用的滑块中选择"
+
+#: fusion-slider/class-fusion-slider.php:256
+msgid "Export / Import"
+msgstr "导入/导出"
+
+#: fusion-slider/class-fusion-slider.php:690
+msgid "No file to import."
+msgstr "没有要导入的文件"
+
+#: fusion-slider/class-fusion-slider.php:746
+#: fusion-slider/templates/clone-button-after-title.php:19
+msgid "Clone this slide"
+msgstr "克隆此幻灯片"
+
+#: fusion-slider/class-fusion-slider.php:746
+#: fusion-slider/class-fusion-slider.php:767
+msgid "Clone"
+msgstr "克隆"
+
+#: fusion-slider/class-fusion-slider.php:767
+#: fusion-slider/templates/clone-button-edit-form.php:12
+#: fusion-slider/templates/clone-button-edit-form.php:13
+msgid "Clone this slider"
+msgstr "克隆此滑块"
+
+#. translators: The term title.
+#. translators: The post title.
+#: fusion-slider/class-fusion-slider.php:818
+#: fusion-slider/class-fusion-slider.php:940
+msgid "%s ( Cloned )"
+msgstr "%s ( 克隆 )"
+
+#: fusion-slider/class-fusion-slider.php:888
+msgid "No slide to clone."
+msgstr "没有要克隆的幻灯片"
+
+#. translators: The ID found.
+#: fusion-slider/class-fusion-slider.php:908
+msgid "Cloning failed. Post not found. ID: %s"
+msgstr "克隆失败，文章未找到。 ID: %s"
+
+#: fusion-slider/templates/add-new-meta-fields.php:13
+#: fusion-slider/templates/edit-meta-fields.php:13
+msgid "Slider Size"
+msgstr "幻灯片尺寸"
+
+#: fusion-slider/templates/add-new-meta-fields.php:14
+#: fusion-slider/templates/edit-meta-fields.php:15
+msgid "Enter a pixel value for width and height, ex: 1000px"
+msgstr "输入宽度和高度的像素值，例如：1000像素"
+
+#: fusion-slider/templates/add-new-meta-fields.php:18
+#: fusion-slider/templates/add-new-meta-fields.php:72
+#: fusion-slider/templates/edit-meta-fields.php:18
+#: fusion-slider/templates/edit-meta-fields.php:84
+msgid "Width"
+msgstr "宽"
+
+#: fusion-slider/templates/add-new-meta-fields.php:22
+#: fusion-slider/templates/add-new-meta-fields.php:76
+#: fusion-slider/templates/edit-meta-fields.php:22
+#: fusion-slider/templates/edit-meta-fields.php:88
+msgid "Height"
+msgstr "高度"
+
+#: fusion-slider/templates/add-new-meta-fields.php:26
+#: fusion-slider/templates/edit-meta-fields.php:27
+msgid "Slider Content Max Width"
+msgstr "滑块内容最大宽度"
+
+#: fusion-slider/templates/add-new-meta-fields.php:28
+msgid ""
+"Controls the width of content, In pixels, ex: 850px. Leave blank for site "
+"width."
+msgstr "控制内容的宽度，以像素为单位，例如：850px,留空为站点的宽度"
+
+#: fusion-slider/templates/add-new-meta-fields.php:31
+#: fusion-slider/templates/edit-meta-fields.php:34
+msgid "Full Screen Slider"
+msgstr "全屏滑块"
+
+#: fusion-slider/templates/add-new-meta-fields.php:34
+#: fusion-slider/templates/edit-meta-fields.php:38
+msgid "Check this option if you want full width and height of the screen."
+msgstr "如果您想要全屏 ，请选中此选项"
+
+#: fusion-slider/templates/add-new-meta-fields.php:37
+#: fusion-slider/templates/edit-meta-fields.php:42
+msgid "Slider Indicator"
+msgstr "滑块指示器"
+
+#: fusion-slider/templates/add-new-meta-fields.php:39
+#: fusion-slider/templates/edit-meta-fields.php:45
+#: shortcodes/fusion-portfolio.php:1363 shortcodes/fusion-portfolio.php:1803
+#: shortcodes/fusion-portfolio.php:1960
+msgid "None"
+msgstr "无"
+
+#: fusion-slider/templates/add-new-meta-fields.php:40
+#: fusion-slider/templates/edit-meta-fields.php:46
+msgid "Scroll Down Indicator"
+msgstr "向下滚动指示器"
+
+#: fusion-slider/templates/add-new-meta-fields.php:41
+#: fusion-slider/templates/edit-meta-fields.php:47
+msgid "Pagination Circles"
+msgstr "分页圈"
+
+#: fusion-slider/templates/add-new-meta-fields.php:43
+#: fusion-slider/templates/edit-meta-fields.php:49
+msgid ""
+"Choose do you want to display pagination circler or scroll down indicator."
+msgstr "选择是否要显示分页圆圈或向下滚动指示器。"
+
+#: fusion-slider/templates/add-new-meta-fields.php:46
+#: fusion-slider/templates/edit-meta-fields.php:53
+msgid "Slider Indicator Color"
+msgstr "滑块指示器颜色"
+
+#. translators: The default value.
+#: fusion-slider/templates/add-new-meta-fields.php:49
+#: fusion-slider/templates/edit-meta-fields.php:57
+msgid "Default: %s"
+msgstr "默认：%s"
+
+#. translators: The default value text.
+#: fusion-slider/templates/add-new-meta-fields.php:51
+#: fusion-slider/templates/edit-meta-fields.php:59
+msgid ""
+"Select a color for the slider indicator icon. Hex color code, ex: #fff. %s"
+msgstr "为向下滑块指示器图标选择一种颜色。十六进制颜色代码，例如：#fff。 %s"
+
+#: fusion-slider/templates/add-new-meta-fields.php:56
+#: fusion-slider/templates/edit-meta-fields.php:63
+msgid "Parallax Scrolling Effect"
+msgstr "视差滚动效果"
+
+#: fusion-slider/templates/add-new-meta-fields.php:59
+#: fusion-slider/templates/edit-meta-fields.php:67
+msgid ""
+"Check this box to have a parallax scrolling effect, this ONLY works when "
+"assigning the slider in page options. It does not work when using a slider "
+"shortcode. With this option enabled, the slider height you input will not be "
+"exact due to negative margin which is based off the overall header size. ex: "
+"500px will show as 415px. Please adjust accordingly."
+msgstr ""
+"勾选使用视差滚动效果，此选项仅在页面选项中分配滑块时有效。 使用滑块短代码时它"
+"不工作，启用此选项后，您输入的滑块高度将不完全，这是由于负边距基于总页眉大"
+"小。例如：500px将显示为415px，请相应调整"
+
+#: fusion-slider/templates/add-new-meta-fields.php:62
+#: fusion-slider/templates/edit-meta-fields.php:71
+msgid "Display Navigation Arrows"
+msgstr "显示导航箭头"
+
+#: fusion-slider/templates/add-new-meta-fields.php:65
+#: fusion-slider/templates/edit-meta-fields.php:75
+msgid "Check this box to display the navigation arrows."
+msgstr "选中此框以显示导航箭头"
+
+#: fusion-slider/templates/add-new-meta-fields.php:68
+#: fusion-slider/templates/edit-meta-fields.php:79
+msgid "Navigation Box Size"
+msgstr "导航框大小"
+
+#: fusion-slider/templates/add-new-meta-fields.php:69
+msgid "Enter a pixel value for width and height, ex: 40px"
+msgstr "输入宽度和高度的像素值，例如：40像素"
+
+#: fusion-slider/templates/add-new-meta-fields.php:80
+#: fusion-slider/templates/edit-meta-fields.php:93
+msgid "Navigation Arrow Size"
+msgstr "导航箭头大小"
+
+#: fusion-slider/templates/add-new-meta-fields.php:82
+#: fusion-slider/templates/edit-meta-fields.php:96
+msgid "Enter a pixel value for the arrow size, ex: 14px"
+msgstr "输入箭头大小，例如：14px"
+
+#: fusion-slider/templates/add-new-meta-fields.php:85
+#: fusion-slider/templates/edit-meta-fields.php:100
+msgid "Autoplay"
+msgstr "自动播放"
+
+#: fusion-slider/templates/add-new-meta-fields.php:88
+#: fusion-slider/templates/edit-meta-fields.php:104
+msgid "Check this box to autoplay the slides."
+msgstr "选中此框可自动播放幻灯片"
+
+#: fusion-slider/templates/add-new-meta-fields.php:91
+#: fusion-slider/templates/edit-meta-fields.php:108
+msgid "Slide Loop"
+msgstr "循环滑动"
+
+#: fusion-slider/templates/add-new-meta-fields.php:94
+#: fusion-slider/templates/edit-meta-fields.php:112
+msgid "Check this box to have the slider loop infinitely."
+msgstr "选中启用滑块无限循环"
+
+#: fusion-slider/templates/add-new-meta-fields.php:97
+#: fusion-slider/templates/edit-meta-fields.php:116
+#: shortcodes/fusion-faq.php:714 shortcodes/fusion-portfolio.php:2000
+msgid "Order By"
+msgstr "排序方式"
+
+#: fusion-slider/templates/add-new-meta-fields.php:99
+#: fusion-slider/templates/edit-meta-fields.php:119
+#: shortcodes/fusion-faq.php:719 shortcodes/fusion-portfolio.php:2005
+msgid "Date"
+msgstr "日期"
+
+#: fusion-slider/templates/add-new-meta-fields.php:100
+#: fusion-slider/templates/edit-meta-fields.php:120
+msgid "ID"
+msgstr "ID"
+
+#: fusion-slider/templates/add-new-meta-fields.php:101
+#: fusion-slider/templates/edit-meta-fields.php:121
+msgid "Title"
+msgstr "标题"
+
+#: fusion-slider/templates/add-new-meta-fields.php:102
+#: fusion-slider/templates/edit-meta-fields.php:122
+msgid "Modified"
+msgstr "修改日期"
+
+#: fusion-slider/templates/add-new-meta-fields.php:103
+#: fusion-slider/templates/edit-meta-fields.php:123
+#: shortcodes/fusion-faq.php:726 shortcodes/fusion-portfolio.php:2012
+msgid "Random"
+msgstr "随机"
+
+#: fusion-slider/templates/add-new-meta-fields.php:105
+#: fusion-slider/templates/edit-meta-fields.php:125
+msgid "Defines how the slides should be ordered."
+msgstr "定义如何订购幻灯片。"
+
+#: fusion-slider/templates/add-new-meta-fields.php:108
+#: fusion-slider/templates/edit-meta-fields.php:129
+#: shortcodes/fusion-faq.php:731 shortcodes/fusion-portfolio.php:2017
+msgid "Order"
+msgstr "排序"
+
+#: fusion-slider/templates/add-new-meta-fields.php:110
+#: fusion-slider/templates/edit-meta-fields.php:132
+#: shortcodes/fusion-faq.php:736 shortcodes/fusion-portfolio.php:2022
+msgid "Descending"
+msgstr "降序"
+
+#: fusion-slider/templates/add-new-meta-fields.php:111
+#: fusion-slider/templates/edit-meta-fields.php:133
+#: shortcodes/fusion-faq.php:737 shortcodes/fusion-portfolio.php:2023
+msgid "Ascending"
+msgstr "升序"
+
+#: fusion-slider/templates/add-new-meta-fields.php:113
+#: fusion-slider/templates/edit-meta-fields.php:135
+msgid "Defines the sorting order of the slides."
+msgstr "定义幻灯片的排序顺序。"
+
+#: fusion-slider/templates/add-new-meta-fields.php:116
+#: fusion-slider/templates/edit-meta-fields.php:139
+#: shortcodes/fusion-portfolio.php:2213 shortcodes/fusion-portfolio.php:2228
+#: shortcodes/fusion-portfolio.php:2246 shortcodes/fusion-portfolio.php:2267
+#: shortcodes/fusion-privacy.php:340 shortcodes/fusion-privacy.php:355
+#: shortcodes/fusion-privacy.php:373 shortcodes/fusion-privacy.php:394
+msgid "Animation"
+msgstr "动画"
+
+#: fusion-slider/templates/add-new-meta-fields.php:121
+#: fusion-slider/templates/edit-meta-fields.php:145
+msgid ""
+"The type of animation when slides rotate.<br/>Please Note: Fade effect does "
+"not work in IE."
+msgstr "当幻灯片旋转的动画类型。<br/>请注意：Fade 特效不能在IE上工作。"
+
+#: fusion-slider/templates/add-new-meta-fields.php:124
+#: fusion-slider/templates/edit-meta-fields.php:149
+msgid "Slideshow Speed"
+msgstr "幻灯片速度"
+
+#: fusion-slider/templates/add-new-meta-fields.php:126
+#: fusion-slider/templates/edit-meta-fields.php:152
+msgid "Controls the speed of the slideshow. 1000 = 1 second."
+msgstr "控制幻灯片的播放速度。 1000 = 1秒"
+
+#: fusion-slider/templates/add-new-meta-fields.php:129
+#: fusion-slider/templates/edit-meta-fields.php:156
+msgid "Animation Speed"
+msgstr "动画速度"
+
+#: fusion-slider/templates/add-new-meta-fields.php:131
+#: fusion-slider/templates/edit-meta-fields.php:159
+msgid ""
+"Controls the speed of the slide transition from slide to slide. 1000 = 1 "
+"second."
+msgstr "控制滑块切换速度，以毫秒为单位，1000=1秒"
+
+#: fusion-slider/templates/add-new-meta-fields.php:134
+#: fusion-slider/templates/edit-meta-fields.php:163
+msgid "Responsive Typography Sensitivity"
+msgstr "自适性版式灵敏度"
+
+#: fusion-slider/templates/add-new-meta-fields.php:136
+#: fusion-slider/templates/edit-meta-fields.php:166
+msgid ""
+"Values below 1 decrease resizing, values above 1 increase sizing. ex: .6"
+msgstr "值小于1减小调整大小，值大于1增加大小。 例如：.6"
+
+#: fusion-slider/templates/add-new-meta-fields.php:139
+#: fusion-slider/templates/edit-meta-fields.php:170
+msgid "Minimum Font Size Factor"
+msgstr "最小字体大小因子"
+
+#: fusion-slider/templates/add-new-meta-fields.php:141
+#: fusion-slider/templates/edit-meta-fields.php:173
+msgid ""
+"Minimum font factor is used to determine minimum distance between headings "
+"and body type by a multiplying value. ex: 1.5"
+msgstr "最小字体因子用于相乘的值确定标题和正文类型之间的最小距离。例： 1.5"
+
+#: fusion-slider/templates/edit-meta-fields.php:30
+msgid ""
+"Controls the width of content. In pixels, ex: 850px. Leave blank for site "
+"width."
+msgstr "控制内容的宽度。以像素为单位，例如：850px。为网站宽度保留空白。"
+
+#: fusion-slider/templates/edit-meta-fields.php:81
+msgid ""
+"Enter a pixel for height. Width accepts pixel and percentage values., ex: "
+"40px"
+msgstr "输入一个像素高度。接受像素宽度和百分比值。例: 40px"
+
+#: fusion-slider/templates/export-import-settings.php:12
+msgid "Export and Import Fusion Sliders"
+msgstr "导入和导出 Fusion滑块"
+
+#: fusion-slider/templates/export-import-settings.php:16
+msgid "Export"
+msgstr "导出"
+
+#: fusion-slider/templates/export-import-settings.php:19
+msgid "Export All Sliders"
+msgstr "导出所有滑块"
+
+#: fusion-slider/templates/export-import-settings.php:24
+msgid "Choose a file from your computer:"
+msgstr "从您的计算机选择一个文件:"
+
+#: fusion-slider/templates/slider.php:47 shortcodes/fusion-fusionslider.php:174
+msgid "Loading..."
+msgstr "加载中..."
+
+#: shortcodes/fusion-faq.php:245 shortcodes/fusion-portfolio.php:746
+msgid "All"
+msgstr "全部"
+
+#: shortcodes/fusion-faq.php:352 templates/single-avada_portfolio.php:113
+#: templates/single-avada_portfolio.php:133
+msgid "View Larger Image"
+msgstr "查看大图"
+
+#: shortcodes/fusion-faq.php:407
+msgid "FAQ Element"
+msgstr "FAQ元素"
+
+#: shortcodes/fusion-faq.php:413
+msgid "FAQ Featured Images"
+msgstr "FAQ特色图片"
+
+#: shortcodes/fusion-faq.php:414
+msgid "Turn on to display featured images."
+msgstr "打开显示特色图像。"
+
+#: shortcodes/fusion-faq.php:421
+msgid "FAQ Filters"
+msgstr "FAQ筛选器"
+
+#: shortcodes/fusion-faq.php:422
+msgid "Controls how the filters display for FAQs."
+msgstr "控制FAQ的筛选器如何显示。"
+
+#: shortcodes/fusion-faq.php:427 shortcodes/fusion-faq.php:678
+msgid "Show"
+msgstr "显示"
+
+#: shortcodes/fusion-faq.php:428 shortcodes/fusion-faq.php:679
+msgid "Show without \"All\""
+msgstr "不显示“所有”"
+
+#: shortcodes/fusion-faq.php:429 shortcodes/fusion-faq.php:680
+msgid "Hide"
+msgstr "隐藏"
+
+#: shortcodes/fusion-faq.php:434
+msgid "FAQs in Toggles or Accordions"
+msgstr "Toggles或Accordions的常见问题"
+
+#: shortcodes/fusion-faq.php:435 shortcodes/fusion-faq.php:750
+msgid ""
+"Toggles allow several items to be open at a time. Accordions only allow one "
+"item to be open at a time."
+msgstr "切换时允许多个项目同时打开。手风琴效果 只允许一次打开一个项目。"
+
+#: shortcodes/fusion-faq.php:440 shortcodes/fusion-faq.php:754
+msgid "Toggles"
+msgstr "切换"
+
+#: shortcodes/fusion-faq.php:441 shortcodes/fusion-faq.php:755
+msgid "Accordions"
+msgstr "手风琴效果"
+
+#: shortcodes/fusion-faq.php:445
+msgid "FAQ Items in Boxed Mode"
+msgstr "盒装模式下的常见问题解答"
+
+#: shortcodes/fusion-faq.php:446
+msgid ""
+"Turn on to display items in boxed mode. FAQ Item divider line must be "
+"disabled for this option to work."
+msgstr "打开，以盒装模式显示项目。常见问题项目分隔线必须禁用此选项才能工作。"
+
+#: shortcodes/fusion-faq.php:452
+msgid "FAQ Item Boxed Mode Border Width"
+msgstr "常见问题项目盒装模式边框宽度"
+
+#: shortcodes/fusion-faq.php:453
+msgid "Controls the border size of the FAQ item."
+msgstr "控制FAQ项目的边框尺寸。"
+
+#: shortcodes/fusion-faq.php:471
+msgid "FAQ Item Boxed Mode Border Color"
+msgstr "常见问题项目盒装模式边框颜色"
+
+#: shortcodes/fusion-faq.php:472
+msgid "Controls the border color of the FAQ item."
+msgstr "控制FAQ项目的边框颜色。"
+
+#: shortcodes/fusion-faq.php:485
+msgid "FAQ Item Boxed Mode Background Color"
+msgstr "常见问题项目盒装模式背景颜色"
+
+#: shortcodes/fusion-faq.php:486
+msgid "Controls the background color of the FAQ item."
+msgstr "控制FAQ项目的背景颜色。"
+
+#: shortcodes/fusion-faq.php:499
+msgid "FAQ Item Boxed Mode Background Hover Color"
+msgstr "常见问题项目盒装模式背景悬停颜色"
+
+#: shortcodes/fusion-faq.php:500
+msgid "Controls the background hover color of the FAQ item."
+msgstr "控制FAQ项目的背景悬停颜色。"
+
+#: shortcodes/fusion-faq.php:513
+msgid "FAQ Item Divider Line"
+msgstr "常见问题项目分隔线"
+
+#: shortcodes/fusion-faq.php:514
+msgid "Turn on to display a divider line between each item."
+msgstr "打开每个条目之间的分隔线。"
+
+#: shortcodes/fusion-faq.php:527
+msgid "FAQ Title Font Size"
+msgstr "FAQ标题字体大小"
+
+#: shortcodes/fusion-faq.php:528
+msgid "Controls the size of the title text."
+msgstr "控制的标题文本的大小"
+
+#: shortcodes/fusion-faq.php:534
+msgid "FAQ Item Icon Size"
+msgstr "FAQ项目图标大小"
+
+#: shortcodes/fusion-faq.php:535
+msgid "Set the size of the icon."
+msgstr "设置图标的大小。"
+
+#: shortcodes/fusion-faq.php:544
+msgid "FAQ Item Icon Color"
+msgstr "FAQ项目图标颜色"
+
+#: shortcodes/fusion-faq.php:545
+msgid "Controls the color of icon in FAQ box."
+msgstr "控制FAQ框中图标的颜色。"
+
+#: shortcodes/fusion-faq.php:551
+msgid "FAQ Item Icon Boxed Mode"
+msgstr "常见问题项目图标盒装模式"
+
+#: shortcodes/fusion-faq.php:552
+msgid "Turn on to display icon in boxed mode."
+msgstr "打开盒装模式显示图标。"
+
+#: shortcodes/fusion-faq.php:558
+msgid "FAQ Item Icon Inactive Box Color"
+msgstr "\"常见问题\" 项目图标非活动框颜色"
+
+#: shortcodes/fusion-faq.php:559
+msgid "Controls the color of the inactive FAQ box."
+msgstr "控制不活动FAQ框的颜色。"
+
+#: shortcodes/fusion-faq.php:572
+msgid "FAQ Item Icon Alignment"
+msgstr "常见问题项目图标对齐"
+
+#: shortcodes/fusion-faq.php:573
+msgid "Controls the alignment of the icon."
+msgstr "控制图标的对齐。"
+
+#: shortcodes/fusion-faq.php:578 shortcodes/fusion-faq.php:917
+#: shortcodes/fusion-portfolio.php:1373 shortcodes/fusion-portfolio.php:1821
+#: shortcodes/fusion-portfolio.php:2224 shortcodes/fusion-privacy.php:351
+msgid "Left"
+msgstr "左"
+
+#: shortcodes/fusion-faq.php:579 shortcodes/fusion-faq.php:918
+#: shortcodes/fusion-portfolio.php:1375 shortcodes/fusion-portfolio.php:1823
+#: shortcodes/fusion-portfolio.php:2222 shortcodes/fusion-privacy.php:349
+msgid "Right"
+msgstr "右"
+
+#: shortcodes/fusion-faq.php:583
+msgid "FAQ Item Icon Toggle Hover Accent Color"
+msgstr "常见问题项目图标切换悬停强调颜色"
+
+#: shortcodes/fusion-faq.php:584 shortcodes/fusion-faq.php:925
+msgid "Controls the accent color on hover for icon box and title."
+msgstr "控制图标框和标题悬停时的强调颜色。"
+
+#: shortcodes/fusion-faq.php:665
+msgid "FAQ"
+msgstr "FAQ"
+
+#: shortcodes/fusion-faq.php:673
+msgid "Display Filters"
+msgstr "显示筛选器"
+
+#: shortcodes/fusion-faq.php:674
+msgid "Display the FAQ filters."
+msgstr "显示FAQ筛选器。"
+
+#: shortcodes/fusion-faq.php:677 shortcodes/fusion-faq.php:690
+#: shortcodes/fusion-faq.php:753 shortcodes/fusion-faq.php:765
+#: shortcodes/fusion-faq.php:845 shortcodes/fusion-faq.php:889
+#: shortcodes/fusion-faq.php:916 shortcodes/fusion-portfolio.php:1523
+#: shortcodes/fusion-portfolio.php:1542 shortcodes/fusion-portfolio.php:1607
+#: shortcodes/fusion-portfolio.php:1799 shortcodes/fusion-portfolio.php:1820
+#: shortcodes/fusion-portfolio.php:1956 shortcodes/fusion-portfolio.php:2039
+#: shortcodes/fusion-portfolio.php:2097 shortcodes/fusion-portfolio.php:2261
+#: shortcodes/fusion-privacy.php:388
+msgid "Default"
+msgstr "默认"
+
+#: shortcodes/fusion-faq.php:686
+msgid "Display Featured Images"
+msgstr "显示特色图片"
+
+#: shortcodes/fusion-faq.php:687
+msgid "Display the FAQ featured images."
+msgstr "显示FAQ特色图片。"
+
+#: shortcodes/fusion-faq.php:691 shortcodes/fusion-faq.php:766
+#: shortcodes/fusion-faq.php:846 shortcodes/fusion-faq.php:890
+#: shortcodes/fusion-portfolio.php:1766 shortcodes/fusion-portfolio.php:1865
+#: shortcodes/fusion-portfolio.php:2098 shortcodes/fusion-portfolio.php:2158
+#: shortcodes/fusion-portfolio.php:2176 shortcodes/fusion-portfolio.php:2194
+msgid "Yes"
+msgstr "是"
+
+#: shortcodes/fusion-faq.php:692 shortcodes/fusion-faq.php:767
+#: shortcodes/fusion-faq.php:847 shortcodes/fusion-faq.php:891
+#: shortcodes/fusion-portfolio.php:1767 shortcodes/fusion-portfolio.php:1867
+#: shortcodes/fusion-portfolio.php:2099 shortcodes/fusion-portfolio.php:2159
+#: shortcodes/fusion-portfolio.php:2177 shortcodes/fusion-portfolio.php:2195
+msgid "No"
+msgstr "否"
+
+#: shortcodes/fusion-faq.php:698 shortcodes/fusion-portfolio.php:1891
+msgid "Categories"
+msgstr "类别"
+
+#: shortcodes/fusion-faq.php:699
+msgid "Select categories to include or leave blank for all."
+msgstr "选择类别包括所有或留空白。"
+
+#: shortcodes/fusion-faq.php:706 shortcodes/fusion-portfolio.php:1906
+msgid "Exclude Categories"
+msgstr "排除类别"
+
+#: shortcodes/fusion-faq.php:707 shortcodes/fusion-portfolio.php:1907
+msgid "Select categories to exclude."
+msgstr "选择类别排除。"
+
+#: shortcodes/fusion-faq.php:715
+msgid "Defines how FAQs should be ordered."
+msgstr "定义如何订购常见问题。"
+
+#: shortcodes/fusion-faq.php:720 shortcodes/fusion-portfolio.php:2006
+msgid "Post Title"
+msgstr "文章标题"
+
+#: shortcodes/fusion-faq.php:721
+msgid "FAQ Order"
+msgstr "常见问题排序"
+
+#: shortcodes/fusion-faq.php:722 shortcodes/fusion-portfolio.php:2008
+msgid "Post Slug"
+msgstr "文章别名"
+
+#: shortcodes/fusion-faq.php:723 shortcodes/fusion-portfolio.php:2009
+msgid "Author"
+msgstr "作者"
+
+#: shortcodes/fusion-faq.php:724 shortcodes/fusion-portfolio.php:2010
+msgid "Number of Comments"
+msgstr "评论数"
+
+#: shortcodes/fusion-faq.php:725 shortcodes/fusion-portfolio.php:2011
+msgid "Last Modified"
+msgstr "最后修改"
+
+#: shortcodes/fusion-faq.php:732
+msgid "Defines the sorting order of FAQs."
+msgstr "定义常见问题的排序顺序。"
+
+#: shortcodes/fusion-faq.php:749
+msgid "Toggles or Accordions"
+msgstr "切换或者手风琴效果"
+
+#: shortcodes/fusion-faq.php:761
+msgid "Boxed Mode"
+msgstr "盒子模式"
+
+#: shortcodes/fusion-faq.php:762
+msgid "Choose to display FAQs items in boxed mode."
+msgstr "选择以框式模式显示项目。"
+
+#: shortcodes/fusion-faq.php:773
+msgid "Boxed Mode Border Width"
+msgstr "盒模式边框宽度"
+
+#: shortcodes/fusion-faq.php:774
+msgid "Set the border width for FAQ item. In pixels."
+msgstr "控制切换项的边框宽度。以像素为单位。"
+
+#: shortcodes/fusion-faq.php:791
+msgid "Boxed Mode Border Color"
+msgstr "盒模式边框颜色"
+
+#: shortcodes/fusion-faq.php:792
+msgid "Set the border color for FAQ item."
+msgstr "设置FAQ项目的边框颜色。"
+
+#: shortcodes/fusion-faq.php:811
+msgid "Boxed Mode Background Color"
+msgstr "盒装模式背景颜色"
+
+#: shortcodes/fusion-faq.php:812
+msgid "Set the background color for FAQ item."
+msgstr "设置FAQ项目的背景颜色。"
+
+#: shortcodes/fusion-faq.php:826
+msgid "Boxed Mode Background Hover Color"
+msgstr "盒装模式背景悬停颜色"
+
+#: shortcodes/fusion-faq.php:827
+msgid "Set the background hover color for FAQ item."
+msgstr "设置FAQ项目的背景悬停颜色。"
+
+#: shortcodes/fusion-faq.php:841
+msgid "Divider Line"
+msgstr "分隔线"
+
+#: shortcodes/fusion-faq.php:842
+msgid "Choose to display a divider line between each item."
+msgstr "选择在每个项目之间显示分隔线"
+
+#: shortcodes/fusion-faq.php:860
+msgid "Title Size"
+msgstr "标题大小"
+
+#: shortcodes/fusion-faq.php:861
+msgid ""
+"Controls the size of the title. Enter value including any valid CSS unit, "
+"ex: 13px."
+msgstr "控制标题的大小。输入值，包括任何有效的CSS单位，例如：13px。"
+
+#: shortcodes/fusion-faq.php:866
+msgid "Icon Size"
+msgstr "图标大小"
+
+#: shortcodes/fusion-faq.php:867
+msgid "Set the size of the icon. In pixels (px), ex: 13px."
+msgstr "设置图标的大小，以像素为单位（px），例如：13px"
+
+#: shortcodes/fusion-faq.php:877
+msgid "Icon Color"
+msgstr "图标颜色"
+
+#: shortcodes/fusion-faq.php:878
+msgid "Set the color of icon in toggle box."
+msgstr "在切换框中设置图标的颜色。"
+
+#: shortcodes/fusion-faq.php:885
+msgid "Icon Boxed Mode"
+msgstr "图标盒模式"
+
+#: shortcodes/fusion-faq.php:886
+msgid "Choose to display icon in boxed mode."
+msgstr "选择以盒装模式显示图标。"
+
+#: shortcodes/fusion-faq.php:897
+msgid "Icon Inactive Box Color"
+msgstr "图标不活动的盒子颜色"
+
+#: shortcodes/fusion-faq.php:898
+msgid "Controls the color of the inactive toggle box."
+msgstr "控制非活动切换框的颜色。"
+
+#: shortcodes/fusion-faq.php:912
+msgid "Icon Alignment"
+msgstr "图标对齐"
+
+#: shortcodes/fusion-faq.php:913
+msgid "Controls the alignment of FAQ icon."
+msgstr "控制FAQ图标的对齐。"
+
+#: shortcodes/fusion-faq.php:924
+msgid "FAQ Toggle Hover Accent Color"
+msgstr "常见问题解答切换悬停重音颜色"
+
+#: shortcodes/fusion-faq.php:932 shortcodes/fusion-fusionslider.php:534
+#: shortcodes/fusion-portfolio.php:2278 shortcodes/fusion-privacy.php:405
+msgid "Element Visibility"
+msgstr "元素的可见性"
+
+#: shortcodes/fusion-faq.php:936 shortcodes/fusion-fusionslider.php:538
+#: shortcodes/fusion-portfolio.php:2282 shortcodes/fusion-privacy.php:409
+msgid ""
+"Choose to show or hide the element on small, medium or large screens. You "
+"can choose more than one at a time."
+msgstr "选择显示或隐藏元素，在小，中，大屏幕上。您可以选择多个。"
+
+#: shortcodes/fusion-faq.php:940 shortcodes/fusion-fusionslider.php:542
+#: shortcodes/fusion-portfolio.php:2286 shortcodes/fusion-privacy.php:413
+msgid "CSS Class"
+msgstr "CSS Class"
+
+#: shortcodes/fusion-faq.php:941 shortcodes/fusion-fusionslider.php:545
+#: shortcodes/fusion-portfolio.php:2287 shortcodes/fusion-privacy.php:414
+msgid "Add a class to the wrapping HTML element."
+msgstr "添加一个类来包装的HTML元素。"
+
+#: shortcodes/fusion-faq.php:944 shortcodes/fusion-faq.php:952
+#: shortcodes/fusion-portfolio.php:2290 shortcodes/fusion-portfolio.php:2298
+#: shortcodes/fusion-privacy.php:417 shortcodes/fusion-privacy.php:425
+msgid "General"
+msgstr "一般"
+
+#: shortcodes/fusion-faq.php:948 shortcodes/fusion-fusionslider.php:549
+#: shortcodes/fusion-portfolio.php:2294 shortcodes/fusion-privacy.php:421
+msgid "CSS ID"
+msgstr "CSS ID"
+
+#: shortcodes/fusion-faq.php:949 shortcodes/fusion-fusionslider.php:552
+#: shortcodes/fusion-portfolio.php:2295 shortcodes/fusion-privacy.php:422
+msgid "Add an ID to the wrapping HTML element."
+msgstr "添加一个ID包装HTML元素。"
+
+#: shortcodes/fusion-fusionslider.php:91
+msgid "Incorrect slider name. Please make sure to use a valid slider slug."
+msgstr "滑块名称不正确。请确保使用有效的滑块。"
+
+#: shortcodes/fusion-fusionslider.php:526
+msgid "Slider Name"
+msgstr "幻灯片名称"
+
+#: shortcodes/fusion-fusionslider.php:527
+msgid ""
+"Select the slider you want to use.  The options will appear as the slider "
+"name next to the number of slides in brackets."
+msgstr "选择您想要使用的幻灯片。选项会出现幻灯片名称旁边的括号中。"
+
+#: shortcodes/fusion-portfolio.php:669
+#: templates/portfolio-archive-layout.php:363
+msgid "Learn More"
+msgstr "了解更多"
+
+#: shortcodes/fusion-portfolio.php:674
+msgid "View Project"
+msgstr "查看项目"
+
+#: shortcodes/fusion-portfolio.php:856
+#: templates/portfolio-archive-layout.php:423
+msgid "Load More Posts"
+msgstr "加载更多的文章"
+
+#: shortcodes/fusion-portfolio.php:1251
+msgid "Portfolio Element"
+msgstr "案例作品元素"
+
+#: shortcodes/fusion-portfolio.php:1257
+msgid "Portfolio Featured Image Size"
+msgstr "案例作品特色图像大小"
+
+#: shortcodes/fusion-portfolio.php:1258
+msgid ""
+"Controls if the featured image size is fixed (cropped) or auto (full image "
+"ratio) for portfolio elements. <strong>IMPORTANT:</strong> Fixed works best "
+"with a standard 940px site width. Auto works best with larger site widths."
+msgstr ""
+"控制Portfolio元素的特色图像大小是固定的（裁剪）还是自动（全图像比例）。 "
+"<strong>重要提示：</strong>修正了标准940px网站宽度的最佳效果。 自动适用于较大"
+"的网站宽度。"
+
+#: shortcodes/fusion-portfolio.php:1263 shortcodes/fusion-portfolio.php:1524
+msgid "Fixed"
+msgstr "固定"
+
+#: shortcodes/fusion-portfolio.php:1264 shortcodes/fusion-portfolio.php:1525
+msgid "Auto"
+msgstr "自动"
+
+#: shortcodes/fusion-portfolio.php:1268 shortcodes/fusion-portfolio.php:1673
+msgid "Number of Columns"
+msgstr "列数"
+
+#: shortcodes/fusion-portfolio.php:1269 shortcodes/fusion-portfolio.php:1674
+msgid ""
+"Set the number of columns per row. With Carousel layout this specifies the "
+"maximum amount of columns. <strong>IMPORTANT:</strong> Masonry layout does "
+"not work with 1 column."
+msgstr ""
+"设置每行显示的列数。在旋转木马Carousel的布局中，需要设定最大列数。<strong>重"
+"要的:</strong> 瀑布流布局不能工作在一列中。"
+
+#: shortcodes/fusion-portfolio.php:1280 shortcodes/fusion-portfolio.php:1684
+msgid "Column Spacing"
+msgstr "列间距"
+
+#: shortcodes/fusion-portfolio.php:1281 shortcodes/fusion-portfolio.php:1685
+msgid "Controls the column spacing for portfolio items."
+msgstr "控制案例作品项目的列间距。"
+
+#: shortcodes/fusion-portfolio.php:1292
+msgid "Number of Portfolio Items Per Page"
+msgstr "案例作品每页的项目数量"
+
+#: shortcodes/fusion-portfolio.php:1293
+msgid ""
+"Controls the number of posts that display per page for portfolio elements. "
+"Set to -1 to display all. Set to 0 to use the number of posts from Settings "
+"> Reading."
+msgstr ""
+"控制着案例作品元素每页显示文章的数量。设置为 -1 显示所有内容。设置为0则使用从"
+"WordPress设置 > 阅读的文章数量。"
+
+#: shortcodes/fusion-portfolio.php:1304
+msgid "Portfolio Text Layout"
+msgstr "案例作品文本布局"
+
+#: shortcodes/fusion-portfolio.php:1305
+msgid ""
+"Controls if the portfolio text content is displayed boxed or unboxed or is "
+"completely disabled for portfolio elements."
+msgstr "如果组合文本内容被显示为框或未装箱或完全禁用组合元素，则控制。"
+
+#: shortcodes/fusion-portfolio.php:1310 shortcodes/fusion-portfolio.php:1322
+#: shortcodes/fusion-portfolio.php:1543 shortcodes/fusion-portfolio.php:2040
+msgid "No Text"
+msgstr "无文本"
+
+#: shortcodes/fusion-portfolio.php:1311 shortcodes/fusion-portfolio.php:1544
+msgid "Boxed"
+msgstr "Boxed"
+
+#: shortcodes/fusion-portfolio.php:1312 shortcodes/fusion-portfolio.php:1545
+msgid "Unboxed"
+msgstr "Unboxed"
+
+#: shortcodes/fusion-portfolio.php:1316
+msgid "Portfolio Text Display"
+msgstr "作品Portfolio文本显示"
+
+#: shortcodes/fusion-portfolio.php:1317
+msgid "Choose how to display the post excerpt for portfolio elements."
+msgstr "选择如何显示portfolio作品元素的帖子摘录。"
+
+#: shortcodes/fusion-portfolio.php:1323 shortcodes/fusion-portfolio.php:2041
+msgid "Excerpt"
+msgstr "摘要"
+
+#: shortcodes/fusion-portfolio.php:1324 shortcodes/fusion-portfolio.php:2042
+msgid "Full Content"
+msgstr "完整的内容"
+
+#: shortcodes/fusion-portfolio.php:1328 shortcodes/fusion-portfolio.php:2060
+msgid "Excerpt Length"
+msgstr "摘要长度"
+
+#: shortcodes/fusion-portfolio.php:1329
+msgid "Controls the number of words in the excerpts for portfolio elements."
+msgstr "控制案例作品元素中单词的数量。"
+
+#: shortcodes/fusion-portfolio.php:1347
+msgid "Strip HTML from Excerpt"
+msgstr "带HTML的摘要"
+
+#: shortcodes/fusion-portfolio.php:1348
+msgid "Turn on to strip HTML content from the excerpt for portfolio elements."
+msgstr "打开：从案例作品元素的摘要中去掉HTML内容。"
+
+#: shortcodes/fusion-portfolio.php:1354 shortcodes/fusion-portfolio.php:1795
+msgid "Portfolio Title Display"
+msgstr "作品案例标题显示"
+
+#: shortcodes/fusion-portfolio.php:1355
+msgid ""
+"Controls what displays with the portfolio post title for portfolio elements."
+msgstr "控制作品案例元素的案例作品文章标题所显示的内容。"
+
+#: shortcodes/fusion-portfolio.php:1360 shortcodes/fusion-portfolio.php:1800
+msgid "Title and Categories"
+msgstr "标题和类别"
+
+#: shortcodes/fusion-portfolio.php:1361 shortcodes/fusion-portfolio.php:1801
+msgid "Only Title"
+msgstr "只有标题"
+
+#: shortcodes/fusion-portfolio.php:1362 shortcodes/fusion-portfolio.php:1802
+msgid "Only Categories"
+msgstr "只有类别"
+
+#: shortcodes/fusion-portfolio.php:1367 shortcodes/fusion-portfolio.php:1816
+msgid "Portfolio Text Alignment"
+msgstr "作品案例的文本对齐方式"
+
+#: shortcodes/fusion-portfolio.php:1368
+msgid ""
+"Controls the alignment of the portfolio title, categories and excerpt text "
+"when using the Portfolio Text layouts in portfolio elements."
+msgstr ""
+"在案例作品元素中使用案例作品文本布局时，控制案例作品的标题、类别和摘要文本的"
+"对齐方式。"
+
+#: shortcodes/fusion-portfolio.php:1374 shortcodes/fusion-portfolio.php:1822
+msgid "Center"
+msgstr "中"
+
+#: shortcodes/fusion-portfolio.php:1379
+msgid "Portfolio Text Layout Padding"
+msgstr "案例作品文本布局内间距"
+
+#: shortcodes/fusion-portfolio.php:1380
+msgid ""
+"Controls the padding for the portfolio text layout when using boxed mode in "
+"portfolio elements."
+msgstr "在作品案例元素中使用盒装模式boxed时，控制案例作品文本布局的内边距。"
+
+#: shortcodes/fusion-portfolio.php:1405 shortcodes/fusion-portfolio.php:1951
+msgid "Pagination Type"
+msgstr "分页类型"
+
+#: shortcodes/fusion-portfolio.php:1406
+msgid "Controls the pagination type for portfolio elements."
+msgstr "控制着案例作品元素分页类型"
+
+#: shortcodes/fusion-portfolio.php:1411 shortcodes/fusion-portfolio.php:1957
+msgid "Pagination"
+msgstr "分页"
+
+#: shortcodes/fusion-portfolio.php:1412
+msgid "Infinite Scroll"
+msgstr "无限滚动"
+
+#: shortcodes/fusion-portfolio.php:1413 shortcodes/fusion-portfolio.php:1959
+msgid "Load More Button"
+msgstr "加载更多的按钮"
+
+#: shortcodes/fusion-portfolio.php:1417
+msgid "Load More Posts Button Color"
+msgstr "加载更多文章的按钮颜色"
+
+#: shortcodes/fusion-portfolio.php:1418
+msgid ""
+"Controls the background color of the load more button for ajax post loading "
+"for portfolio elements."
+msgstr "控制着加载更多按钮的背景颜色，用于案例作品元素ajax文章加载时。"
+
+#: shortcodes/fusion-portfolio.php:1473
+msgid "All items displayed."
+msgstr "显示所有项目。"
+
+#: shortcodes/fusion-portfolio.php:1474
+msgid "Loading the next set of posts..."
+msgstr "加载下一个帖子…"
+
+#: shortcodes/fusion-portfolio.php:1499
+msgid "Portfolio"
+msgstr "作品案例"
+
+#: shortcodes/fusion-portfolio.php:1507
+msgid "Layout"
+msgstr "布局"
+
+#: shortcodes/fusion-portfolio.php:1508
+msgid "Select the layout for the element."
+msgstr "选择元素的布局。"
+
+#: shortcodes/fusion-portfolio.php:1511
+msgid "Carousel"
+msgstr "Carousel"
+
+#: shortcodes/fusion-portfolio.php:1512
+msgid "Grid"
+msgstr "网格"
+
+#: shortcodes/fusion-portfolio.php:1513
+msgid "Masonry"
+msgstr "Masonry瀑布流"
+
+#: shortcodes/fusion-portfolio.php:1519
+msgid "Picture Size"
+msgstr "图片的大小"
+
+#: shortcodes/fusion-portfolio.php:1520
+msgid ""
+"fixed = width and height will be fixed <br />auto = width and height will "
+"adjust to the image."
+msgstr "固定fixed=宽度和高度将固定<br />自动auto=宽度和高度会适应图像。"
+
+#: shortcodes/fusion-portfolio.php:1538
+msgid "Text Layout"
+msgstr "文本布局"
+
+#: shortcodes/fusion-portfolio.php:1539
+msgid ""
+"Controls if the portfolio text content is displayed boxed or unboxed or is "
+"completely disabled."
+msgstr "控制着如果案例作品文本内容显示为boxed 或 unboxed 或 完全禁用。"
+
+#: shortcodes/fusion-portfolio.php:1558
+msgid "Grid Box Color"
+msgstr "网格框的颜色"
+
+#: shortcodes/fusion-portfolio.php:1559
+msgid ""
+"Controls the background color for the grid boxes. For grid layout this "
+"option will only work in boxed mode."
+msgstr "控制网格框的背景颜色。对于网格布局，此选项仅适用于盒装模式。"
+
+#: shortcodes/fusion-portfolio.php:1578
+msgid "Grid Element Color"
+msgstr "网格元素颜色"
+
+#: shortcodes/fusion-portfolio.php:1579
+msgid "Controls the color of borders of the grid boxes."
+msgstr "控制网格框边框的颜色。"
+
+#: shortcodes/fusion-portfolio.php:1603
+msgid "Grid Separator Style"
+msgstr "网格分隔符样式"
+
+#: shortcodes/fusion-portfolio.php:1604
+msgid "Controls the line style of grid separators."
+msgstr "控制网格分隔符的线条样式。"
+
+#: shortcodes/fusion-portfolio.php:1608
+msgid "No Style"
+msgstr "无样式"
+
+#: shortcodes/fusion-portfolio.php:1609
+msgid "Single Border Solid"
+msgstr "单实线"
+
+#: shortcodes/fusion-portfolio.php:1610
+msgid "Double Border Solid"
+msgstr "双实线"
+
+#: shortcodes/fusion-portfolio.php:1611
+msgid "Single Border Dashed"
+msgstr "单虚线"
+
+#: shortcodes/fusion-portfolio.php:1612
+msgid "Double Border Dashed"
+msgstr "双虚线"
+
+#: shortcodes/fusion-portfolio.php:1613
+msgid "Single Border Dotted"
+msgstr "单点线"
+
+#: shortcodes/fusion-portfolio.php:1614
+msgid "Double Border Dotted"
+msgstr "双点线"
+
+#: shortcodes/fusion-portfolio.php:1615
+msgid "Shadow"
+msgstr "阴影"
+
+#: shortcodes/fusion-portfolio.php:1643
+msgid "Grid Separator Color"
+msgstr "网格分隔符颜色"
+
+#: shortcodes/fusion-portfolio.php:1644
+msgid "Controls the line style color of grid separators."
+msgstr "控制网格分隔符的线条样式颜色。"
+
+#: shortcodes/fusion-portfolio.php:1702
+msgid "Masonry Image Aspect Ratio"
+msgstr "瀑布流图像长宽比"
+
+#: shortcodes/fusion-portfolio.php:1703
+msgid ""
+"Set the ratio to decide when an image should become landscape (ratio being "
+"width : height) and portrait (ratio being height : width). <strong>IMPORTANT:"
+"</strong> The value of \"1.0\" represents a special case, which will use the "
+"auto calculated ratios like in versions prior to Avada 5.5."
+msgstr ""
+"设置比例以决定图像何时应变为横向 (比率为宽度: 高度) 和纵向 (比率为高度: 宽"
+"度)。<strong>重要:</strong>\"1.0\" 的值代表一个特殊情况, 它将使用自动计算的比"
+"率, 如在 Avada 5.5 之前的版本。"
+
+#: shortcodes/fusion-portfolio.php:1720
+msgid "Masonry 2x2 Width"
+msgstr "瀑布流 2x2 宽"
+
+#: shortcodes/fusion-portfolio.php:1721
+msgid ""
+"This option decides when a square 1x1 image should become 2x2. This will not "
+"apply to images that highly favor landscape or portrait layouts. "
+"<strong>IMPORTANT:</strong> There is a “Masonry Image Layout” setting for "
+"every image in the WP media library that allows you to manually set how an "
+"image will appear (1x1, landscape, portrait or 2x2), regardless of the "
+"original ratio. In pixels."
+msgstr ""
+"这个选项决定了一个正方形的1x1图像何时应该变为2x2。 这不适用于高度支持横向或纵"
+"向布局的图像。<strong>重要:</strong> 对于WP媒体库中的每个图像都有一个“瀑布流"
+"图像布局”设置，允许您手动设置图像的显示方式（1x1，横向，纵向或2×2），而不管原"
+"始比例如何。 以像素为单位。"
+
+#: shortcodes/fusion-portfolio.php:1738
+msgid "Content Position"
+msgstr "内容的位置"
+
+#: shortcodes/fusion-portfolio.php:1739
+msgid ""
+"Select if title, terms and excerpts should be displayed below or next to the "
+"featured images."
+msgstr "选择标题、术语和摘要应显示在下方或特色图片的旁边。"
+
+#: shortcodes/fusion-portfolio.php:1743
+msgid "Below image"
+msgstr "下面的图片"
+
+#: shortcodes/fusion-portfolio.php:1744
+msgid "Next to Image"
+msgstr "下一张图片"
+
+#: shortcodes/fusion-portfolio.php:1761
+msgid "Equal Heights"
+msgstr "等高"
+
+#: shortcodes/fusion-portfolio.php:1762
+msgid "Set to yes to display grid boxes with equal heights per row."
+msgstr "设置为“是”可显示每行高度相同的网格框。"
+
+#: shortcodes/fusion-portfolio.php:1784
+msgid "Posts Per Page"
+msgstr "每页文章"
+
+#: shortcodes/fusion-portfolio.php:1785
+msgid ""
+"Select number of posts per page.  Set to -1 to display all. Set to 0 to use "
+"number of posts from Settings > Reading."
+msgstr ""
+"选择每页文章的数量。设置为-1显示全部。设置为0使用WordPress的设置，位置在 设"
+"置 > 阅读。"
+
+#: shortcodes/fusion-portfolio.php:1796
+msgid "Controls what displays with the portfolio post title."
+msgstr "控制案例作品文章标题显示。"
+
+#: shortcodes/fusion-portfolio.php:1817
+msgid ""
+"Controls the alignment of the portfolio title, categories and excerpt text "
+"when using the Portfolio Text layouts."
+msgstr "控制作品案例标题、分类、摘要的对齐方式，在使用带文本布局的作品案例时。"
+
+#: shortcodes/fusion-portfolio.php:1837
+msgid "Portfolio Text Layout Padding "
+msgstr "文本布局的作品案例内间距"
+
+#: shortcodes/fusion-portfolio.php:1838
+msgid ""
+"Controls the padding for the portfolio text layout when using boxed mode. "
+"Enter values including any valid CSS unit, ex: 25px, 25px, 25px, 25px."
+msgstr ""
+"控制文本布局作品案例内间距（boxed模式）。输入值包括任何有效的CSS单位，例: "
+"25px, 25px, 25px, 25px。"
+
+#: shortcodes/fusion-portfolio.php:1861
+msgid "Show Filters"
+msgstr "显示筛选器"
+
+#: shortcodes/fusion-portfolio.php:1862
+msgid "Choose to show or hide the category filters."
+msgstr "选择显示或隐藏类别筛选器。"
+
+#: shortcodes/fusion-portfolio.php:1866
+msgid "Yes without \"All\""
+msgstr "不显示 \"全部\""
+
+#: shortcodes/fusion-portfolio.php:1880
+msgid "Pull Posts By"
+msgstr "文章通过"
+
+#: shortcodes/fusion-portfolio.php:1881
+msgid "Choose to show posts by category or tag."
+msgstr "选择按类别或标签显示文章。"
+
+#: shortcodes/fusion-portfolio.php:1885
+msgid "Category"
+msgstr "类别"
+
+#: shortcodes/fusion-portfolio.php:1886
+msgid "Tag"
+msgstr "标签"
+
+#: shortcodes/fusion-portfolio.php:1892
+msgid "Select categories or leave blank for all."
+msgstr "选择类别或留空白显示所有。"
+
+#: shortcodes/fusion-portfolio.php:1922
+msgid "Select a tag or leave blank for all."
+msgstr "为所有人选择一个标签或留空。"
+
+#: shortcodes/fusion-portfolio.php:1936
+msgid "Exclude Tags"
+msgstr "排除标签"
+
+#: shortcodes/fusion-portfolio.php:1937
+msgid "Select a tag to exclude."
+msgstr "选择一个要排除的标签。"
+
+#: shortcodes/fusion-portfolio.php:1952
+msgid "Choose the type of pagination."
+msgstr "选择分页的类型。"
+
+#: shortcodes/fusion-portfolio.php:1958
+msgid "Infinite Scrolling"
+msgstr "无限滚动"
+
+#: shortcodes/fusion-portfolio.php:1972
+msgid "Hide URL Parameter"
+msgstr "隐藏的URL参数"
+
+#: shortcodes/fusion-portfolio.php:1973
+msgid ""
+"Turn on to remove portfolio category parameters in single post URLs. These "
+"are mainly used for single item pagination within selected categories."
+msgstr ""
+"打开删除作品案例分类参数单一的URL。这些是主要用于单项分页在选定的类别。"
+
+#: shortcodes/fusion-portfolio.php:1977
+msgid "On"
+msgstr "开"
+
+#: shortcodes/fusion-portfolio.php:1978
+msgid "Off"
+msgstr "关"
+
+#: shortcodes/fusion-portfolio.php:1990
+msgid "Post Offset"
+msgstr "文章Offset"
+
+#: shortcodes/fusion-portfolio.php:1991
+msgid "The number of posts to skip. ex: 1."
+msgstr "帖子跳过的数量。例:1。"
+
+#: shortcodes/fusion-portfolio.php:2001
+msgid "Defines how portfolios should be ordered."
+msgstr "定义作品案例portfolio该如何排序。"
+
+#: shortcodes/fusion-portfolio.php:2007
+msgid "Portfolio Order"
+msgstr "作品排序"
+
+#: shortcodes/fusion-portfolio.php:2018
+msgid "Defines the sorting order of portfolios."
+msgstr "定义投资组合的排序顺序。"
+
+#: shortcodes/fusion-portfolio.php:2035
+msgid "Text Display"
+msgstr "文字显示"
+
+#: shortcodes/fusion-portfolio.php:2036
+msgid "Choose how to display the post excerpt."
+msgstr "选择显示文章摘要。"
+
+#: shortcodes/fusion-portfolio.php:2061
+msgid "Insert the number of words/characters you want to show in the excerpt."
+msgstr ""
+"摘要的字数，words/characters（单词／字符）（achair备注：中文好像只能使用字符"
+"模式才能正常截取）。"
+
+#: shortcodes/fusion-portfolio.php:2093
+msgid "Strip HTML"
+msgstr "带HTML"
+
+#: shortcodes/fusion-portfolio.php:2094
+msgid "Strip HTML from the post excerpt."
+msgstr "文章摘要带HTML。"
+
+#: shortcodes/fusion-portfolio.php:2122
+msgid "Carousel Layout"
+msgstr "Carousel 布局"
+
+#: shortcodes/fusion-portfolio.php:2123
+msgid "Choose to show titles on rollover image, or below image."
+msgstr "选择显示标题的方式，翻转图片还是在图片下面。"
+
+#: shortcodes/fusion-portfolio.php:2126
+msgid "Title below image"
+msgstr "标题在图片下面"
+
+#: shortcodes/fusion-portfolio.php:2127
+msgid "Title on rollover"
+msgstr "翻转时显示图片"
+
+#: shortcodes/fusion-portfolio.php:2140
+msgid "Carousel Scroll Items"
+msgstr "Carousel 滚动项目"
+
+#: shortcodes/fusion-portfolio.php:2141
+msgid ""
+"Insert the amount of items to scroll. Leave empty to scroll number of "
+"visible items."
+msgstr "插入滚动项目的数量。留空可见项目的滚动数量。"
+
+#: shortcodes/fusion-portfolio.php:2154
+msgid "Carousel Autoplay"
+msgstr "Carousel 自动播放"
+
+#: shortcodes/fusion-portfolio.php:2155
+msgid "Choose to autoplay the carousel."
+msgstr "选择自动播放Carousel。"
+
+#: shortcodes/fusion-portfolio.php:2172
+msgid "Carousel Show Navigation"
+msgstr "Carousel显示导航"
+
+#: shortcodes/fusion-portfolio.php:2173
+msgid "Choose to show navigation buttons on the carousel."
+msgstr "选择显示Carousel导航按钮"
+
+#: shortcodes/fusion-portfolio.php:2190
+msgid "Carousel Mouse Scroll"
+msgstr "Carousel 鼠标滚动"
+
+#: shortcodes/fusion-portfolio.php:2191
+msgid "Choose to enable mouse drag control on the carousel."
+msgstr "选择开启鼠标拖拽控制Carousel。"
+
+#: shortcodes/fusion-portfolio.php:2208 shortcodes/fusion-privacy.php:335
+msgid "Animation Type"
+msgstr "动画类型"
+
+#: shortcodes/fusion-portfolio.php:2209 shortcodes/fusion-privacy.php:336
+msgid "Select the type of animation to use on the element."
+msgstr "选择要使用元素动画的类型。"
+
+#: shortcodes/fusion-portfolio.php:2217 shortcodes/fusion-privacy.php:344
+msgid "Direction of Animation"
+msgstr "动画的方向"
+
+#: shortcodes/fusion-portfolio.php:2218 shortcodes/fusion-privacy.php:345
+msgid "Select the incoming direction for the animation."
+msgstr "选择动画的进入方向。"
+
+#: shortcodes/fusion-portfolio.php:2221 shortcodes/fusion-privacy.php:348
+msgid "Top"
+msgstr "顶部"
+
+#: shortcodes/fusion-portfolio.php:2223 shortcodes/fusion-privacy.php:350
+msgid "Bottom"
+msgstr "底部"
+
+#: shortcodes/fusion-portfolio.php:2225 shortcodes/fusion-privacy.php:352
+msgid "Static"
+msgstr "静态的"
+
+#: shortcodes/fusion-portfolio.php:2239 shortcodes/fusion-privacy.php:366
+msgid "Speed of Animation"
+msgstr "动画速度"
+
+#: shortcodes/fusion-portfolio.php:2240 shortcodes/fusion-privacy.php:367
+msgid "Type in speed of animation in seconds (0.1 - 1)."
+msgstr "每秒动画的速度类型(0.1 - 1)。"
+
+#: shortcodes/fusion-portfolio.php:2257 shortcodes/fusion-privacy.php:384
+msgid "Offset of Animation"
+msgstr "抵消的动画"
+
+#: shortcodes/fusion-portfolio.php:2258 shortcodes/fusion-privacy.php:385
+msgid "Controls when the animation should start."
+msgstr "当动画开始时控制"
+
+#: shortcodes/fusion-portfolio.php:2262 shortcodes/fusion-privacy.php:389
+msgid "Top of element hits bottom of viewport"
+msgstr "元素顶部点击视口底部（Top of element hits bottom of viewport）"
+
+#: shortcodes/fusion-portfolio.php:2263 shortcodes/fusion-privacy.php:390
+msgid "Top of element hits middle of viewport"
+msgstr "元素顶部点击视口中间（Top of element hits middle of viewport）"
+
+#: shortcodes/fusion-portfolio.php:2264 shortcodes/fusion-privacy.php:391
+msgid "Bottom of element enters viewport"
+msgstr "底部元素进入视口（Bottom of element enters viewport）"
+
+#: shortcodes/fusion-privacy.php:145
+msgid "Update"
+msgstr "更新"
+
+#: shortcodes/fusion-privacy.php:276 shortcodes/fusion-privacy.php:278
+msgid "Your embed preferences have been updated."
+msgstr "您的嵌入偏好已更新。"
+
+#: shortcodes/fusion-privacy.php:282 shortcodes/fusion-privacy.php:284
+msgid "Your embed preferences have been cleared."
+msgstr "您的嵌入偏好已被清除。"
+
+#: shortcodes/fusion-privacy.php:308
+msgid "Privacy"
+msgstr "隐私"
+
+#: shortcodes/fusion-privacy.php:316
+msgid "Privacy Text"
+msgstr "隐私文本"
+
+#: shortcodes/fusion-privacy.php:317
+msgid "Controls the privacy text which will show above the form."
+msgstr "控制显示在表单上方的隐私文字。"
+
+#: shortcodes/fusion-privacy.php:319
+msgid "Your Content Goes Here"
+msgstr "你的内容在这里"
+
+#: shortcodes/fusion-privacy.php:324
+msgid "Form Field Layout"
+msgstr "表格字段布局"
+
+#: shortcodes/fusion-privacy.php:325
+msgid ""
+"Choose if form checkboxes should be stacked and full width, or if they "
+"should be floated."
+msgstr "选择表单复选框应该堆叠和全宽，还是应该浮动。"
+
+#: shortcodes/fusion-privacy.php:328
+msgid "Stacked"
+msgstr "叠放"
+
+#: shortcodes/fusion-privacy.php:329
+msgid "Floated"
+msgstr "浮动"
+
+#. translators: The categories.
+#: shortcodes/previews/fusion-faq-preview.php:15
+#: shortcodes/previews/fusion-portfolio-preview.php:30
+msgid "categories = %s"
+msgstr "分类 = %s"
+
+#. translators: The layout.
+#: shortcodes/previews/fusion-portfolio-preview.php:14
+msgid "layout = %s"
+msgstr "布局 = %s"
+
+#. translators: The tags.
+#: shortcodes/previews/fusion-portfolio-preview.php:25
+msgid "tags = %s"
+msgstr "标签 = %s"
+
+#: templates/portfolio-archive-layout.php:372
+msgid " View Project"
+msgstr " 查看项目"
+
+#: templates/single-avada_portfolio.php:32
+#: templates/single-avada_portfolio.php:40
+#: templates/single-avada_portfolio.php:55
+msgid "Previous"
+msgstr "以前的"
+
+#: templates/single-avada_portfolio.php:62
+#: templates/single-avada_portfolio.php:70
+#: templates/single-avada_portfolio.php:85
+msgid "Next"
+msgstr "下一个"
+
+#: templates/single-avada_portfolio.php:163
+msgid "Project Description"
+msgstr "项目描述"
+
+#: templates/single-avada_portfolio.php:177
+msgid "Project Details"
+msgstr "项目详细信息"
+
+#: templates/single-avada_portfolio.php:185
+msgid "Skills Needed:"
+msgstr "技能:"
+
+#: templates/single-avada_portfolio.php:198
+msgid "Categories:"
+msgstr "类别:"
+
+#: templates/single-avada_portfolio.php:211
+msgid "Tags:"
+msgstr "标签:"
+
+#: templates/single-avada_portfolio.php:230
+msgid "Project URL:"
+msgstr "项目 URL:"
+
+#: templates/single-avada_portfolio.php:247
+msgid "Copyright:"
+msgstr "版权:"
+
+#: templates/single-avada_portfolio.php:258
+msgid "By:"
+msgstr "由:"
+
+#. Plugin Name of the plugin/theme
+msgid "Fusion Core"
+msgstr "Fusion核心"
+
+#. Author URI of the plugin/theme
+msgid "http://theme-fusion.com"
+msgstr "http://theme-fusion.com"
+
+#. Description of the plugin/theme
+msgid "ThemeFusion Core Plugin for ThemeFusion Themes"
+msgstr "ThemeFusion核心插件ThemeFusion主题"
+
+#. Author of the plugin/theme
+msgid "ThemeFusion"
+msgstr "Fusion主题"
+
+#: fusion-core.php:316
+msgctxt "Post Type General Name"
+msgid "Portfolio"
+msgstr "作品案例"
+
+#: fusion-core.php:386
+msgctxt "Post Type General Name"
+msgid "FAQs"
+msgstr "常见问题"
+
+#: fusion-core.php:433
+msgctxt "Post Type General Name"
+msgid "Elastic Sliders"
+msgstr "Elastic 幻灯片"
+
+#: fusion-slider/class-fusion-slider.php:69
+msgctxt "Post Type General Name"
+msgid "Fusion Slides"
+msgstr "Fusion 幻灯片"
+
+#: fusion-core.php:317
+msgctxt "Post Type Singular Name"
+msgid "Portfolio"
+msgstr "作品案例"
+
+#: fusion-core.php:387
+msgctxt "Post Type Singular Name"
+msgid "FAQ"
+msgstr "常见问题"
+
+#: fusion-core.php:434
+msgctxt "Post Type Singular Name"
+msgid "Elastic Slider"
+msgstr "Elastic 滑块"
+
+#: fusion-slider/class-fusion-slider.php:70
+msgctxt "Post Type Singular Name"
+msgid "Fusion Slide"
+msgstr "Fusion 幻灯片"
+
+#: fusion-core.php:318
+msgctxt "fusion-core"
+msgid "Add New Portfolio Post"
+msgstr "添加新案例文章"
+
+#: fusion-core.php:319
+msgctxt "fusion-core"
+msgid "Edit Portfolio Post"
+msgstr "编辑案例文章"
+
+#: fusion-core.php:388
+msgctxt "fusion-core"
+msgid "Add New FAQ Post"
+msgstr "添加新FAQ文章"
+
+#: fusion-core.php:389
+msgctxt "fusion-core"
+msgid "Edit FAQ Post"
+msgstr "编辑FAQ文章"
+
+#: fusion-core.php:344
+msgctxt "slug"
+msgid "portfolio_category"
+msgstr "portfolio_category"
+
+#: fusion-core.php:361
+msgctxt "slug"
+msgid "portfolio_skills"
+msgstr "portfolio_skills"
+
+#: fusion-core.php:375
+msgctxt "slug"
+msgid "portfolio_tags"
+msgstr "portfolio_tags"
+
+#: fusion-core.php:463
+msgctxt "Taxonomy General Name"
+msgid "Groups"
+msgstr "群组"
+
+#: fusion-core.php:464
+msgctxt "Taxonomy Singular Name"
+msgid "Group"
+msgstr "组"
+
+#~ msgid ""
+#~ "Controls the width of content,  In pixels, ex: 850px. Leave blank for "
+#~ "site width."
+#~ msgstr "控制内容的宽度，以像素为单位，例如：850像素，留空为网站宽度"
+
+#~ msgid "Controls the color of the active FAQ box."
+#~ msgstr "控制活动FAQ框的颜色。"
+
+#~ msgid "Portfolio Column Spacing"
+#~ msgstr "案例作品列间距"
+
+#~ msgid "Columns"
+#~ msgstr "列"
+
+#~ msgid ""
+#~ "Insert the amount of spacing between portfolio items without \"px\". ex: "
+#~ "7."
+#~ msgstr "插入案例作品项目的间距数值，不带“px”。例:7。"
+
+#~ msgid ""
+#~ "Check this option to display a scroll down indicator icon at the bottom "
+#~ "of the slider."
+#~ msgstr "选中此选项可在滑块底部显示向下滚动指示器图标。"
+
+#~ msgid "Check this box to display the pagination circles."
+#~ msgstr "选中显示分页圈"
+
+#~ msgid "FAQ Item Active Box Color"
+#~ msgstr "常见问题项目活动框颜色"
+
+#~ msgid "Portfolio Content Display"
+#~ msgstr "案例作品内容显示"
+
+#~ msgid ""
+#~ "Controls if the portfolio content displays an excerpt or full content for "
+#~ "portfolio elements."
+#~ msgstr "控制着案例作品元素的案例作品内容显示摘要还是全部内容。"
+
+#~ msgid "There was an error when reading this WXR file"
+#~ msgstr "解析WXR文件时出现了错误"
+
+#~ msgid ""
+#~ "Details are shown above. The importer will now try again with a different "
+#~ "parser..."
+#~ msgstr "详情如上所示，导入工作将再次尝试使用不同的解析器…"
+
+#~ msgid ""
+#~ "This does not appear to be a WXR file, missing/invalid WXR version number"
+#~ msgstr "这似乎不是一个WXR文件，缺失/无效WXR版本号"
+
+#~ msgid "Sorry, there has been an error."
+#~ msgstr "很抱歉，发生了错误"
+
+#~ msgid "The file does not exist, please try again."
+#~ msgstr "该文件不存在，请重试"
+
+#~ msgid "All done."
+#~ msgstr "全部完成"
+
+#~ msgid "Have fun!"
+#~ msgstr "耍的开心！"
+
+#~ msgid "Remember to update the passwords and roles of imported users."
+#~ msgstr "请记住更新导入用户的密码和角色"
+
+#~ msgid ""
+#~ "The export file could not be found at <code>%s</code>. It is likely that "
+#~ "this was caused by a permissions problem."
+#~ msgstr "在 <code>%s</code> 找不到导出文件，很可能这是由权限问题引起的"
+
+#~ msgid ""
+#~ "This WXR file (version %s) may not be supported by this version of the "
+#~ "importer. Please consider updating."
+#~ msgstr "此版本的导入程序可能不支持此WXR文件（版本％s）。 请考虑更新"
+
+#~ msgid ""
+#~ "Failed to import author %s. Their posts will be attributed to the current "
+#~ "user."
+#~ msgstr "无法导入作者“%s”。相关文章将被分配给当前用户"
+
+#~ msgid ""
+#~ "To make it easier for you to edit and save the imported content, you may "
+#~ "want to reassign the author of the imported item to an existing user of "
+#~ "this site. For example, you may want to import all the entries as "
+#~ "<code>admin</code>s entries."
+#~ msgstr ""
+#~ "为了让您更方便地编辑和保存导入的内容，你可能要重新分配导入项目的作者给本网"
+#~ "站的现有用户。例如，您可能希望将所有条目导入为<code>admin</code>的条目"
+
+#~ msgid ""
+#~ "If a new user is created by WordPress, a new password will be randomly "
+#~ "generated and the new user&#8217;s role will be set as %s. Manually "
+#~ "changing the new user&#8217;s details will be necessary."
+#~ msgstr ""
+#~ "如果Wordpress创建了一个新用户，密码将随机生成；新用户的角色将被设置为 %s，"
+#~ "必须要手动修改新用户的详细信息，包括密码和角色"
+
+#~ msgid "Import Attachments"
+#~ msgstr "导入附件"
+
+#~ msgid "Download and import file attachments"
+#~ msgstr "下载并导入文件附件"
+
+#~ msgid "Submit"
+#~ msgstr "提交"
+
+#~ msgid "Import author:"
+#~ msgstr "导入作者："
+
+#~ msgid "or create new user with login name:"
+#~ msgstr "或使用登录名创建新用户："
+
+#~ msgid "as a new user:"
+#~ msgstr "作为新用户："
+
+#~ msgid "assign posts to an existing user:"
+#~ msgstr "文章分配给现有用户："
+
+#~ msgid "or assign posts to an existing user:"
+#~ msgstr "或者将文章分配给现有用户："
+
+#~ msgid "- Select -"
+#~ msgstr "- 选择 -"
+
+#~ msgid ""
+#~ "Failed to create new user for %s. Their posts will be attributed to the "
+#~ "current user."
+#~ msgstr "无法创建新用户 %s，相关文章将被分配给当前用户"
+
+#~ msgid "Failed to import category %s"
+#~ msgstr "无法导入分类 %s"
+
+#~ msgid "Failed to import post tag %s"
+#~ msgstr "无法导入文章标签 %s"
+
+#~ msgid "Failed to import %s %s"
+#~ msgstr "无法导入%s %s"
+
+#~ msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+#~ msgstr "无法导入 &#8220;%s&#8221;，无效的文章类型 %s"
+
+#~ msgid "%s &#8220;%s&#8221; already exists."
+#~ msgstr "%s &#8220;%s&#8221; 已经存在"
+
+#~ msgid "Failed to import %s &#8220;%s&#8221;"
+#~ msgstr "无法导入 %s &#8220;%s&#8221;"
+
+#~ msgid "Menu item skipped due to missing menu slug"
+#~ msgstr "由于缺少菜单别名，菜单项被忽略"
+
+#~ msgid "Menu item skipped due to invalid menu slug: %s"
+#~ msgstr "由于无效的菜单别名%s，菜单项被忽略"
+
+#~ msgid "Fetching attachments is not enabled"
+#~ msgstr "获取附件未启用"
+
+#~ msgid "Invalid file type"
+#~ msgstr "无效的文件类型"
+
+#~ msgid "Remote server did not respond"
+#~ msgstr "远程服务器未响应"
+
+#~ msgid "Remote server returned error response %1$d %2$s"
+#~ msgstr "远程服务器返回错误 %1$d %2$s"
+
+#~ msgid "Remote file is incorrect size"
+#~ msgstr "远程文件大小不正确"
+
+#~ msgid "Zero size file downloaded"
+#~ msgstr "已下载零大小文件"
+
+#~ msgid "Remote file is too large, limit is %s"
+#~ msgstr "远程文件过大，限制为%s"
+
+#~ msgid "Import WordPress"
+#~ msgstr "导入Wordpress"
+
+#~ msgid ""
+#~ "A new version of this importer is available. Please update to version %s "
+#~ "to ensure compatibility with newer export files."
+#~ msgstr ""
+#~ "导入文件有新版本可用，请更新到版本%s，以确保与更新的导出文件的兼容性"
+
+#~ msgid ""
+#~ "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll "
+#~ "import the posts, pages, comments, custom fields, categories, and tags "
+#~ "into this site."
+#~ msgstr ""
+#~ "您好！上传你的WordPress eXtended RSS（WXR）文件，我们将导入文章，页面，评"
+#~ "论，自定义字段，分类和标签到该网站"
+
+#~ msgid ""
+#~ "Choose a WXR (.xml) file to upload, then click Upload file and import."
+#~ msgstr "选择要上传的WXR（.xml）文件，然后单击上传文件并导入"
+
+#~ msgid ""
+#~ "Import <strong>posts, pages, comments, custom fields, categories, and "
+#~ "tags</strong> from a WordPress export file."
+#~ msgstr ""
+#~ "从WordPress导出文件中导入<strong>文章，页面，评论，自定义字段，类别和标签"
+#~ "</ strong>。"
+
+#~ msgid "Grid with text"
+#~ msgstr "带文本的网格"
+
+#~ msgid "Grid with Text Layout"
+#~ msgstr "带文本布局的网格"
+
+#~ msgid "Select if the grid with excerpts layouts are boxed or unboxed."
+#~ msgstr "选择带摘要布局的网格 是 盒子boxed 还是 非盒子unboxed。"
+
+#~ msgid ""
+#~ "Select the number of columns to display. With Carousel layout this "
+#~ "specifies the maximum amount of columns."
+#~ msgstr "选择要显示的列数。与Carousel布局指定列的最大数量。"
+
+#~ msgid ""
+#~ "Select if title, terms and excerpts should be displayed below or next to "
+#~ "the featured images. Only works on \"Grid with text\" layout."
+#~ msgstr ""
+#~ "选择如果标题、条款和摘要应该显示下面或旁边的图像。只适用于带文本的网格布"
+#~ "局。"
+
+#~ msgid "The type of animation when slides rotate."
+#~ msgstr "幻灯片轮换时的动画类型"
+
+#~ msgid "( Cloned )"
+#~ msgstr "（克隆）"
+
+#~ msgid "Cloninig failed. Post not found. ID: "
+#~ msgstr "克隆失败，未找到文章 ID："
