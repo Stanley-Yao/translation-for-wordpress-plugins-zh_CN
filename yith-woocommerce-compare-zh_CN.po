@@ -1,0 +1,469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH Woocommerce Compare\n"
+"POT-Creation-Date: 2018-11-28 16:31+0100\n"
+"PO-Revision-Date: 2019-04-11 16:23+0000\n"
+"Last-Translator: mediashaker <chao.yao@mediashaker.com>\n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: ../includes/class.yith-woocompare-admin.php:119
+#: ../includes/class.yith-woocompare-admin.php:143
+msgid "Settings"
+msgstr "设置"
+
+#: ../includes/class.yith-woocompare-admin.php:121
+msgid "License"
+msgstr "许可"
+
+#: ../includes/class.yith-woocompare-admin.php:147
+msgid "Premium Version"
+msgstr "高级版本"
+
+#: ../includes/class.yith-woocompare-admin.php:153
+#: ../includes/class.yith-woocompare-admin.php:154
+#: ../includes/class.yith-woocompare-frontend.php:505
+#: ../plugin-options/general-options.php:41
+#: ../plugin-options/general-options.php:42
+#: ../widgets/class.yith-woocompare-widget.php:51
+msgid "Compare"
+msgstr "比较"
+
+#: ../includes/class.yith-woocompare-admin.php:241
+msgid "YITH WooCommerce Compare Activated"
+msgstr "YITH WooCommerce compare 已激活"
+
+#: ../includes/class.yith-woocompare-admin.php:242
+#, php-format
+msgid ""
+"In the YIT Plugin tab you can find the YITH WooCommerce Compare options. "
+"With this menu, you can access to all the settings of our plugins that you "
+"have activated. YITH WooCommerce Compare is available in an outstanding "
+"PREMIUM version with many new options, <a href=\"%s\">discover it now</a>."
+msgstr ""
+"在YIT插件选项卡中，您可以找到YITH WooCommerce比较选项。 使用此菜单，您可以访问已激活的插件的所有设置。 YITH "
+"WooCommerce Compare有一个出色的PREMIUM版本，有许多新选项，<a href=\"%s\">现在发现它</a>。"
+
+#: ../includes/class.yith-woocompare-admin.php:253
+msgid "YITH WooCommerce Compare Updated"
+msgstr "YITH WooCommerce Compare 已经升级"
+
+#: ../includes/class.yith-woocompare-admin.php:254
+#, php-format
+msgid ""
+"From now on, you can find all the options of YITH WooCommerce Compare under "
+"YIT Plugin -> Compare instead of WooCommerce -> Settings -> Compare, as in "
+"the previous version. When one of our plugins is updated, a new voice will "
+"be added to this menu. YITH WooCommerce Compare has been updated with new "
+"available options, <a href=\"%s\">discover the PREMIUM version.</a>"
+msgstr ""
+"从现在开始，您可以在YIT插件 - >比较而不是WooCommerce  - >设置 - >比较中找到YITH "
+"WooCommerce比较的所有选项，与之前的版本一样。 当我们的其中一个插件更新时，会在此菜单中添加一个新的声音。 YITH WooCommerce "
+"Compare已更新为新的可用选项，<a href=\"%s\">发现PREMIUM版本。</a>"
+
+#: ../includes/class.yith-woocompare-admin.php:398
+msgid "Do you want to hard crop the image?"
+msgstr "你确定想要裁剪图片吗？"
+
+#: ../includes/class.yith-woocompare-frontend.php:223
+msgid "Added"
+msgstr "已加入"
+
+#: ../includes/class.yith-woocompare-frontend.php:224
+#: ../templates/compare.php:50
+msgid "Product Comparison"
+msgstr "产品比较"
+
+#: ../includes/class.yith-woocompare-frontend.php:229
+msgid "Close"
+msgstr "关闭"
+
+#: ../includes/class.yith-woocompare-frontend.php:384
+msgid "In stock"
+msgstr "库存"
+
+#: ../includes/class.yith-woocompare-frontend.php:696
+msgid "No products to compare"
+msgstr "没有产品可供比较"
+
+#: ../includes/class.yith-woocompare-frontend.php:709
+#: ../templates/compare.php:117
+msgid "Remove"
+msgstr "移除"
+
+#: ../includes/class.yith-woocompare-helper.php:46
+msgid "Image"
+msgstr "图像"
+
+#: ../includes/class.yith-woocompare-helper.php:47
+#: ../widgets/class.yith-woocompare-widget.php:68
+msgid "Title"
+msgstr "标题"
+
+#: ../includes/class.yith-woocompare-helper.php:48
+msgid "Price"
+msgstr "价格"
+
+#: ../includes/class.yith-woocompare-helper.php:49
+msgid "Add to cart"
+msgstr "加入购物车"
+
+#: ../includes/class.yith-woocompare-helper.php:50
+msgid "Description"
+msgstr "详情"
+
+#: ../includes/class.yith-woocompare-helper.php:51
+msgid "Sku"
+msgstr "SKU 库存管理单位 "
+
+#: ../includes/class.yith-woocompare-helper.php:52
+msgid "Availability"
+msgstr "是否可用"
+
+#: ../includes/class.yith-woocompare-helper.php:53
+msgid "Weight"
+msgstr "重量"
+
+#: ../includes/class.yith-woocompare-helper.php:54
+msgid "Dimensions"
+msgstr "尺寸"
+
+#: ../init.php:42
+msgid ""
+"YITH WooCommerce Compare is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr "YITH WooCommerce Compare 已启用但无效。 它需要WooCommerce才能工作。"
+
+#: ../init.php:50
+msgid ""
+"You can't activate the free version of YITH WooCommerce Compare while you "
+"are using the premium one."
+msgstr "当你已经使用高级版本，你不能激活  YITH WooCommerce Compare 的免费版本 "
+
+#: ../plugin-options/general-options.php:17
+msgid "General Settings"
+msgstr "设置"
+
+#: ../plugin-options/general-options.php:24
+msgid "Link or Button"
+msgstr "链接或按钮"
+
+#: ../plugin-options/general-options.php:25
+msgid "Choose if you want to use a link or a button for the comepare actions."
+msgstr "选择是否要使用链接或按钮进行比较操作。"
+
+#: ../plugin-options/general-options.php:32
+msgid "Link"
+msgstr "链接"
+
+#: ../plugin-options/general-options.php:33
+msgid "Button"
+msgstr "按钮"
+
+#: ../plugin-options/general-options.php:38
+msgid "Link/Button text"
+msgstr "链接/按钮 文字"
+
+#: ../plugin-options/general-options.php:39
+msgid "Type the text to use for the button or the link of the compare."
+msgstr "键入要用于按钮的文本或比较的链接。"
+
+#: ../plugin-options/general-options.php:47
+msgid "Show button in single product page"
+msgstr "在单个产品页面中显示按钮"
+
+#: ../plugin-options/general-options.php:48
+msgid "Say if you want to show the button in the single product page."
+msgstr "假设您要在单个产品页面中显示该按钮。"
+
+#: ../plugin-options/general-options.php:56
+msgid "Show button in products list"
+msgstr "在产品列表中显示按钮"
+
+#: ../plugin-options/general-options.php:57
+msgid "Say if you want to show the button in the products list."
+msgstr "假设您要在产品列表中显示该按钮。"
+
+#: ../plugin-options/general-options.php:65
+msgid "Open automatically lightbox"
+msgstr "自动打开灯箱"
+
+#: ../plugin-options/general-options.php:66
+msgid "Open link after click into \"Compare\" button\"."
+msgstr "点击“比较”按钮后打开链接“。"
+
+#: ../plugin-options/general-options.php:79
+msgid "Table Settings"
+msgstr "表格设置"
+
+#: ../plugin-options/general-options.php:86
+msgid "Table title"
+msgstr "表格标题"
+
+#: ../plugin-options/general-options.php:87
+msgid "Type the text to use for the table title."
+msgstr "键入要用于表标题的文本。"
+
+#: ../plugin-options/general-options.php:89
+#: ../plugin-options/general-options.php:90
+msgid "Compare products"
+msgstr "比较产品"
+
+#: ../plugin-options/general-options.php:95
+msgid "Fields to show"
+msgstr "展示栏目"
+
+#: ../plugin-options/general-options.php:96
+msgid ""
+"Select the fields to show in the comparison table and order them by "
+"drag&drop (are included also the woocommerce attributes)"
+msgstr "选择要在比较表中显示的字段，并通过拖放进行排序（也包括woocommerce属性）"
+
+#: ../plugin-options/general-options.php:104
+msgid "Repeat \"Price\" field"
+msgstr "重复“价格”字段"
+
+#: ../plugin-options/general-options.php:105
+msgid "Repeat the \"Price\" field at the end of the table"
+msgstr "重复表格末尾的“价格”字段"
+
+#: ../plugin-options/general-options.php:113
+msgid "Repeat \"Add to cart\" field"
+msgstr "重复“添加到购物车”字段"
+
+#: ../plugin-options/general-options.php:114
+msgid "Repeat the \"Add to cart\" field at the end of the table"
+msgstr "重复表格末尾的“添加到购物车”字段"
+
+#: ../plugin-options/general-options.php:122
+msgid "Image size"
+msgstr "图像尺寸"
+
+#: ../plugin-options/general-options.php:123
+msgid "Set the size for the images"
+msgstr "设置图像的大小"
+
+#: ../templates/admin/premium.php:240 ../templates/admin/premium.php:446
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Compare%2$s to "
+"benefit from all features!"
+msgstr "升级到％1$s高级版本％2$s％1$ sYITH WooCommerce compare ％2$s以受益于所有功能！"
+
+#: ../templates/admin/premium.php:243 ../templates/admin/premium.php:449
+msgid "UPGRADE"
+msgstr "升级"
+
+#: ../templates/admin/premium.php:244 ../templates/admin/premium.php:450
+msgid "to the premium version"
+msgstr "去高级版本"
+
+#: ../templates/admin/premium.php:250
+msgid "Premium Features"
+msgstr "高级功能"
+
+#: ../templates/admin/premium.php:258
+msgid "A DEDICATED PAGE"
+msgstr "专用页面"
+
+#: ../templates/admin/premium.php:261
+#, php-format
+msgid ""
+"Don't you want to compare your products in a modal window anymore?%3$sWith "
+"the premium version of %1$sYITH WooCommerce Compare%2$s, a new page will be "
+"created automatically in your site and, adding it among the menu entries, "
+"you will be able to give to your users the chance to access it easily "
+"whenever they want."
+msgstr ""
+"您不想再在模态窗口中比较您的产品吗？％3 $ s使用高级版％1 $ sYITH WooCommerce比较％2 $ "
+"s，将在您的网站中自动创建一个新页面，并将其添加到 菜单条目，您将能够为您的用户提供随时随地访问它的机会。"
+
+#: ../templates/admin/premium.php:271
+msgid "CATEGORY COMPARATION"
+msgstr "类别比较"
+
+#: ../templates/admin/premium.php:274
+#, php-format
+msgid ""
+"People are often confused by finding products of different categories in the "
+"comparison table, creating difficulties in comparing the products they are "
+"interested into.The %1$s\"Compare by category\"%2$s option exists for this "
+"need: you will be able to separate the products in the table by category "
+"affinity."
+msgstr ""
+"人们常常因在比较表中找到不同类别的产品而感到困惑，因此难以比较他们感兴趣的产品。％1 $ s“按类别比较”％2 $ s选项适用于此需求：您将能够 "
+"按类别亲和力分隔表中的产品。"
+
+#: ../templates/admin/premium.php:290
+msgid "CATEGORY EXCLUSION "
+msgstr "类别排除"
+
+#: ../templates/admin/premium.php:293
+#, php-format
+msgid ""
+"In your shop there may be product categories you don't want to be affected "
+"by the plugin features, deleting the comparison button for them. The premium "
+"version of the plugin offers this too.%3$sAnd there's more! Activating the "
+"%1$s\"Reverse exclusion list\"%2$s option, you can also invert the behavior "
+"of the feature, allowing the comparison only to those products of the "
+"selected categories."
+msgstr ""
+
+#: ../templates/admin/premium.php:303
+msgid "TABLE IMAGE"
+msgstr "表格图片"
+
+#: ../templates/admin/premium.php:306
+#, php-format
+msgid ""
+"Give a personal touch to the %1$scomparison table%2$s your users will see. "
+"Select an image, upload it from the option panel and show it ahead of the "
+"table to your users. "
+msgstr "个性化触摸您的用户将会看到的％1 $ s对比表％2 $ s。 选择一个图像，从选项面板上传图像并将其显示在用户表格的前面。"
+
+#: ../templates/admin/premium.php:322
+msgid "DYNAMIC FIELDS"
+msgstr "动态栏目"
+
+#: ../templates/admin/premium.php:325
+#, php-format
+msgid ""
+"With this precious feature, you will be able to show in the table only the "
+"fields that have information in at least one of the selected products."
+"%3$sActivate the %1$s\"Dynamic Attribute fields\"%2$s option and there will "
+"be no more empty lines in your comparison table."
+msgstr ""
+"有了这个宝贵的功能，您将能够在表格中仅显示至少一个所选产品中包含信息的字段。％3 $ s激活％1 $ s“动态属性字段”％2 $ s选项并在那里 "
+"在比较表中不再有空行。"
+
+#: ../templates/admin/premium.php:335
+msgid "SOCIAL NETWORK SHARING"
+msgstr "社交网络分享"
+
+#: ../templates/admin/premium.php:338
+#, php-format
+msgid ""
+"One of the most appealing features of the premium version of the plugin.Four "
+"social network sites for your users (Facebook, Twitter, Google + and "
+"Pinterest) and the email system %1$sto share%2$s the comparison table of the "
+"products they have selected."
+msgstr ""
+"One of the most appealing features of the premium version of the plugin.Four "
+"social network sites for your users (Facebook, Twitter, Google + and "
+"Pinterest) and the email system %1$s to share%2$s the comparison table of "
+"the products they have selected."
+
+#: ../templates/admin/premium.php:354
+msgid "RELATED PRODUCTS"
+msgstr "相关产品"
+
+#: ../templates/admin/premium.php:357
+#, php-format
+msgid ""
+"All the products that have common categories and/or tags with those in the "
+"comparison table will be showed in a slider, right under the comparison "
+"table.%3$sA completely %1$s\"touch friendly\"%2$s slider to encourage your "
+"users to discover the shop products of the shop related to those they are "
+"interested into."
+msgstr ""
+"所有具有相同种类和/或标签的产品将显示在比较表格下方的滑块中。％3 $ sA完全％1 $ s“触摸友好”％2 $ s滑块 "
+"鼓励您的用户发现与他们感兴趣的商店相关的商店的商店产品。"
+
+#: ../templates/admin/premium.php:367
+msgid "CUSTOMIZABLE STYLE"
+msgstr "可客制化样式"
+
+#: ../templates/admin/premium.php:370
+#, php-format
+msgid ""
+"An advanced option panel that let you change all the colors of the plugin, "
+"so that you can adapt stylistically all its elements %1$sto the layout%2$s "
+"of your shop.We know it, looks also count... and we give you the right tools "
+"to get to the best result."
+msgstr ""
+"一个高级选项面板，可让您更改插件的所有颜色，以便您可以在风格上调整其所有元素％1 $ sto您商店的布局％2 $ s。我们知道它，看起来也很重要....."
+".我们 为您提供合适的工具以获得最佳结果。"
+
+#: ../templates/admin/premium.php:386
+msgid "CUSTOMIZED ATTRIBUTES"
+msgstr "可客制化属性"
+
+#: ../templates/admin/premium.php:389
+#, php-format
+msgid ""
+"Let you users compare products following every feature, and considering also "
+"all those %1$sattributes%2$s that can be manually created in within the "
+"product detail page. Every single detail will be included."
+msgstr ""
+"Let you users compare products following every feature, and considering also "
+"all those %1$ attributes%2$s that can be manually created in within the "
+"product detail page. Every single detail will be included."
+
+#: ../templates/admin/premium.php:399
+msgid "A TAILORED TABLE"
+msgstr "一个剪裁表格"
+
+#: ../templates/admin/premium.php:402
+#, php-format
+msgid ""
+"Select the products you want to compare and the system will offer you the "
+"%1$sshortcode%2$s to generate a comparing table. Simple, rapid and useful."
+msgstr ""
+"Select the products you want to compare and the system will offer you the "
+"%1$s shortcode%2$s to generate a comparing table. Simple, rapid and useful."
+
+#: ../templates/admin/premium.php:418
+msgid "Compare list - widget"
+msgstr "比较列表 - 部件"
+
+#: ../templates/admin/premium.php:421
+msgid ""
+"Thanks to YITH WooCommerce Comapre Widget users could verify at any time the "
+"complete list of products added to the compare tab and avoid to open the "
+"popup to check its existence. "
+msgstr ""
+"感谢YITH WooCommerce Comapre Widget用户可以随时验证添加到比较选项卡的完整产品列表，并避免打开弹出窗口以检查其存在。"
+
+#: ../templates/admin/premium.php:431
+msgid "Compare counter - widget and shortcode"
+msgstr "比较计数器 - 部件和短代码"
+
+#: ../templates/admin/premium.php:434
+msgid ""
+"Moreover, if you want to give your users the chance to see in a glance how "
+"many products they have added to the Compare list, feel free to use the "
+"widget or the shortcode included. And their Compare list is always no more "
+"than one click away."
+msgstr "此外，如果您想让您的用户一眼就能看到他们已将多少产品添加到比较列表中，请随时使用小部件或包含的短代码。 他们的比较列表总是只需点击一下即可。"
+
+#: ../templates/compare.php:77
+msgid "Close window [X]"
+msgstr "关闭窗口 [X]"
+
+#: ../templates/compare.php:106
+msgid "No products added in the compare table."
+msgstr "比较表中未添加任何产品。"
+
+#: ../widgets/class.yith-woocompare-widget.php:23
+msgid "The widget shows the list of products added in the comparison table."
+msgstr "窗口小部件显示比较表中添加的产品列表。"
+
+#: ../widgets/class.yith-woocompare-widget.php:27
+msgid "YITH WooCommerce Compare Widget"
+msgstr "YITH WooCommerce Compare 部件"
+
+#: ../widgets/class.yith-woocompare-widget.php:50
+msgid "Clear all"
+msgstr "清除所有"

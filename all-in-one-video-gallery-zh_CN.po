@@ -1,0 +1,1660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: All-in-One Video Gallery\n"
+"POT-Creation-Date: 2019-03-05 21:45+0530\n"
+"PO-Revision-Date: 2019-04-11 18:53+0000\n"
+"Last-Translator: mediashaker <chao.yao@mediashaker.com>\n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: admin/admin.php:149 admin/settings.php:59 admin/settings.php:60
+msgid "Settings"
+msgstr "设置"
+
+#: admin/admin.php:164 blocks/blocks.php:37
+msgid "All-in-One Video Gallery"
+msgstr "多合一视频库"
+
+#: admin/admin.php:166 admin/welcome.php:58
+msgid "Getting Started"
+msgstr "开始"
+
+#: admin/admin.php:168
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: admin/admin.php:171
+msgid "Upgrade Pro"
+msgstr "升级到专业版"
+
+#: admin/categories.php:31 admin/categories.php:33
+msgid "Categories"
+msgstr "类别"
+
+#: admin/categories.php:32
+msgid "Category"
+msgstr "类别"
+
+#: admin/categories.php:34 admin/videos.php:335
+msgid "All Categories"
+msgstr "所有类别"
+
+#: admin/categories.php:35
+msgid "Parent Category"
+msgstr "父类别"
+
+#: admin/categories.php:36
+msgid "Parent Category:"
+msgstr "父类别"
+
+#: admin/categories.php:37
+msgid "New Category Name"
+msgstr "新类别名称"
+
+#: admin/categories.php:38
+msgid "Add New Category"
+msgstr "新增类别"
+
+#: admin/categories.php:39
+msgid "Edit Category"
+msgstr "编辑类别"
+
+#: admin/categories.php:40
+msgid "Update Category"
+msgstr "更新类别"
+
+#: admin/categories.php:41
+msgid "View Category"
+msgstr "查看类别"
+
+#: admin/categories.php:42
+msgid "Separate categories with commas"
+msgstr "用逗号分隔类别"
+
+#: admin/categories.php:43
+msgid "Add or remove categories"
+msgstr "新增/移除 类别"
+
+#: admin/categories.php:44
+msgid "Choose from the most used"
+msgstr "选择最近使用"
+
+#: admin/categories.php:45
+msgid "Popular Categories"
+msgstr "热门分类"
+
+#: admin/categories.php:46
+msgid "Search Categories"
+msgstr "搜索类别"
+
+#: admin/categories.php:47
+msgid "Not Found"
+msgstr "没有找到"
+
+#: admin/categories.php:48
+msgid "No categories"
+msgstr "没有类别"
+
+#: admin/categories.php:49
+msgid "Categories list"
+msgstr "类别列表"
+
+#: admin/categories.php:50
+msgid "Categories list navigation"
+msgstr "类别列表导航"
+
+#: admin/categories.php:124 admin/settings.php:331 admin/videos.php:393
+#: blocks/blocks.php:81 includes/functions.php:283
+#: widgets/forms/categories.php:64
+msgid "ID"
+msgstr ""
+
+#: admin/partials/category-image.php:15 admin/partials/category-image.php:26
+#: admin/partials/video-sources.php:146 admin/partials/video-sources.php:149
+msgid "Image"
+msgstr "图片"
+
+#: admin/partials/category-image.php:19 admin/partials/category-image.php:36
+msgid "Add Image"
+msgstr "添加图片"
+
+#: admin/partials/category-image.php:20 admin/partials/category-image.php:37
+msgid "Remove Image"
+msgstr "删除图片"
+
+#: admin/partials/shortcode-builder.php:15
+msgid ""
+"Use the form below to insert \"All-in-One Video Gallery\" plugin shortcodes."
+msgstr "使用下面的表单插入“All-in-One Video Gallery”插件短代码。"
+
+#: admin/partials/shortcode-builder.php:19
+msgid "Shortcode Type"
+msgstr "短代码类型"
+
+#: admin/partials/shortcode-builder.php:42 blocks/blocks.php:73
+msgid "Top Categories"
+msgstr "最热类别"
+
+#: admin/partials/shortcode-builder.php:70 widgets/forms/video.php:22
+msgid "Latest Video"
+msgstr "最新视频"
+
+#: admin/partials/shortcode-builder.php:126
+msgid "Insert Shortcode"
+msgstr "插入短代码"
+
+#: admin/partials/shortcode-builder.php:127
+msgid "Cancel"
+msgstr "取消"
+
+#: admin/partials/video-sources.php:17 admin/partials/video-sources.php:20
+msgid "Type"
+msgstr "种类"
+
+#: admin/partials/video-sources.php:33 admin/partials/video-sources.php:36
+msgid "MP4"
+msgstr ""
+
+#: admin/partials/video-sources.php:38 admin/partials/video-sources.php:69
+#: admin/partials/video-sources.php:83 admin/partials/video-sources.php:151
+#: admin/partials/video-tracks.php:27 admin/partials/video-tracks.php:63
+msgid "Enter your Direct File URL here (OR) use the Upload Media button"
+msgstr "在此输入您的直接文件URL（或）使用上传媒体按钮"
+
+#: admin/partials/video-sources.php:40 admin/partials/video-sources.php:71
+#: admin/partials/video-sources.php:85 admin/partials/video-sources.php:153
+msgid "Upload Media"
+msgstr "上传媒体"
+
+#: admin/partials/video-sources.php:50 admin/partials/video-sources.php:64
+#: admin/partials/video-sources.php:67
+msgid "WebM"
+msgstr ""
+
+#: admin/partials/video-sources.php:56 admin/partials/video-sources.php:78
+#: admin/partials/video-sources.php:81
+msgid "OGV"
+msgstr ""
+
+#: admin/partials/video-sources.php:92 admin/partials/video-sources.php:95
+#: admin/settings.php:279 includes/functions.php:1163
+msgid "YouTube"
+msgstr ""
+
+#: admin/partials/video-sources.php:97
+msgid "Example: https://www.youtube.com/watch?v=twYp6W6vt2U"
+msgstr ""
+
+#: admin/partials/video-sources.php:103 admin/partials/video-sources.php:106
+#: admin/settings.php:280 includes/functions.php:1164
+msgid "Vimeo"
+msgstr ""
+
+#: admin/partials/video-sources.php:108
+msgid "Example: https://vimeo.com/108018156"
+msgstr ""
+
+#: admin/partials/video-sources.php:114 admin/partials/video-sources.php:117
+#: admin/settings.php:281 includes/functions.php:1165
+msgid "Dailymotion"
+msgstr ""
+
+#: admin/partials/video-sources.php:119
+msgid "Example: https://www.dailymotion.com/video/x11prnt"
+msgstr ""
+
+#: admin/partials/video-sources.php:125 admin/partials/video-sources.php:128
+#: admin/settings.php:282 admin/settings.php:502 includes/functions.php:1166
+#: includes/functions.php:1555
+msgid "Facebook"
+msgstr ""
+
+#: admin/partials/video-sources.php:130
+msgid "Example: https://www.facebook.com/facebook/videos/10155278547321729"
+msgstr ""
+
+#: admin/partials/video-sources.php:136 admin/partials/video-sources.php:139
+msgid "Embed Code"
+msgstr "嵌入代码"
+
+#: admin/partials/video-sources.php:140
+msgid "Enter your Iframe Embed Code here"
+msgstr "在此输入您的Iframe嵌入代码"
+
+#: admin/partials/video-sources.php:160 admin/partials/video-sources.php:163
+#: admin/settings.php:266 blocks/blocks.php:121 includes/functions.php:600
+#: widgets/forms/video.php:84
+msgid "Duration"
+msgstr "时长"
+
+#: admin/partials/video-sources.php:165
+msgid "6:30"
+msgstr "6:30"
+
+#: admin/partials/video-sources.php:171 admin/partials/video-sources.php:174
+#: admin/videos.php:391
+msgid "Views"
+msgstr "查看"
+
+#: admin/partials/video-submitbox.php:16
+msgid "Mark as"
+msgstr "标记为"
+
+#: admin/partials/video-submitbox.php:17 admin/videos.php:392
+msgid "Featured"
+msgstr "精选"
+
+#: admin/partials/video-submitbox.php:25
+msgid "Video Shortcode"
+msgstr "视频短代码"
+
+#: admin/partials/video-tracks.php:16 admin/partials/video-tracks.php:25
+#: admin/partials/video-tracks.php:61
+msgid "File URL"
+msgstr "文件URL"
+
+#: admin/partials/video-tracks.php:17 admin/partials/video-tracks.php:31
+#: admin/partials/video-tracks.php:67
+msgid "Label"
+msgstr "标签"
+
+#: admin/partials/video-tracks.php:18 admin/partials/video-tracks.php:37
+#: admin/partials/video-tracks.php:73
+msgid "Srclang"
+msgstr "源语言"
+
+#: admin/partials/video-tracks.php:33 admin/partials/video-tracks.php:69
+msgid "English"
+msgstr "英语"
+
+#: admin/partials/video-tracks.php:39 admin/partials/video-tracks.php:75
+msgid "en"
+msgstr "英文"
+
+#: admin/partials/video-tracks.php:44 admin/partials/video-tracks.php:80
+msgid "Upload File"
+msgstr "上传文件"
+
+#: admin/partials/video-tracks.php:46 admin/partials/video-tracks.php:82
+msgid "Delete"
+msgstr "删除"
+
+#: admin/partials/video-tracks.php:54
+msgid "Add New File"
+msgstr "新增文件"
+
+#: admin/partials/welcome.php:15
+#, php-format
+msgid "All-in-One Video Gallery - %s"
+msgstr "多合一视频库 - %s"
+
+#: admin/partials/welcome.php:18
+msgid "The last video player & gallery plugin you'll ever need."
+msgstr "您需要的最后一个视频播放器和图库插件。"
+
+#: admin/partials/welcome.php:23
+msgid "Getting Started - Premium Features"
+msgstr "开始- 高级特性"
+
+#: admin/partials/welcome.php:27
+#, php-format
+msgid "Version %s"
+msgstr "版本 %s"
+
+#: admin/partials/welcome.php:40 admin/partials/welcome.php:46
+#: admin/partials/welcome.php:55 admin/partials/welcome.php:63
+#: admin/partials/welcome.php:76
+#, php-format
+msgid "Step #%d:"
+msgstr "步骤＃％d："
+
+#: admin/partials/welcome.php:42
+msgid "Install & Activate <strong>All-in-One Video Gallery</strong>"
+msgstr "安装并激活<strong>多功能一体化视频库</ strong>"
+
+#: admin/partials/welcome.php:48 admin/partials/welcome.php:65
+msgid "Optional"
+msgstr "可选的"
+
+#: admin/partials/welcome.php:50
+msgid "Add Categories"
+msgstr "添加类别"
+
+#: admin/partials/welcome.php:58
+msgid "Add Videos"
+msgstr "添加视频"
+
+#: admin/partials/welcome.php:68
+#, php-format
+msgid ""
+"Add a Categories <a href=\"%s\">Page</a> to your site front-end. Find step "
+"by step instructions <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+"将类别<a href=\"%s\">页面</a>添加到您的站点前端。 查找<a href=\"%s\" target=\"_blank\">此处</a>"
+"的分步说明"
+
+#: admin/partials/welcome.php:80
+#, php-format
+msgid ""
+"Add a Videos <a href=\"%s\">Page</a> to your site front-end. Find step by "
+"step instructions <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+"将<a href=\"%s\">页面</a>视频添加到您的站点前端。 查找<a href=\"%s\" target=\"_blank\">此处</a>"
+"的分步说明"
+
+#: admin/partials/welcome.php:90
+#, php-format
+msgid ""
+"Please <a href=\"%s\" target=\"_blank\">refer</a> for more advanced "
+"tutorials."
+msgstr "请<a href=\"%s\" target=\"_blank\">参阅</a>以获取更多高级教程。"
+
+#: admin/partials/welcome.php:98
+msgid "Need Help?"
+msgstr "需要帮助？"
+
+#: admin/partials/welcome.php:103
+msgid "Phenomenal Support"
+msgstr "非凡的支持"
+
+#: admin/partials/welcome.php:106
+#, php-format
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, simply submit your question using our <a "
+"href=\"%s\" target=\"_blank\">support form</a>."
+msgstr ""
+"我们尽最大努力为您提供最好的支持。 如果您遇到问题或有疑问，只需使用我们的<a href=\"%s\" target=\"_blank\">"
+"支持表单</a>提交您的问题。"
+
+#: admin/partials/welcome.php:111
+msgid "Need Even Faster Support?"
+msgstr "需要更快的支持？"
+
+#: admin/partials/welcome.php:114
+#, php-format
+msgid ""
+"Our <a href=\"%s\" target=\"_blank\">Priority Support</a> system is there "
+"for customers that need faster and/or more in-depth assistance."
+msgstr "我们的<a href=\"%s\" target=\"_blank\">优先支持</a>系统适用于需要更快和/或更深入帮助的客户。"
+
+#: admin/settings.php:99
+msgid "General"
+msgstr "通用"
+
+#: admin/settings.php:100
+msgid "Display"
+msgstr "显示"
+
+#: admin/settings.php:101
+msgid "Advanced"
+msgstr "高级"
+
+#: admin/settings.php:117 blocks/blocks.php:106 includes/functions.php:232
+#: includes/functions.php:334 includes/functions.php:535
+#: includes/functions.php:631
+msgid "General Settings"
+msgstr "通用设置"
+
+#: admin/settings.php:122
+msgid "Player Settings"
+msgstr "播放器设置"
+
+#: admin/settings.php:127
+msgid "Image Settings"
+msgstr "图像设置"
+
+#: admin/settings.php:132
+msgid "Categories Page"
+msgstr "类别页面"
+
+#: admin/settings.php:137
+msgid "Video Gallery Pages"
+msgstr "视频库页"
+
+#: admin/settings.php:142
+msgid "Single Video Page"
+msgstr "单个视频页面"
+
+#: admin/settings.php:147
+msgid "Permalink Slugs"
+msgstr "永久链接标签"
+
+#: admin/settings.php:148
+msgid ""
+"NOTE: Just make sure that, after updating the fields in this section, you "
+"flush the rewrite rules by visiting \"Settings > Permalinks\". Otherwise "
+"you'll still see the old links."
+msgstr "注意：只需确保在更新本节中的字段后，通过访问“设置>永久链接”来刷新重写规则。 否则你仍会看到旧的链接。"
+
+#: admin/settings.php:153
+msgid "Socialshare Buttons"
+msgstr "社交分享按钮"
+
+#: admin/settings.php:154
+msgid "Select social share buttons displayed in the single video pages."
+msgstr "选择单个视频页面中显示的社交分享按钮。"
+
+#: admin/settings.php:159
+msgid "Page Settings"
+msgstr "页面设置"
+
+#: admin/settings.php:164
+msgid "Privacy Settings"
+msgstr "隐私设置"
+
+#: admin/settings.php:165
+msgid ""
+"These options will help with privacy restrictions such as GDPR and the EU "
+"Cookie Law."
+msgstr "这些选项将有助于隐私限制，如GDPR和欧盟Cookie法。"
+
+#: admin/settings.php:173
+msgid "Logo & Branding"
+msgstr "Logo 和品牌"
+
+#: admin/settings.php:194
+msgid "Remove data on uninstall?"
+msgstr "卸载时删除数据？"
+
+#: admin/settings.php:195
+msgid ""
+"Check this box to delete all of the plugin data( database stored content, "
+"uploaded media files, etc... ) when uninstalled"
+msgstr "选中此框可在卸载时删除所有插件数据（数据库存储内容，上载的媒体文件等）"
+
+#: admin/settings.php:203 admin/settings.php:290 blocks/blocks.php:107
+#: includes/functions.php:546 premium/widgets/forms/companion.php:15
+#: widgets/forms/video.php:46
+msgid "Width"
+msgstr "宽度"
+
+#: admin/settings.php:204 blocks/blocks.php:108
+#, php-format
+msgid ""
+"In pixels. Maximum width of the player. Leave this field empty to scale 100% "
+"of its enclosing container/html element."
+msgstr "像素。 播放器的最大宽度。 将此字段留空以缩放其封闭容器/ html元素的100％。"
+
+#: admin/settings.php:210 admin/settings.php:297 blocks/blocks.php:109
+#: includes/functions.php:262 includes/functions.php:420
+#: includes/functions.php:553 widgets/forms/video.php:51
+msgid "Ratio"
+msgstr "比例"
+
+#: admin/settings.php:213 blocks/blocks.php:110
+msgid ""
+"In percentage. 1 to 100. Calculate player's height using the ratio value "
+"entered."
+msgstr "百分比。 1到100.使用输入的比率值计算播放器的高度"
+
+#: admin/settings.php:214
+msgid "Examples"
+msgstr "例子"
+
+#: admin/settings.php:215
+msgid "Wide Screen TV"
+msgstr "宽屏电视"
+
+#: admin/settings.php:216
+msgid "Monitor Screens"
+msgstr "监视屏幕"
+
+#: admin/settings.php:217
+msgid "Classic TV"
+msgstr "经典电视"
+
+#: admin/settings.php:218
+msgid "Photo Camera"
+msgstr "相机"
+
+#: admin/settings.php:219
+msgid "Square"
+msgstr "广场"
+
+#: admin/settings.php:220
+msgid "Cinemascope"
+msgstr "银幕"
+
+#: admin/settings.php:227 blocks/blocks.php:111 includes/functions.php:560
+#: widgets/forms/video.php:57
+msgid "Autoplay"
+msgstr "自动播放"
+
+#: admin/settings.php:228
+msgid "Check this to start playing the video as soon as it is ready"
+msgstr "选中此项可在视频准备就绪后立即开始播放"
+
+#: admin/settings.php:234 blocks/blocks.php:112 includes/functions.php:567
+#: widgets/forms/video.php:62
+msgid "Loop"
+msgstr "循环"
+
+#: admin/settings.php:235
+msgid ""
+"Check this, so that the video will start over again, every time it is "
+"finished"
+msgstr "选中此项，以便每次完成后视频将重新开始"
+
+#: admin/settings.php:241
+msgid "Preload"
+msgstr "预载"
+
+#: admin/settings.php:244
+msgid "Specifies if and how the video should be loaded when the page loads."
+msgstr "指定页面加载时是否以及如何加载视频。"
+
+#: admin/settings.php:245
+msgid "\"Auto\" - the video should be loaded entirely when the page loads"
+msgstr "“自动” - 视频应在页面加载时完全加载"
+
+#: admin/settings.php:246
+msgid "\"Metadata\" - only metadata should be loaded when the page loads"
+msgstr "“元数据” - 只有在加载页面时才会加载元数据"
+
+#: admin/settings.php:247
+msgid "\"None\" - the video should not be loaded when the page loads"
+msgstr "“无” - 页面加载时不应加载视频"
+
+#: admin/settings.php:251
+msgid "Auto"
+msgstr "自动"
+
+#: admin/settings.php:252
+msgid "Metadata"
+msgstr "元数据"
+
+#: admin/settings.php:253
+msgid "None"
+msgstr "无"
+
+#: admin/settings.php:259 blocks/blocks.php:117 includes/functions.php:575
+#: widgets/forms/video.php:65
+msgid "Player Controls"
+msgstr "播放器控制"
+
+#: admin/settings.php:263 blocks/blocks.php:118 includes/functions.php:579
+#: widgets/forms/video.php:69
+msgid "Play / Pause"
+msgstr "播放/暂停"
+
+#: admin/settings.php:264 blocks/blocks.php:119 includes/functions.php:586
+#: widgets/forms/video.php:74
+msgid "Current Time"
+msgstr "当前时间"
+
+#: admin/settings.php:265 blocks/blocks.php:120 includes/functions.php:593
+#: widgets/forms/video.php:79
+msgid "Progressbar"
+msgstr "进度条"
+
+#: admin/settings.php:267 admin/videos.php:143 includes/functions.php:607
+#: widgets/forms/video.php:89
+msgid "Subtitles"
+msgstr "副标题"
+
+#: admin/settings.php:268 blocks/blocks.php:122 includes/functions.php:614
+#: widgets/forms/video.php:94
+msgid "Volume"
+msgstr "音量"
+
+#: admin/settings.php:269 blocks/blocks.php:123 includes/functions.php:621
+#: widgets/forms/video.php:99
+msgid "Fullscreen"
+msgstr "全屏"
+
+#: admin/settings.php:275
+msgid "Use Native Controls"
+msgstr "使用原生控制"
+
+#: admin/settings.php:276
+msgid ""
+"Enables native player controls on the selected source types. For example, "
+"uses YouTube Player for playing YouTube videos & Vimeo Player for playing "
+"Vimeo videos. Note that none of our custom player features will work on the "
+"selected sources."
+msgstr ""
+"在所选源类型上启用本机播放器控件。 例如，使用YouTube播放器播放YouTube视频和使用Vimeo播放器播放Vimeo视频。 "
+"请注意，我们的自定义播放器功能都不适用于所选的源。"
+
+#: admin/settings.php:291
+#, php-format
+msgid "Always 100% of its enclosing container/html element."
+msgstr ""
+
+#: admin/settings.php:298
+msgid ""
+"In percentage. 1 to 100. Calculate images's height using the ratio value "
+"entered."
+msgstr "百分比 1至100.使用输入的比率值计算图像的高度。"
+
+#: admin/settings.php:306 admin/settings.php:381 blocks/blocks.php:76
+#: includes/functions.php:243 includes/functions.php:345
+#: includes/functions.php:635 widgets/forms/categories.php:39
+#: widgets/forms/search.php:20
+msgid "Select Template"
+msgstr "选择模板"
+
+#: admin/settings.php:310 blocks/blocks.php:77 includes/functions.php:247
+#: widgets/forms/categories.php:43
+msgid "Grid"
+msgstr "栅格"
+
+#: admin/settings.php:311 blocks/blocks.php:78 includes/functions.php:248
+#: widgets/forms/categories.php:44
+msgid "List"
+msgstr "列表"
+
+#: admin/settings.php:317 admin/settings.php:389 blocks/blocks.php:79
+#: includes/functions.php:269 includes/functions.php:427
+#: widgets/forms/categories.php:55
+msgid "Columns"
+msgstr "列"
+
+#: admin/settings.php:318
+msgid "Enter the number of columns you like to have in your categories page."
+msgstr "在类别页面中输入您希望拥有的列数。"
+
+#: admin/settings.php:327
+msgid "Order by"
+msgstr "排序"
+
+#: admin/settings.php:332 blocks/blocks.php:82 includes/functions.php:284
+#: widgets/forms/categories.php:65
+msgid "Count"
+msgstr "计数"
+
+#: admin/settings.php:333 blocks/blocks.php:83 includes/functions.php:285
+#: widgets/forms/categories.php:66
+msgid "Name"
+msgstr "名称"
+
+#: admin/settings.php:334 blocks/blocks.php:84 includes/functions.php:286
+#: widgets/forms/categories.php:67
+msgid "Slug"
+msgstr "链接后缀"
+
+#: admin/settings.php:340 admin/settings.php:419 blocks/blocks.php:85
+#: includes/functions.php:292 includes/functions.php:390
+#: widgets/forms/categories.php:78
+msgid "Order"
+msgstr "顺序"
+
+#: admin/settings.php:344 admin/settings.php:423
+msgid "Ascending"
+msgstr "升序"
+
+#: admin/settings.php:345 admin/settings.php:424
+msgid "Descending"
+msgstr "降序"
+
+#: admin/settings.php:351 blocks/blocks.php:88 includes/functions.php:303
+#: widgets/forms/categories.php:95
+msgid "Show Hierarchy"
+msgstr "显示等级"
+
+#: admin/settings.php:352
+msgid "Check this to show the child categories"
+msgstr "选中此项以显示子类别"
+
+#: admin/settings.php:358 blocks/blocks.php:89 includes/functions.php:310
+#: widgets/forms/categories.php:100
+msgid "Show Description"
+msgstr "显示详情"
+
+#: admin/settings.php:359
+msgid "Check this to show the categories description"
+msgstr "选中此项以显示类别说明"
+
+#: admin/settings.php:365 blocks/blocks.php:90 includes/functions.php:317
+#: includes/functions.php:448 widgets/forms/categories.php:105
+msgid "Show Videos Count"
+msgstr "显示视频计数"
+
+#: admin/settings.php:366
+msgid "Check this to show the videos count next to the category name"
+msgstr "选中此选项可显示类别名称旁边的视频计数"
+
+#: admin/settings.php:372 blocks/blocks.php:91 includes/functions.php:324
+#: widgets/forms/categories.php:110
+msgid "Hide Empty Categories"
+msgstr "隐藏空类别"
+
+#: admin/settings.php:373
+msgid "Check this to hide categories with no videos"
+msgstr "选中此项可隐藏没有视频的类别"
+
+#: admin/settings.php:382 includes/functions.php:346
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\">Upgrade Pro</a> for more templates (Popup, "
+"Slider, etc.)"
+msgstr "<a href=\"%s\" target=\"_blank\">升级专业版</a>以获取更多模板（弹出窗口，滑块等）"
+
+#: admin/settings.php:390
+msgid "Enter the number of columns you like to have in the gallery view."
+msgstr "在图库视图中输入您希望拥有的列数。"
+
+#: admin/settings.php:399 includes/functions.php:367
+msgid "Limit (per page)"
+msgstr "限制（每页）"
+
+#: admin/settings.php:400
+msgid ""
+"Number of videos to show per page. Use a value of \"0\" to show all videos."
+msgstr "每页显示的视频数量。 使用值“0”显示所有视频。"
+
+#: admin/settings.php:406 blocks/blocks.php:80 includes/functions.php:279
+#: includes/functions.php:377 widgets/forms/categories.php:60
+msgid "Order By"
+msgstr "排序"
+
+#: admin/settings.php:410 includes/functions.php:236 includes/functions.php:338
+#: includes/functions.php:381 widgets/forms/categories.php:15
+#: widgets/forms/search.php:15 widgets/forms/video.php:15
+msgid "Title"
+msgstr "标题"
+
+#: admin/settings.php:411 includes/functions.php:382
+msgid "Date Posted"
+msgstr "Date Posted"
+
+#: admin/settings.php:412 admin/settings.php:449 admin/settings.php:473
+#: includes/functions.php:383
+msgid "Views Count"
+msgstr "查看计数"
+
+#: admin/settings.php:413 includes/functions.php:384
+msgid "Random"
+msgstr "随机"
+
+#: admin/settings.php:430 includes/functions.php:437
+msgid "Thumbnail Style"
+msgstr "缩略图样式"
+
+#: admin/settings.php:434 includes/functions.php:441
+msgid "Image Top Aligned"
+msgstr "图像上对其"
+
+#: admin/settings.php:435 includes/functions.php:442
+msgid "Image Left Aligned"
+msgstr "图像左对齐"
+
+#: admin/settings.php:441 admin/settings.php:466
+msgid "Show / Hide"
+msgstr "显示/隐藏"
+
+#: admin/settings.php:445
+msgid "Videos Count"
+msgstr "视频计数"
+
+#: admin/settings.php:446 admin/settings.php:470
+msgid "Category Name"
+msgstr "类别名称"
+
+#: admin/settings.php:447 admin/settings.php:471
+msgid "Date Added"
+msgstr "添加日期"
+
+#: admin/settings.php:448 admin/settings.php:472
+msgid "Author Name"
+msgstr "作者姓名"
+
+#: admin/settings.php:450
+msgid "Video Duration"
+msgstr "视频时长"
+
+#: admin/settings.php:451
+msgid "Video Excerpt"
+msgstr "视频摘要"
+
+#: admin/settings.php:457 includes/functions.php:497
+msgid "Excerpt Length"
+msgstr "摘要长度"
+
+#: admin/settings.php:458
+msgid "Number of characters."
+msgstr "字符数。"
+
+#: admin/settings.php:474 includes/functions.php:408
+msgid "Related Videos"
+msgstr "相关视频"
+
+#: admin/settings.php:480
+msgid "Enable Comments"
+msgstr "启用评论"
+
+#: admin/settings.php:481
+msgid ""
+"Allow visitors to comment videos using the standard WordPress comment form. "
+"Comments are public"
+msgstr "允许访问者使用标准WordPress评论表单评论视频。 评论是公开的"
+
+#: admin/settings.php:489
+msgid "Video Detail Page"
+msgstr "视频详细页面"
+
+#: admin/settings.php:490
+msgid "Replaces the SLUG value used by custom post type \"aiovg_videos\"."
+msgstr "替换自定义帖子类型“aiovg_videos”使用的SLUG值。"
+
+#: admin/settings.php:498
+msgid "Enable Services"
+msgstr "启用服务"
+
+#: admin/settings.php:503 includes/functions.php:1560
+msgid "Twitter"
+msgstr ""
+
+#: admin/settings.php:504
+msgid "Google Plus"
+msgstr ""
+
+#: admin/settings.php:505 includes/functions.php:1570
+msgid "Linkedin"
+msgstr ""
+
+#: admin/settings.php:506
+msgid "Pinterest"
+msgstr ""
+
+#: admin/settings.php:514
+msgid "Single Category Page"
+msgstr "单个类别页面"
+
+#: admin/settings.php:515
+msgid ""
+"This is the page where the videos from a particular category is displayed. "
+"The [aiovg_category] short code must be on this page."
+msgstr "这是显示特定类别的视频的页面。 [aiovg_category]短代码必须在此页面上。"
+
+#: admin/settings.php:521
+msgid "Search Page"
+msgstr "搜索页面"
+
+#: admin/settings.php:522
+msgid ""
+"This is the page where the search results are displayed. The [aiovg_search] "
+"short code must be on this page."
+msgstr "这是显示搜索结果的页面。 [aiovg_search]短代码必须在此页面上。"
+
+#: admin/settings.php:528
+msgid "User Videos Page"
+msgstr "用户视频页面"
+
+#: admin/settings.php:529
+msgid ""
+"This is the page where the videos from an user is displayed. The "
+"[aiovg_user_videos] short code must be on this page."
+msgstr "这是显示用户视频的页面。 [aiovg_user_videos]短代码必须在此页面上。"
+
+#: admin/settings.php:535
+msgid "Player Page"
+msgstr "播放器页面"
+
+#: admin/settings.php:536
+msgid "This is the page used to show the video player."
+msgstr "这是用于显示视频播放器的页面。"
+
+#: admin/settings.php:544
+msgid "GDPR - Show Consent"
+msgstr "GDPR  - 显示同意"
+
+#: admin/settings.php:545
+msgid "Ask for consent before loading YouTube / Vimeo content."
+msgstr "在加载YouTube / Vimeo内容之前征得同意。"
+
+#: admin/settings.php:551
+msgid "GDPR - Consent Message"
+msgstr "GDPR  - 同意消息"
+
+#: admin/settings.php:558
+msgid "GDPR - Consent Button Label"
+msgstr "GDPR  - 同意按钮标签"
+
+#: admin/settings.php:570
+msgid "Show Logo"
+msgstr "显示logo"
+
+#: admin/settings.php:571
+msgid "Check this option to show the watermark on the video."
+msgstr "选中此选项可在视频上显示水印。"
+
+#: admin/settings.php:577
+msgid "Logo Image"
+msgstr "Logo 图片"
+
+#: admin/settings.php:578
+msgid ""
+"Upload the image file of your logo. We recommend using the transparent PNG "
+"format with width below 100 pixels. If you do not enter any image, no logo "
+"will displayed."
+msgstr "上传LOGO的图像文件。 我们建议使用宽度低于100像素的透明PNG格式。 如果您未输入任何图像，则不会显示任何LOGO。"
+
+#: admin/settings.php:584
+msgid "Logo Link"
+msgstr "Logo 链接"
+
+#: admin/settings.php:585
+msgid ""
+"The URL to visit when the watermark image is clicked. Clicking a logo will "
+"have no affect unless this is configured."
+msgstr "单击水印图像时要访问的URL。 除非已配置，否则单击徽标将不起作用。"
+
+#: admin/settings.php:591
+msgid "Logo Position"
+msgstr "Logo 位置"
+
+#: admin/settings.php:592
+msgid "This sets the corner in which to display the watermark."
+msgstr "这设置了显示水印的角落。"
+
+#: admin/settings.php:595
+msgid "Top Left"
+msgstr "左上角"
+
+#: admin/settings.php:596
+msgid "Top Right"
+msgstr "右上角"
+
+#: admin/settings.php:597
+msgid "Bottom Left"
+msgstr "左下角"
+
+#: admin/settings.php:598
+msgid "Bottom Right"
+msgstr "右下角"
+
+#: admin/settings.php:604
+msgid "Logo Margin"
+msgstr "Logo边距"
+
+#: admin/settings.php:605
+msgid "The distance, in pixels, of the logo from the edges of the display."
+msgstr "徽标与显示屏边缘的距离（以像素为单位）。"
+
+#: admin/settings.php:611
+msgid "Copyright Text"
+msgstr "版权文字"
+
+#: admin/settings.php:612
+msgid "Text that is shown when a user right-clicks the player with the mouse."
+msgstr "用户用鼠标右键单击播放器时显示的文本。"
+
+#: admin/settings.php:888
+msgid "Choose File"
+msgstr "选择文件"
+
+#: admin/settings.php:937
+msgid "Select a page"
+msgstr "选择页面"
+
+#: admin/shortcode-builder.php:34
+msgid "Video Player & Gallery"
+msgstr "视频播放器和库"
+
+#: admin/shortcode-builder.php:50 widgets/categories.php:54
+msgid "Video Categories"
+msgstr "视频类别"
+
+#: admin/shortcode-builder.php:51 admin/videos.php:36 widgets/videos.php:265
+msgid "Video Gallery"
+msgstr "视频库"
+
+#: admin/shortcode-builder.php:52
+msgid "Single Video"
+msgstr "单个视频"
+
+#: admin/shortcode-builder.php:53
+msgid "Search Form"
+msgstr "搜索表格"
+
+#: admin/videos.php:34
+msgid "Videos"
+msgstr "视频"
+
+#: admin/videos.php:35 admin/videos.php:37 admin/videos.php:69
+msgid "Video"
+msgstr "视频"
+
+#: admin/videos.php:38
+msgid "Video Archives"
+msgstr "视频档案"
+
+#: admin/videos.php:39
+msgid "Video Attributes"
+msgstr "视频属性"
+
+#: admin/videos.php:40
+msgid "Parent Video:"
+msgstr "父视频"
+
+#: admin/videos.php:41 admin/videos.php:351
+msgid "All Videos"
+msgstr "所有视频"
+
+#: admin/videos.php:42
+msgid "Add New Video"
+msgstr "新增视频"
+
+#: admin/videos.php:43
+msgid "Add New"
+msgstr "新增"
+
+#: admin/videos.php:44
+msgid "New Video"
+msgstr "新增视频"
+
+#: admin/videos.php:45
+msgid "Edit Video"
+msgstr "编辑视频"
+
+#: admin/videos.php:46
+msgid "Update Video"
+msgstr "更新视频"
+
+#: admin/videos.php:47
+msgid "View Video"
+msgstr "查看视频"
+
+#: admin/videos.php:48
+msgid "View Videos"
+msgstr "查看视频"
+
+#: admin/videos.php:49
+msgid "Search Video"
+msgstr "搜索视频"
+
+#: admin/videos.php:50
+msgid "Not found"
+msgstr "没有找到"
+
+#: admin/videos.php:51
+msgid "Not found in Trash"
+msgstr "回收站没有找到"
+
+#: admin/videos.php:52
+msgid "Featured Image"
+msgstr "精选图片"
+
+#: admin/videos.php:53
+msgid "Set featured image"
+msgstr "设置精选图片"
+
+#: admin/videos.php:54
+msgid "Remove featured image"
+msgstr "删除精选图片"
+
+#: admin/videos.php:55
+msgid "Use as featured image"
+msgstr "用作特色图片"
+
+#: admin/videos.php:56
+msgid "Insert into video"
+msgstr "插入到视频中"
+
+#: admin/videos.php:57
+msgid "Uploaded to this video"
+msgstr "已上传到此视频"
+
+#: admin/videos.php:58
+msgid "Videos list"
+msgstr "视频列表"
+
+#: admin/videos.php:59
+msgid "Videos list navigation"
+msgstr "视频列表导航"
+
+#: admin/videos.php:60
+msgid "Filter videos list"
+msgstr "筛选视频列表"
+
+#: admin/videos.php:70
+msgid "Video Description"
+msgstr "视频详情"
+
+#: admin/videos.php:134
+msgid "Video Sources"
+msgstr "视频源"
+
+#: admin/videos.php:352
+msgid "Featured only"
+msgstr "仅限精选"
+
+#: admin/welcome.php:31 admin/welcome.php:32 admin/welcome.php:39
+#: admin/welcome.php:40
+msgid "Welcome - All-in-One Video Gallery"
+msgstr "欢迎 - 一体化视频库"
+
+#: admin/welcome.php:59
+msgid "Support"
+msgstr "支持"
+
+#: blocks/blocks.php:71 widgets/categories.php:68
+msgid "AIOVG - Video Categories"
+msgstr "AIOVG - 视频类别"
+
+#: blocks/blocks.php:72 widgets/categories.php:71
+msgid "Display a list of video categories."
+msgstr "显示视频类别列表。"
+
+#: blocks/blocks.php:74
+msgid "Categories Settings"
+msgstr ""
+"\n"
+
+#: blocks/blocks.php:75 includes/functions.php:254
+#: widgets/forms/categories.php:20 widgets/forms/categories.php:23
+msgid "Select Parent"
+msgstr "选择父级"
+
+#: blocks/blocks.php:86 includes/functions.php:296 includes/functions.php:394
+#: widgets/forms/categories.php:82
+msgid "ASC"
+msgstr "升序"
+
+#: blocks/blocks.php:87 includes/functions.php:297 includes/functions.php:395
+#: widgets/forms/categories.php:83
+msgid "DESC"
+msgstr "降序"
+
+#: blocks/blocks.php:92 widgets/videos.php:63
+msgid "AIOVG - Video Gallery"
+msgstr "AIOVG  - 视频库"
+
+#: blocks/blocks.php:93
+msgid "Display a Video gallery."
+msgstr "显示视频库。"
+
+#: blocks/blocks.php:94
+msgid "Selected Color"
+msgstr "已选颜色"
+
+#: blocks/blocks.php:95 widgets/search.php:46
+msgid "AIOVG - Search Form"
+msgstr "AIOVG - 搜索表单"
+
+#: blocks/blocks.php:96 widgets/search.php:43
+msgid "A videos search form for your site."
+msgstr "您网站的视频搜索表单。"
+
+#: blocks/blocks.php:97
+msgid "Search Form Settings"
+msgstr "搜索表单设置"
+
+#: blocks/blocks.php:98 includes/functions.php:639 widgets/forms/search.php:24
+msgid "Vertical"
+msgstr "垂直"
+
+#: blocks/blocks.php:99 includes/functions.php:640 widgets/forms/search.php:25
+msgid "Horizontal"
+msgstr "水平的"
+
+#: blocks/blocks.php:100 includes/functions.php:646 widgets/forms/search.php:37
+msgid "Search By Categories"
+msgstr "按类别搜索"
+
+#: blocks/blocks.php:101 widgets/video.php:46
+msgid "AIOVG - Video Player"
+msgstr "AIOVG  - 播放器"
+
+#: blocks/blocks.php:102 widgets/video.php:43
+msgid "Display a video player."
+msgstr "显示播放器"
+
+#: blocks/blocks.php:103
+msgid "Add MP4, WebM, OGV, YouTube, Vimeo, Dailymotion, Facebook, etc."
+msgstr "添加MP4，WebM，OGV，YouTube，Vimeo，Dailymotion，Facebook等。"
+
+#: blocks/blocks.php:104
+msgid "a video"
+msgstr "一个视频"
+
+#: blocks/blocks.php:105
+msgid "Edit video"
+msgstr "编辑视频"
+
+#: blocks/blocks.php:113
+msgid "Poster Image"
+msgstr "海报图片"
+
+#: blocks/blocks.php:114
+msgid "Select Poster Image"
+msgstr "选择海报页面"
+
+#: blocks/blocks.php:115
+msgid "Replace Image"
+msgstr "更换图片"
+
+#: blocks/blocks.php:116
+msgid "Remove Poster Image"
+msgstr "删除海报图片"
+
+#: includes/functions.php:353
+msgid "Select Categories"
+msgstr "选择类别"
+
+#: includes/functions.php:360
+msgid "Exclude Video ID(s)"
+msgstr "排除视频ID"
+
+#: includes/functions.php:401
+msgid "Featured Only"
+msgstr "仅限精选"
+
+#: includes/functions.php:408
+msgid "Follow URL"
+msgstr "关注网址"
+
+#: includes/functions.php:416
+msgid "Gallery Settings"
+msgstr "视频库设置"
+
+#: includes/functions.php:455
+msgid "Show Category Name"
+msgstr "显示类别名称"
+
+#: includes/functions.php:462
+msgid "Show Date Added"
+msgstr "显示添加日期"
+
+#: includes/functions.php:469
+msgid "Show Author Name"
+msgstr "显示作者姓名"
+
+#: includes/functions.php:476
+msgid "Show Views Count"
+msgstr "显示观看计数"
+
+#: includes/functions.php:483
+msgid "Show Video Duration"
+msgstr "显示视频时长"
+
+#: includes/functions.php:490
+msgid "Show Video Excerpt"
+msgstr "显示视频摘要"
+
+#: includes/functions.php:504
+msgid "Show Pagination"
+msgstr "显示分页"
+
+#: includes/functions.php:511
+msgid "Show More Button"
+msgstr "显示更多按钮"
+
+#: includes/functions.php:518
+msgid "More Button Label"
+msgstr "更多按钮 标签"
+
+#: includes/functions.php:521
+msgid "Show More"
+msgstr "显示更多"
+
+#: includes/functions.php:525
+msgid "More Button Link"
+msgstr "更多按钮链接"
+
+#: includes/functions.php:539 widgets/forms/video.php:20
+msgid "Select Video"
+msgstr "Select Video"
+
+#: includes/functions.php:803
+msgid ""
+"<strong>Please accept cookies to play this video</strong>. By accepting you "
+"will be accessing content from a service provided by an external third party."
+msgstr "<strong>请接受Cookie播放此视频</ strong>。 接受您将访问外部第三方提供的服务中的内容。"
+
+#: includes/functions.php:804
+msgid "Accept"
+msgstr "同意"
+
+#: includes/functions.php:937
+msgid "No Items found."
+msgstr "没有找到"
+
+#: includes/functions.php:1162
+msgid "Self Hosted"
+msgstr "自我托管"
+
+#: includes/functions.php:1162
+msgid "External URL"
+msgstr "外部链接"
+
+#: includes/functions.php:1167
+msgid "Iframe Embed Code"
+msgstr "iframe嵌入代码"
+
+#: includes/functions.php:1181
+msgid "Classic"
+msgstr "经典"
+
+#: includes/functions.php:1311
+msgid "Video Category"
+msgstr "视频类别"
+
+#: includes/functions.php:1315 widgets/search.php:109
+msgid "Search Videos"
+msgstr "搜索视频"
+
+#: includes/functions.php:1319
+msgid "User Videos"
+msgstr "用户视频"
+
+#: includes/functions.php:1323
+msgid "Player Embed"
+msgstr "播放器嵌入"
+
+#: includes/functions.php:1494
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: includes/functions.php:1495
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: includes/functions.php:1510
+#, php-format
+msgid "Page %d of %d"
+msgstr "第%d页 共%d页"
+
+#: includes/functions.php:1565
+msgid "Google+"
+msgstr ""
+
+#: includes/functions.php:1575
+msgid "Pin It"
+msgstr "钉住"
+
+#: premium/admin/adaptive-streaming.php:46
+msgid "Adaptive / Live Streaming"
+msgstr "自适应/直播"
+
+#: premium/admin/admin.php:38
+#, php-format
+msgid "Proudly by \"%s\""
+msgstr ""
+
+#: premium/admin/ads.php:53
+msgid "Ads"
+msgstr "广告"
+
+#: premium/admin/ads.php:69
+msgid "Ads Settings"
+msgstr "广告设置"
+
+#: premium/admin/ads.php:70
+msgid ""
+"Monetize your videos using DoubleClick for Publishers (DFP), the Google "
+"AdSense network, or any VAST-compliant ad server."
+msgstr "使用DFP广告管理系统（DFP），Google AdSense广告网络或任何符合VAST标准的广告服务器通过视频获利。"
+
+#: premium/admin/ads.php:88
+msgid "Enable Ads"
+msgstr "启用广告"
+
+#: premium/admin/ads.php:89
+msgid "Check this option to enable advertisements on your videos"
+msgstr "选中此选项可在您的视频中启用广告"
+
+#: premium/admin/ads.php:95
+msgid "VAST URL"
+msgstr "VAST网址"
+
+#: premium/admin/ads.php:96
+#, php-format
+msgid ""
+"Click here for a list of <a href=\"%s\" target=\"_blank\">Ad Tag "
+"Variables</a> (Macros) supported by the plugin."
+msgstr "点击此处查看插件支持的<a href=\"%s\" target=\"_blank\">广告代码变量</a>（宏）列表。"
+
+#: premium/admin/ads.php:102
+msgid "VPAID Mode"
+msgstr "VPAID 模式"
+
+#: premium/admin/ads.php:106
+msgid "Enabled"
+msgstr "已启用"
+
+#: premium/admin/ads.php:107
+msgid "Insecure"
+msgstr "不安全"
+
+#: premium/admin/ads.php:108
+msgid "Disabled"
+msgstr "已禁用"
+
+#: premium/admin/ads.php:114
+msgid "Livestream Ad Interval"
+msgstr "直播广告时段"
+
+#: premium/admin/ads.php:115
+msgid ""
+"Optional. Seconds after the next advertisement should play in your live "
+"streaming video player."
+msgstr "可选的。 下一个广告后的秒数应该在您的直播视频播放器中播放。"
+
+#: premium/admin/ads.php:122
+msgid "Google Publisher Tag (GPT)"
+msgstr ""
+
+#: premium/admin/ads.php:123
+#, php-format
+msgid ""
+"Optional. Check this option to display companion ads using <a href=\"%s\" "
+"target=\"_blank\">Google Publisher Tag</a>"
+msgstr "可选的。 选中此选项可使用<a href=\"%s\" target=\"_blank\"> Google发布商tag</a>显示随播广告"
+
+#: premium/admin/ads.php:140
+msgid "Video Ads"
+msgstr "视频广告"
+
+#: premium/admin/partials/adaptive-streaming.php:15
+#: premium/admin/partials/adaptive-streaming.php:18
+msgid "M(PEG)-DASH"
+msgstr ""
+
+#: premium/admin/partials/adaptive-streaming.php:20
+msgid "Example: https://www.mysite.com/stream.mpd"
+msgstr ""
+
+#: premium/admin/partials/adaptive-streaming.php:26
+#: premium/admin/partials/adaptive-streaming.php:29
+msgid "HLS"
+msgstr ""
+
+#: premium/admin/partials/adaptive-streaming.php:31
+msgid "Example: https://www.mysite.com/stream.m3u8"
+msgstr ""
+
+#: premium/admin/partials/metabox-ads.php:16
+msgid "Disable Ads"
+msgstr "禁用广告"
+
+#: premium/admin/popup.php:32
+msgid "Popup"
+msgstr "弹窗"
+
+#: premium/admin/slider.php:84
+msgid "Slider"
+msgstr "滑块"
+
+#: premium/admin/slider.php:104 premium/admin/slider.php:237
+msgid "Slider Layout"
+msgstr "滑块布局"
+
+#: premium/admin/slider.php:108 premium/admin/slider.php:241
+msgid "Player Only"
+msgstr "只有播放器"
+
+#: premium/admin/slider.php:109 premium/admin/slider.php:242
+msgid "Thumbnails Only"
+msgstr "只有缩略图"
+
+#: premium/admin/slider.php:110 premium/admin/slider.php:243
+msgid "Player + Thumbnails"
+msgstr "播放器+缩略图"
+
+#: premium/admin/slider.php:122 premium/admin/slider.php:252
+msgid "Arrows"
+msgstr "箭头"
+
+#: premium/admin/slider.php:129 premium/admin/slider.php:259
+msgid "Arrow Size (in pixels)"
+msgstr "箭头大小（单位：像素）"
+
+#: premium/admin/slider.php:139 premium/admin/slider.php:269
+msgid "Arrow BG Color"
+msgstr "箭头背景颜色"
+
+#: premium/admin/slider.php:146 premium/admin/slider.php:276
+msgid "Arrow Icon Color"
+msgstr "箭头图标颜色"
+
+#: premium/admin/slider.php:153 premium/admin/slider.php:283
+msgid "Arrow Radius (in pixels)"
+msgstr "箭头半径（单位：像素）"
+
+#: premium/admin/slider.php:163
+msgid "Arrow Top Offset"
+msgstr "箭头上偏移"
+
+#: premium/admin/slider.php:173
+msgid "Arrow Left Offset"
+msgstr "箭头左偏移"
+
+#: premium/admin/slider.php:183
+msgid "Arrow Right Offset"
+msgstr "箭头右偏移"
+
+#: premium/admin/slider.php:193 premium/admin/slider.php:323
+msgid "Dots"
+msgstr "点"
+
+#: premium/admin/slider.php:200
+msgid "Dot Size (in pixels)"
+msgstr "点的大小（像素）"
+
+#: premium/admin/slider.php:210 premium/admin/slider.php:340
+msgid "Dot Color"
+msgstr "点的颜色"
+
+#: premium/admin/slider.php:293
+msgid "Arrow Top Offset (in percentage)"
+msgstr "箭头上偏移（单位：%）"
+
+#: premium/admin/slider.php:303
+msgid "Arrow Left Offset (in pixels)"
+msgstr "箭头左偏移（单位：像素）"
+
+#: premium/admin/slider.php:313
+msgid "Arrow Right Offset (in pixels)"
+msgstr "箭头右偏移（单位：像素）"
+
+#: premium/admin/slider.php:330
+msgid "Dot Size"
+msgstr "点的大小"
+
+#: premium/public/templates/videos-template-popup.php:18
+#: premium/public/templates/videos-template-slider.php:79
+#: public/templates/videos-template-classic.php:18
+#, php-format
+msgid "%d video(s) found"
+msgstr "找到％d个视频"
+
+#: premium/widgets/companion.php:43
+msgid "AIOVG - Companion Ads"
+msgstr "AIOVG  - 伴随广告"
+
+#: premium/widgets/companion.php:46
+msgid "Display a companion ad."
+msgstr "显示随播广告。"
+
+#: premium/widgets/forms/companion.php:20
+msgid "Height"
+msgstr "高度"
+
+#: premium/widgets/forms/companion.php:25
+msgid "Ad Unit Path"
+msgstr "广告单元路径"
+
+#: premium/widgets/forms/companion.php:29
+#, php-format
+msgid ""
+"Optional. Full path of the ad unit with the network code and unit code. "
+"Required only when you enable the <a href=\"%s\" target=\"_blank\">Google "
+"Publisher Tag (GPT)</a> in the <a href=\"%s\">plugin settings</a>."
+msgstr ""
+"可选的。 广告单元的完整路径，包含网络代码和单元代码。 仅在<a href=\"%s\">插件设置</a>中启用<a href=\"%s\" "
+"target=\"_blank\"> Google发布商代码（GPT）</a>时才需要。"
+
+#: public/categories.php:124
+msgid "Sub Categories"
+msgstr "子类别"
+
+#: public/public.php:544
+#, php-format
+msgid "Showing results for \"%s\""
+msgstr "显示“%s”的结果"
+
+#: public/templates/category-thumbnail.php:34
+#, php-format
+msgid "%d videos"
+msgstr "%d 个视频"
+
+#: public/templates/search-form-template-horizontal.php:27
+#: public/templates/search-form-template-vertical.php:27
+msgid "Select a Category"
+msgstr "选择类别"
+
+#: public/templates/search-form-template-horizontal.php:44
+#: public/templates/search-form-template-vertical.php:44
+msgid "Search"
+msgstr "搜索"
+
+#: public/templates/single-video.php:26
+#, php-format
+msgid "Posted %s ago"
+msgstr "发布于%s之前"
+
+#: public/templates/single-video.php:35
+#: public/templates/video-thumbnail-image-left.php:45
+#: public/templates/video-thumbnail.php:41
+msgid "by"
+msgstr "作者"
+
+#: public/templates/single-video.php:60
+#: public/templates/video-thumbnail-image-left.php:74
+#: public/templates/video-thumbnail.php:70
+#, php-format
+msgid "%d views"
+msgstr "%d 次观看"
+
+#: public/templates/single-video.php:80
+msgid "You may also like"
+msgstr "您可能喜欢"
+
+#: public/templates/video-thumbnail-image-left.php:40
+#: public/templates/video-thumbnail.php:36
+#, php-format
+msgid "%s ago"
+msgstr "%s 以前"
+
+#: public/templates/video-thumbnail-image-left.php:49
+#: public/templates/video-thumbnail.php:45
+msgid "Posted"
+msgstr "已发布"
+
+#: widgets/videos.php:66
+msgid "Display a video gallery."
+msgstr "显示视频库。"
