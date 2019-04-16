@@ -12,9 +12,9 @@ Avada汉化教程：
 
 Updated 4/16/2019
 1.  <a href="https://wordpress.org/plugins/all-in-one-video-gallery"> all-in-one-video-gallery </a> 
-2.  
-3.
-4.
+2. <a href="https://wordpress.org/plugins/user-role-editor/"> user-role-editor </a> 
+3. <a href="https://wordpress.org/plugins/wp-product-review/">  wp-product-review</a> 
+4.  <a href="https://wordpress.org/plugins/yith-woocommerce-compare"> 	yith-woocommerce-compare </a> 
 5.
 6.
 7. 
