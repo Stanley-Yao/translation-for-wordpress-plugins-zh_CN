@@ -11,8 +11,8 @@ Avada汉化教程：
 ## 详细翻译列表
 
 Updated 4/16/2019
-1.  <a hrefs="https://wordpress.org/plugins/all-in-one-video-gallery"> all-in-one-video-gallery </a> 
-2.
+1.  <a href="https://wordpress.org/plugins/all-in-one-video-gallery"> all-in-one-video-gallery </a> 
+2.  
 3.
 4.
 5.
