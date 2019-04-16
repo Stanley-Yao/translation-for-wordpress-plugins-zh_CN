@@ -9,3 +9,12 @@ Avada汉化教程：
 3. 刷新wp dashboard，大功告成。
 
 ## 详细翻译列表
+
+Updated 4/16/2019
+1.  <a hrefs="https://wordpress.org/plugins/all-in-one-video-gallery/">all-in-one-video-gallery </a> 
+2.
+3.
+4.
+5.
+6.
+7. 
