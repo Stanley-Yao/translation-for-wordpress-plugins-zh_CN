@@ -8,6 +8,13 @@ Avada汉化教程：
 2. 将文件夹 <a href="https://github.com/yclive0925/translation-for-wordpress-plugins-zh_CN/tree/master/Avada%20%26%20fusion%205.9%20translation%20zh_CN"> Avada & fusion 5.9 translation zh_CN   </a>中的所有内容copy到你的wordpress文件夹中wp-content/languages/themes （已存在请覆盖）   
 3. 刷新wp dashboard，大功告成。
 
+## 插件翻译文件安装方法
+1. Clone 或下载 此repo
+2. 将翻译文件上传到 /wp-content/languages/plugins/
+3. 刷新wp页面，完成。
+
+## 有其他问题请联系yclive0925@gmail.com
+
 ## 详细翻译列表
 
 Updated 4/16/2019
